@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<QuickBooks>
+  <template templatename="Receipts">
+    <Static>Static</Static>
+    <ItemIncrement>ItemIncrement</ItemIncrement>
+    <PurchaseOrderLineItemRefFullName>Item Name/Number</PurchaseOrderLineItemRefFullName>
+    <PurchaseOrderLineDesc>Item Description</PurchaseOrderLineDesc>
+    <PurchaseOrderLineDesc>PurchaseDesc</PurchaseOrderLineDesc>
+    <RecQty>Quantity</RecQty>
+    <QuantityOnHand>QuantityOnHand</QuantityOnHand>
+    <ReceiptSerialNumber>ReceiptSerialNumber</ReceiptSerialNumber>
+    <RefNumber>PurchaseOrderNumber</RefNumber>
+    <TimeStamp>Current Time</TimeStamp>
+    <DateStamp>Current Date</DateStamp>
+    <BarCodeValue>BarCodeValue</BarCodeValue>
+    <LotNo>LotNo</LotNo>
+    <MPN>MPN</MPN>
+    <Bin>Bin</Bin>
+    <Site>Site</Site>
+    <SubItemOf>SubItemOf</SubItemOf>
+    <TxnDate>Receipt Date</TxnDate>
+    <SalesPrice>SalesPrice</SalesPrice>
+  <AverageCost>AverageCost</AverageCost>
+    <VendorRefFullName>Vendor Name</VendorRefFullName>
+    <PurchaseOrderLineUnitOfMeasure>UOM</PurchaseOrderLineUnitOfMeasure>
+  </template>
+  <CustomItemFields>
+    <Category>Category</Category>
+    <Color>Color</Color>
+    <Material>Material</Material>
+  </CustomItemFields>
+</QuickBooks>

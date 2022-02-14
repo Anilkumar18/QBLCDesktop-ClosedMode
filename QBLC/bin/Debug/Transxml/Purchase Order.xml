@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<QuickBooks>
+  <template templatename="PurchaseOrder">
+    <Static>Static</Static>
+    <ItemIncrement>ItemIncrement</ItemIncrement>
+    <PurchaseOrderLineItemRefFullName>Item Name/Number</PurchaseOrderLineItemRefFullName>
+    <PurchaseOrderLineDesc>Item Description</PurchaseOrderLineDesc>
+    <SalesDesc>SalesDesc</SalesDesc>
+    <PurchaseOrderQty>PurchaseOrderQty</PurchaseOrderQty>
+    <PrintLblQty>PrintLblQty</PrintLblQty>
+    <QtyOnLabel>QtyOnLabel</QtyOnLabel>
+    <TimeStamp>Current Time</TimeStamp>
+    <DateStamp>Current Date</DateStamp>
+    <RefNumber>PurchaseOrderNumber</RefNumber>
+    <ShipAddressAddr1>ShipAddressAddr1</ShipAddressAddr1>
+    <ShipAddressAddr2>ShipAddressAddr2</ShipAddressAddr2>
+    <ShipAddressAddr3>ShipAddressAddr3</ShipAddressAddr3>
+    <ShipAddressAddr4>ShipAddressAddr4</ShipAddressAddr4>
+    <ShipAddressAddrPostalCode>ShipAddressAddrPostalCode</ShipAddressAddrPostalCode>
+    <ShipAddressCity>ShipAddressCity</ShipAddressCity>
+    <ShipAddressCountry>ShipAddressCountry</ShipAddressCountry>
+    <ShipAddressState>ShipAddressState</ShipAddressState>
+    <ShipAddressMethod>ShipAddressMethod</ShipAddressMethod>
+    <BillAddressAddr1>BillAddressAddr1</BillAddressAddr1>
+    <BillAddressAddr2>BillAddressAddr2</BillAddressAddr2>
+    <citystatezip>CityStateZip</citystatezip>
+    <ShipDate>ShipDate</ShipDate>
+    <FOB>FOB</FOB>
+    <Bin>Bin</Bin>
+    <SubItemOf>SubItemOf</SubItemOf>
+    <Other1L>Other1L</Other1L>
+    <Other2L>Other2L</Other2L>
+    <Other1H>Other1</Other1H>
+    <Other2>Other2</Other2>
+    <SalesRepRef>SalesRep</SalesRepRef>
+    <TxnDate>Purchase Order Date</TxnDate>
+    <SalesPrice>SalesPrice</SalesPrice>
+    <BarCodeValue>BarCodeValue</BarCodeValue>
+    <PurchaseOrderLineRate>Rate</PurchaseOrderLineRate>
+    <PurchaseOrderLineAmount>Amount</PurchaseOrderLineAmount>
+    <PurchaseOrderCustomer>PurchaseOrderCustomer</PurchaseOrderCustomer>
+    <POCustomerJob>POCustomerJob</POCustomerJob>
+    <VendorRefFullName>Vendor Name</VendorRefFullName>
+    <MPN>MPN</MPN>
+    <Memo>Memo</Memo>
+    <PurchaseOrderLineUnitOfMeasure>UOM</PurchaseOrderLineUnitOfMeasure>
+  </template>
+  <CustomItemFields>
+    <Category>Category</Category>
+    <Color>Color</Color>
+    <Material>Material</Material>
+  </CustomItemFields>
+</QuickBooks>

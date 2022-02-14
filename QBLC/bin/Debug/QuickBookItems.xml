@@ -1,0 +1,1178 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<QuickBooks>
+  <Item>
+    <itemname>AN spring</itemname>
+    <description>Anchor Spring</description>
+    <salesprice>1</salesprice>
+    <quantityonsalesorder>1</quantityonsalesorder>
+    <quantityonorder>101</quantityonorder>
+    <quantityonhand>1795</quantityonhand>
+    <averagecost>0.5</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>0034-198</mpn>
+    <purchasedesc>Anchor Spring</purchasedesc>
+    <purchasecost>0.5</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Anderson's Hardware &amp; Tools Supply</prefvendorref>
+    <barcodevalue>QB:010335866077</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_STYLE>456</_STYLE>
+      <_COLOR>56456</_COLOR>
+      <_ALU>456456</_ALU>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+      <_ALU2>456</_ALU2>
+      <_CUSTOMER>456456</_CUSTOMER>
+      <_ORDERED>456456</_ORDERED>
+      <_STARTDATE>08/11/2020</_STARTDATE>
+      <_REQUIREDDATE>08/11/2020</_REQUIREDDATE>
+      <_APPROVED>Yes</_APPROVED>
+      <_PULLED>42</_PULLED>
+      <_PULLEDBY>Jonathan Graham</_PULLEDBY>
+      <_COMPLETEDBY>Jonathan Graham</_COMPLETEDBY>
+      <_INSPECTEDBY>Brad Lamb</_INSPECTEDBY>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Anchor-12x1</itemname>
+    <description>Anchor, 12x1 RedCap</description>
+    <salesprice>1</salesprice>
+    <quantityonsalesorder>35</quantityonsalesorder>
+    <quantityonorder>40</quantityonorder>
+    <quantityonhand>785</quantityonhand>
+    <averagecost>0.45</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>203-546-02</mpn>
+    <purchasedesc>Anchor, 12x1 RedCap</purchasedesc>
+    <purchasecost>0.45</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Fran's Fasteners</prefvendorref>
+    <barcodevalue>QB:0103358660106</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>25</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Anchor adhesive</itemname>
+    <description>Adhesive, Anchor</description>
+    <salesprice>20</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>50</quantityonhand>
+    <averagecost>10</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>011-098</mpn>
+    <purchasedesc>Adhesive, Anchor</purchasedesc>
+    <purchasecost>10</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Caylor's Hardware &amp; Adhesives</prefvendorref>
+    <barcodevalue>QB:0103358660120</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Base - BL</itemname>
+    <description>Anchor Base, Black</description>
+    <salesprice>150</salesprice>
+    <quantityonsalesorder>5</quantityonsalesorder>
+    <quantityonorder>5</quantityonorder>
+    <quantityonhand>37</quantityonhand>
+    <averagecost>72.12821</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>111-369</mpn>
+    <purchasedesc>Anchor Base, Black</purchasedesc>
+    <purchasecost>75</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Philip Pump Manufacturing</prefvendorref>
+    <barcodevalue>QB:0103358660140</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>25</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Connectors - UR</itemname>
+    <description>UR- Connectors</description>
+    <salesprice>75</salesprice>
+    <quantityonsalesorder>4</quantityonsalesorder>
+    <quantityonorder>64</quantityonorder>
+    <quantityonhand>464</quantityonhand>
+    <averagecost>35</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>0034-243</mpn>
+    <purchasedesc>UR- Connectors</purchasedesc>
+    <purchasecost>35</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Anderson's Hardware &amp; Tools Supply</prefvendorref>
+    <barcodevalue>QB:010335866092</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Cord - 12G</itemname>
+    <description>Electrical Cord, 12 Gauge</description>
+    <salesprice>90</salesprice>
+    <quantityonsalesorder>6</quantityonsalesorder>
+    <quantityonorder>12</quantityonorder>
+    <quantityonhand>11</quantityonhand>
+    <averagecost>45</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>52-2263</mpn>
+    <purchasedesc>Electrical Cord, 12 Gauge</purchasedesc>
+    <purchasecost>45</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Perry Cutting Company</prefvendorref>
+    <barcodevalue>QB:010335866082</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Drill</itemname>
+    <description>Cordless Drill</description>
+    <salesprice>300</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>2</quantityonorder>
+    <quantityonhand>23</quantityonhand>
+    <averagecost>145.8913</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>0034-121</mpn>
+    <purchasedesc>0034-121
+Cordless Drill</purchasedesc>
+    <purchasecost>145.5</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Anderson's Hardware &amp; Tools Supply</prefvendorref>
+    <barcodevalue>QB:0103358660105</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>5</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Drum - AL</itemname>
+    <description>Drum, 4", Aluminum</description>
+    <salesprice>50</salesprice>
+    <quantityonsalesorder>2</quantityonsalesorder>
+    <quantityonorder>10</quantityonorder>
+    <quantityonhand>688</quantityonhand>
+    <averagecost>21.77716</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>007-036</mpn>
+    <purchasedesc>Drum, 4", Aluminum</purchasedesc>
+    <purchasecost>22</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Caylor's Hardware &amp; Adhesives</prefvendorref>
+    <barcodevalue>QB:010335866099</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Edge - CL</itemname>
+    <description>Leading Edge, Clear</description>
+    <salesprice>10</salesprice>
+    <quantityonsalesorder>12</quantityonsalesorder>
+    <quantityonorder>12</quantityonorder>
+    <quantityonhand>380</quantityonhand>
+    <averagecost>5</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>52-2256</mpn>
+    <purchasedesc>Leading Edge, Clear</purchasedesc>
+    <purchasecost>5</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Perry Cutting Company</prefvendorref>
+    <barcodevalue>QB:0103358660132</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Grommet 4</itemname>
+    <description>Grommet, #4 Brass</description>
+    <salesprice>1</salesprice>
+    <quantityonsalesorder>60</quantityonsalesorder>
+    <quantityonorder>150</quantityonorder>
+    <quantityonhand>1100</quantityonhand>
+    <averagecost>0.5</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>0034-252</mpn>
+    <purchasedesc>Grommet, #4 Brass</purchasedesc>
+    <purchasecost>0.5</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Anderson's Hardware &amp; Tools Supply</prefvendorref>
+    <barcodevalue>QB:010335866078</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Hex tool</itemname>
+    <description>T Style Hex Tool</description>
+    <salesprice>175</salesprice>
+    <quantityonsalesorder>4</quantityonsalesorder>
+    <quantityonorder>13</quantityonorder>
+    <quantityonhand>68</quantityonhand>
+    <averagecost>75</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>111-456</mpn>
+    <purchasedesc>T Style Hex Tool</purchasedesc>
+    <purchasecost>75</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Philip Pump Manufacturing</prefvendorref>
+    <barcodevalue>QB:0103358660139</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Hook</itemname>
+    <description>Retainer Hook, Manual Strap</description>
+    <salesprice>112</salesprice>
+    <quantityonsalesorder>2</quantityonsalesorder>
+    <quantityonorder>2</quantityonorder>
+    <quantityonhand>44</quantityonhand>
+    <averagecost>49.80909</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <purchasedesc>Retainer Hook, Manual Strap</purchasedesc>
+    <purchasecost>49.6</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <barcodevalue>QB:0103358660142</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Hook - SN</itemname>
+    <description>Snap Hook, Manual Strap</description>
+    <salesprice>112</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>125</quantityonhand>
+    <averagecost>49.14719</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>0034-200</mpn>
+    <purchasedesc>Snap Hook, Manual Strap</purchasedesc>
+    <purchasecost>49</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Anderson's Hardware &amp; Tools Supply</prefvendorref>
+    <barcodevalue>QB:010335866097</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>J Box</itemname>
+    <description>Box, 1/2"x4 Single J Box</description>
+    <salesprice>300</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>5</quantityonorder>
+    <quantityonhand>26</quantityonhand>
+    <averagecost>173.07692</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>203-694-05</mpn>
+    <purchasedesc>Box, 1/2"x4 Single J Box</purchasedesc>
+    <purchasecost>175</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Fran's Fasteners</prefvendorref>
+    <barcodevalue>QB:010335866084</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>25</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Motor, deckmount</itemname>
+    <description>Inf Deckmount, R1/2 Baldor Motor</description>
+    <salesprice>550</salesprice>
+    <quantityonsalesorder>1</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>38</quantityonhand>
+    <averagecost>232.85895</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>00ID-BM</mpn>
+    <purchasedesc>Inf Deckmount, R1/2 Baldor Motor</purchasedesc>
+    <purchasecost>222.86</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Lipps Pool Supplies</prefvendorref>
+    <barcodevalue>QB:0103358660126</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pedestal - CTR</itemname>
+    <description>Center Pedestal</description>
+    <salesprice>500</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>3</quantityonhand>
+    <averagecost>250</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <purchasedesc>PED-09-3487
+Center Pedestal</purchasedesc>
+    <purchasecost>250</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Price Pedestal Makers</prefvendorref>
+    <barcodevalue>QB:0103358660100</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>25</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pedestal - DR</itemname>
+    <description>PowerTrak, Drive Pedestal</description>
+    <salesprice>193</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>2</quantityonorder>
+    <quantityonhand>6</quantityonhand>
+    <averagecost>287.45</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <purchasedesc>PowerTrak, Drive Pedestal</purchasedesc>
+    <purchasecost>92.35</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <barcodevalue>QB:0103358660102</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pin - BL</itemname>
+    <description>Anchor Pin, Black</description>
+    <salesprice>50</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>5</quantityonorder>
+    <quantityonhand>36</quantityonhand>
+    <averagecost>24.275</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>0034-236</mpn>
+    <purchasedesc>Anchor Pin, Black</purchasedesc>
+    <purchasecost>25</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Anderson's Hardware &amp; Tools Supply</prefvendorref>
+    <barcodevalue>QB:010335866037</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pool Covers</itemname>
+    <salesprice>0</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>0</quantityonhand>
+    <averagecost>0</averagecost>
+    <purchasecost>0</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <barcodevalue>QB:0103358660118</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Cover -AQ</itemname>
+    <description>Aqua</description>
+    <salesprice>2499.77</salesprice>
+    <quantityonsalesorder>9</quantityonsalesorder>
+    <quantityonorder>3</quantityonorder>
+    <quantityonhand>14</quantityonhand>
+    <averagecost>744.77643</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>00PC-AQ</mpn>
+    <purchasedesc>Pool Cover, Aqua</purchasedesc>
+    <purchasecost>750</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Lipps Pool Supplies</prefvendorref>
+    <barcodevalue>QB:0103358660122</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Cover -DB</itemname>
+    <description>Dark Blue</description>
+    <salesprice>2499.77</salesprice>
+    <quantityonsalesorder>5</quantityonsalesorder>
+    <quantityonorder>23</quantityonorder>
+    <quantityonhand>19</quantityonhand>
+    <averagecost>746.27263</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>00PC-DB</mpn>
+    <purchasedesc>Pool Cover - Dark Blue</purchasedesc>
+    <purchasecost>750</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Lipps Pool Supplies</prefvendorref>
+    <barcodevalue>QB:010335866035</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Cover -FG</itemname>
+    <description>Forest Green</description>
+    <salesprice>2999.77</salesprice>
+    <quantityonsalesorder>8</quantityonsalesorder>
+    <quantityonorder>3</quantityonorder>
+    <quantityonhand>16</quantityonhand>
+    <averagecost>830.04368</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>00PC-FG</mpn>
+    <purchasedesc>Pool Cover, Forest Green</purchasedesc>
+    <purchasecost>850</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Lipps Pool Supplies</prefvendorref>
+    <barcodevalue>QB:010335866074</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>5</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Cover -LB</itemname>
+    <description>Light Blue</description>
+    <salesprice>2499.77</salesprice>
+    <quantityonsalesorder>2</quantityonsalesorder>
+    <quantityonorder>3</quantityonorder>
+    <quantityonhand>33</quantityonhand>
+    <averagecost>744.16629</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>00PC-LB</mpn>
+    <purchasedesc>Pool Cover, Light Blue</purchasedesc>
+    <purchasecost>750</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Lipps Pool Supplies</prefvendorref>
+    <barcodevalue>QB:0103358660121</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>PowerTrak-4x2</itemname>
+    <description>PowerTrak, Tube Castings 4"x2"</description>
+    <salesprice>175</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>10</quantityonhand>
+    <averagecost>95</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <purchasedesc>PowerTrak, Tube Castings 4"x2"</purchasedesc>
+    <purchasecost>90</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <barcodevalue>QB:010335866098</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pulley Br</itemname>
+    <description>Pulley Bracket</description>
+    <salesprice>178.5</salesprice>
+    <quantityonsalesorder>1</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>0</quantityonhand>
+    <averagecost>95</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <purchasedesc>Pulley Bracket</purchasedesc>
+    <purchasecost>93</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <barcodevalue>QB:0103358660127</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pulley End</itemname>
+    <description>Pulley End Casting TT w/pulley</description>
+    <salesprice>20</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>30</quantityonhand>
+    <averagecost>10</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>52-2246</mpn>
+    <purchasedesc>Pulley End Casting TT w/pulley</purchasedesc>
+    <purchasecost>10</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Perry Cutting Company</prefvendorref>
+    <barcodevalue>QB:0103358660133</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pumps</itemname>
+    <salesprice>0</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>0</quantityonhand>
+    <averagecost>0</averagecost>
+    <purchasecost>0</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <barcodevalue>QB:0103358660116</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Pump -1800</itemname>
+    <description>Rule Pump 1800</description>
+    <salesprice>500</salesprice>
+    <quantityonsalesorder>1</quantityonsalesorder>
+    <quantityonorder>2</quantityonorder>
+    <quantityonhand>65</quantityonhand>
+    <averagecost>176.15385</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>111-211</mpn>
+    <purchasedesc>Rule Pump 1800</purchasedesc>
+    <purchasecost>175</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Philip Pump Manufacturing</prefvendorref>
+    <barcodevalue>QB:0103358660128</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pump BP</itemname>
+    <description>Rule Pump, Base Plate</description>
+    <salesprice>85</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>3</quantityonorder>
+    <quantityonhand>46</quantityonhand>
+    <averagecost>51.08696</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>111-298</mpn>
+    <purchasedesc>Rule Pump, Base Plate</purchasedesc>
+    <purchasecost>50</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Philip Pump Manufacturing</prefvendorref>
+    <barcodevalue>QB:0103358660124</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pump HC</itemname>
+    <description>Rule Pump, House Clamps</description>
+    <salesprice>45</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>3</quantityonorder>
+    <quantityonhand>39</quantityonhand>
+    <averagecost>24.11538</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>111-342</mpn>
+    <purchasedesc>Rule Pump, House Clamps</purchasedesc>
+    <purchasecost>25</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Philip Pump Manufacturing</prefvendorref>
+    <barcodevalue>QB:0103358660136</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pump KH</itemname>
+    <description>Pump, Key Hole Panel River</description>
+    <salesprice>75</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>2</quantityonorder>
+    <quantityonhand>153</quantityonhand>
+    <averagecost>35.26144</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>111-543</mpn>
+    <purchasedesc>Rule Pump, Key Hole Panel Rivet</purchasedesc>
+    <purchasecost>35</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Philip Pump Manufacturing</prefvendorref>
+    <barcodevalue>QB:0103358660123</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Reel</itemname>
+    <description>Single Rope Reel</description>
+    <salesprice>550</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>14</quantityonhand>
+    <averagecost>285</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>52-2242</mpn>
+    <purchasedesc>Single Rope Reel</purchasedesc>
+    <purchasecost>285</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Perry Cutting Company</prefvendorref>
+    <barcodevalue>QB:0103358660125</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>RO-1/4in</itemname>
+    <description>Rope w/Core 1/4" - Per Foot</description>
+    <salesprice>1</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>1665</quantityonhand>
+    <averagecost>0.5</averagecost>
+    <unitofmeasuresetref>Foot</unitofmeasuresetref>
+    <mpn>0034-100</mpn>
+    <purchasedesc>Rope w/Core 1/4" - Per Foot</purchasedesc>
+    <purchasecost>0.5</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Anderson's Hardware &amp; Tools Supply</prefvendorref>
+    <barcodevalue>QB:0103358660108</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Roller -4</itemname>
+    <description>Rocky Roller #4</description>
+    <salesprice>20</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>40</quantityonorder>
+    <quantityonhand>66</quantityonhand>
+    <averagecost>10</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>0034-210</mpn>
+    <purchasedesc>0034-210
+Rocky Roller #4
+</purchasedesc>
+    <purchasecost>10</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Anderson's Hardware &amp; Tools Supply</prefvendorref>
+    <barcodevalue>QB:0103358660104</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Rope</itemname>
+    <description>Rope</description>
+    <salesprice>1</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>1250</quantityonhand>
+    <averagecost>0.5</averagecost>
+    <unitofmeasuresetref>Foot</unitofmeasuresetref>
+    <mpn>203-701-01</mpn>
+    <purchasedesc>Rope</purchasedesc>
+    <purchasecost>0.5</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Fran's Fasteners</prefvendorref>
+    <barcodevalue>QB:0103358660107</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Screws</itemname>
+    <salesprice>0</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>0</quantityonhand>
+    <averagecost>0</averagecost>
+    <purchasecost>0</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <barcodevalue>QB:0103358660115</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>SC-10x.5-SS</itemname>
+    <description>Screw, 10x1/2 phil pan SS</description>
+    <salesprice>22.5</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>842</quantityonhand>
+    <averagecost>7.33789</averagecost>
+    <unitofmeasuresetref>Box of 100</unitofmeasuresetref>
+    <mpn>0034-156</mpn>
+    <purchasedesc>Screw, 10x1/2 phil pan SS</purchasedesc>
+    <purchasecost>9.75</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Anderson's Hardware &amp; Tools Supply</prefvendorref>
+    <barcodevalue>QB:010335866090</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>SC-12</itemname>
+    <description>Screw, #12 Drill Flex HWH #3 Tek</description>
+    <salesprice>25.75</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>5</quantityonorder>
+    <quantityonhand>295</quantityonhand>
+    <averagecost>11</averagecost>
+    <unitofmeasuresetref>Box of 100</unitofmeasuresetref>
+    <mpn>203-252-02</mpn>
+    <purchasedesc>Screw, #12 Drill Flex HWH #3 Tek</purchasedesc>
+    <purchasecost>11</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Fran's Fasteners</prefvendorref>
+    <barcodevalue>QB:0103358660101</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>SC-12x1.75-SS</itemname>
+    <description>Screw, Track 12x1 3/4" Oval SS</description>
+    <salesprice>15</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>725</quantityonhand>
+    <averagecost>4.30483</averagecost>
+    <unitofmeasuresetref>Box of 100</unitofmeasuresetref>
+    <mpn>203-689-02</mpn>
+    <purchasedesc>Screw, Track 12x1 3/4" Oval SS</purchasedesc>
+    <purchasecost>5</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Fran's Fasteners</prefvendorref>
+    <barcodevalue>QB:010335866094</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>SC-12x3in-SS</itemname>
+    <description>Screw, Track #12x3" POH SS</description>
+    <salesprice>2.5</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>25</quantityonorder>
+    <quantityonhand>251</quantityonhand>
+    <averagecost>1.25</averagecost>
+    <unitofmeasuresetref>Box of 100 (inactive)</unitofmeasuresetref>
+    <mpn>203-562-01</mpn>
+    <purchasedesc>Screw, Track #12x3" POH SS</purchasedesc>
+    <purchasecost>1.25</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Fran's Fasteners</prefvendorref>
+    <barcodevalue>QB:010335866076</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Spring</itemname>
+    <description>Spring</description>
+    <salesprice>3</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>200</quantityonorder>
+    <quantityonhand>294</quantityonhand>
+    <averagecost>0.5</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>0034-113</mpn>
+    <purchasedesc>Spring</purchasedesc>
+    <purchasecost>0.5</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Anderson's Hardware &amp; Tools Supply</prefvendorref>
+    <barcodevalue>QB:0103358660134</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Stickers</itemname>
+    <description>Motor Stickers</description>
+    <salesprice>50</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>11</quantityonhand>
+    <averagecost>20</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <purchasedesc>ST-89078-34
+Motor Stickers</purchasedesc>
+    <purchasecost>20</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Vin's Diner</prefvendorref>
+    <barcodevalue>QB:010335866089</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Strain R-1/2</itemname>
+    <description>Strain Relief, 1/2" lg</description>
+    <salesprice>90</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>16</quantityonhand>
+    <averagecost>45</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>52-2298</mpn>
+    <purchasedesc>52-2298
+Strain Relief, 1/2" lg</purchasedesc>
+    <purchasecost>45</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Perry Cutting Company</prefvendorref>
+    <barcodevalue>QB:0103358660137</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Track -CL</itemname>
+    <description>Track Top Clear</description>
+    <salesprice>130</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>29</quantityonhand>
+    <averagecost>65</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>00TC-TC</mpn>
+    <purchasedesc>Track Top Clear</purchasedesc>
+    <purchasecost>65</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Lipps Pool Supplies</prefvendorref>
+    <barcodevalue>QB:0103358660114</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Track -GU</itemname>
+    <description>Track Guides, TT (Pair)</description>
+    <salesprice>100</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>99</quantityonhand>
+    <averagecost>43.33333</averagecost>
+    <unitofmeasuresetref>Box to pair</unitofmeasuresetref>
+    <mpn>52-2236</mpn>
+    <purchasedesc>Track Guides, TT (Pair)</purchasedesc>
+    <purchasecost>50</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Perry Cutting Company</prefvendorref>
+    <barcodevalue>QB:0103358660129</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Unit - RC-1/2HP</itemname>
+    <description>Inf Recessed Unit 1/2 HP Baldor</description>
+    <salesprice>1650</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>26</quantityonhand>
+    <averagecost>795.53846</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>00IR-HB</mpn>
+    <purchasedesc>Inf Recessed Unit 1/2 HP Baldor</purchasedesc>
+    <purchasecost>790</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Lipps Pool Supplies</prefvendorref>
+    <barcodevalue>QB:0103358660130</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>5</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Washer - RU</itemname>
+    <description>Washer, Rubber</description>
+    <salesprice>6</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>1218</quantityonhand>
+    <averagecost>3</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <mpn>013-052</mpn>
+    <purchasedesc>Washer, Rubber</purchasedesc>
+    <purchasecost>3</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Caylor's Hardware &amp; Adhesives</prefvendorref>
+    <barcodevalue>QB:010335866036</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Wheel Assy</itemname>
+    <description>Wheel Assembly</description>
+    <salesprice>30</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>20</quantityonhand>
+    <averagecost>15</averagecost>
+    <unitofmeasuresetref>Box to pair</unitofmeasuresetref>
+    <mpn>52-2252</mpn>
+    <purchasedesc>Wheel Assembly</purchasedesc>
+    <purchasecost>15</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Perry Cutting Company</prefvendorref>
+    <barcodevalue>QB:010335866042</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Wirenuts -OR</itemname>
+    <description>Wire Nuts, Orange</description>
+    <salesprice>6.5</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>25</quantityonorder>
+    <quantityonhand>166</quantityonhand>
+    <averagecost>3.34295</averagecost>
+    <unitofmeasuresetref>Package to each</unitofmeasuresetref>
+    <mpn>024-059</mpn>
+    <purchasedesc>Wire Nuts, Orange</purchasedesc>
+    <purchasecost>3</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Caylor's Hardware &amp; Adhesives</prefvendorref>
+    <barcodevalue>QB:010335866079</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Wirenuts -YE</itemname>
+    <description>Wire Nuts, Yellow</description>
+    <salesprice>7.8</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>75</quantityonorder>
+    <quantityonhand>206</quantityonhand>
+    <averagecost>3.76985</averagecost>
+    <unitofmeasuresetref>Package to each</unitofmeasuresetref>
+    <mpn>024-058</mpn>
+    <purchasedesc>Wire Nuts, Yellow</purchasedesc>
+    <purchasecost>3.8</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <prefvendorref>Caylor's Hardware &amp; Adhesives</prefvendorref>
+    <barcodevalue>QB:010335866080</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Materials Inventory</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>1000-MC</itemname>
+    <description>MANUAL COVER 1000</description>
+    <salesprice>3000</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>-22</quantityonhand>
+    <averagecost>1656</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <purchasedesc>MANUAL COVER 1000</purchasedesc>
+    <purchasecost>2408.65</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <barcodevalue>QB:0103358660131</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Finished Goods Inventory</assetaccountref>
+    <itemtype>Inventory Assembly</itemtype>
+  </Item>
+  <Item>
+    <itemname>1500-PM</itemname>
+    <description>POWER MANUAL 1500</description>
+    <salesprice>4250</salesprice>
+    <quantityonsalesorder>16</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>-15</quantityonhand>
+    <averagecost>1713.25</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <purchasecost>3411</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <barcodevalue>QB:0103358660135</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Finished Goods Inventory</assetaccountref>
+    <itemtype>Inventory Assembly</itemtype>
+  </Item>
+  <Item>
+    <itemname>2000-PT</itemname>
+    <description>POWERTRAK-2000</description>
+    <salesprice>6000</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>-5</quantityonhand>
+    <averagecost>2076.51</averagecost>
+    <unitofmeasuresetref>Each</unitofmeasuresetref>
+    <purchasedesc>Reduced Labor from 2 to 1 (Qty)</purchasedesc>
+    <purchasecost>3957.01</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <barcodevalue>QB:0103358660138</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Finished Goods Inventory</assetaccountref>
+    <itemtype>Inventory Assembly</itemtype>
+  </Item>
+  <Item>
+    <itemname>3000-UL</itemname>
+    <description>ULTIMATE 3000</description>
+    <salesprice>7500</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>-2</quantityonhand>
+    <averagecost>3038.65</averagecost>
+    <purchasedesc>ULTIMATE 3000</purchasedesc>
+    <purchasecost>4774.65</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <barcodevalue>QB:010335866034</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Finished Goods Inventory</assetaccountref>
+    <itemtype>Inventory Assembly</itemtype>
+  </Item>
+  <Item>
+    <itemname>Custom Work</itemname>
+    <description>Custom Work</description>
+    <salesprice>0</salesprice>
+    <unitofmeasuresetref>Hour</unitofmeasuresetref>
+    <purchasedesc>Custom Work</purchasedesc>
+    <purchasecost>0</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Grease</itemname>
+    <description>Grease per build</description>
+    <salesprice>0</salesprice>
+    <unitofmeasuresetref>Weight by the ounce</unitofmeasuresetref>
+    <purchasedesc>Bucket
+$20 per bucket $20/80= 0.25 per build</purchasedesc>
+    <purchasecost>0.25</purchasecost>
+    <incomeaccountref>Pool Cover &amp; Equipment Sales</incomeaccountref>
+    <itemtype>Non-Inventory Part</itemtype>
+    <CustomItem>
+      <_STYLE>Back room</_STYLE>
+    </CustomItem>
+  </Item>
+</QuickBooks>

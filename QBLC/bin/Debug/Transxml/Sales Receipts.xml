@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<QuickBooks>
+  <template templatename="SalesReceipts">
+    <Static>Static</Static>
+    <ItemIncrement>ItemIncrement</ItemIncrement>
+    <SalesReceiptLineItemRefFullName>Item Name/Number</SalesReceiptLineItemRefFullName>
+    <SalesReceiptLineDesc>Description</SalesReceiptLineDesc>
+    <CustomerRefFullName>Customer Name</CustomerRefFullName>
+    <Phone>Customer Phone</Phone>
+    <SalesReceiptLineUnitOfMeasure>UOM</SalesReceiptLineUnitOfMeasure>
+    <SalesReceiptLineRate>Rate</SalesReceiptLineRate>
+    <SalesReceiptQty>SalesReceiptQty</SalesReceiptQty>
+    <PrintLblQty>PrintLblQty</PrintLblQty>
+    <QtyOnLabel>QtyOnLabel</QtyOnLabel>
+    <TimeStamp>Current Time</TimeStamp>
+    <DateStamp>Current Date</DateStamp>
+    <LotNumber>LotNumber</LotNumber>
+    <Bin>Bin</Bin>
+    <Memo>Memo</Memo>
+    <SalesPrice>SalesPrice</SalesPrice>
+    <Amount>Amount</Amount>
+    <Cost>Cost</Cost>
+    <Note>Note</Note>
+    <BarCodeValue>BarcodeValue</BarCodeValue>
+    <entryone>entryone</entryone>
+    <entrytwo>entrytwo</entrytwo>
+    <MarkUpPrice>MarkUpPrice</MarkUpPrice>
+    <RefNumber>SalesReceiptNumber</RefNumber>
+    <ShipAddressAddr1>ShipAddressAddr1</ShipAddressAddr1>
+    <ShipAddressAddr2>ShipAddressAddr2</ShipAddressAddr2>
+    <ShipAddressAddr3>ShipAddressAddr3</ShipAddressAddr3>
+    <ShipAddressAddr4>ShipAddressAddr4</ShipAddressAddr4>
+    <ShipAddressAddr5>ShipAddressAddr5</ShipAddressAddr5>
+    <ShipAddressAddrPostalCode>ShipAddressAddrPostalCode</ShipAddressAddrPostalCode>
+    <ShipAddressCity>ShipAddressCity</ShipAddressCity>
+    <ShipAddressState>ShipAddressState</ShipAddressState>
+    <ShipAddressCountry>ShipAddressCountry</ShipAddressCountry>
+    <ShipAddressMethod>ShipAddressMethod</ShipAddressMethod>
+    <BillAddressAddr1>BillAddressAddr1</BillAddressAddr1>
+    <BillAddressAddr2>BillAddressAddr2</BillAddressAddr2>
+    <citystatezip>CityStateZip</citystatezip>
+    <Class>Class</Class>
+    <FOB>FOB</FOB>
+    <CheckNumber>CheckNumber</CheckNumber>
+    <Other>Other</Other>
+    <Other1L>Other1L</Other1L>
+    <Other2L>Other2L</Other2L>
+    <SalesReceiptCustomer>SalesReceiptCustomer</SalesReceiptCustomer>
+    <DueDate>DueDate</DueDate>
+    <SalesRepRef>SalesRepRef</SalesRepRef>
+    <TxnDate>Sales Receipt Date</TxnDate>
+    <MPN>MPN</MPN>
+    <ShipDate>ShipDate</ShipDate>
+  </template>
+  <CustomItemFields>
+    <Category>Category</Category>
+    <Color>Color</Color>
+    <Material>Material</Material>
+  </CustomItemFields>
+</QuickBooks>

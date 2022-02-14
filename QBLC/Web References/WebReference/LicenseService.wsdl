@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GenerateOTPcode">
+        <s:complexType />
+      </s:element>
+      <s:element name="GenerateOTPcodeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GenerateOTPcodeResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCustomersDetails">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EmailId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Product" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="loop" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCustomersDetailsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCustomersDetailsResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCustomerDetails">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EmailId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Product" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCustomerDetailsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateCustomerDetailsResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateLogOutDetails">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EmailId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Product" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateLogOutDetailsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateLogOutDetailsResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSessionState">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EmailId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Product" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSessionStateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetSessionStateResult" type="tns:clsGetCustomersDetails" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsGetCustomersDetails">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Email" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Status" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="ExpiryDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="License" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Product" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Session" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="SessionDate" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="SessionReference" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="reference" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="UpdateSessionReferenceDetail">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EmailId" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="ReferenceNumber" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="Product" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateSessionReferenceDetailResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateSessionReferenceDetailResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getOtpfromMail">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EmailId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Product" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getOtpfromMailResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getOtpfromMailResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateLogDetail">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EmailId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Product" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="status" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ProcessorId" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateLogDetailResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateLogDetailResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCustomersUpgradeDetails">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EmailId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Product" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCustomersUpgradeDetailsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCustomersUpgradeDetailsResult" type="tns:clsCustomerUpgradeVersion" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsCustomerUpgradeVersion">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Email" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UpgradeVersion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DownloadLink" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CurrentVersion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Reference" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Status" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LastLoginDate" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="UpdateCustomersVersionUpgrade">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EmailId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CurrentVersion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Product" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="loop" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCustomersVersionUpgradeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateCustomersVersionUpgradeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCustomerspasswordData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EmailId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Product" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCustomerspasswordDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCustomerspasswordDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="int" type="s:int" />
+      <s:element name="string" nillable="true" type="s:string" />
+      <s:element name="clsGetCustomersDetails" nillable="true" type="tns:clsGetCustomersDetails" />
+      <s:element name="clsCustomerUpgradeVersion" nillable="true" type="tns:clsCustomerUpgradeVersion" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GenerateOTPcodeSoapIn">
+    <wsdl:part name="parameters" element="tns:GenerateOTPcode" />
+  </wsdl:message>
+  <wsdl:message name="GenerateOTPcodeSoapOut">
+    <wsdl:part name="parameters" element="tns:GenerateOTPcodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomersDetailsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCustomersDetails" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomersDetailsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCustomersDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomerDetailsSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateCustomerDetails" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomerDetailsSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateCustomerDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateLogOutDetailsSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateLogOutDetails" />
+  </wsdl:message>
+  <wsdl:message name="UpdateLogOutDetailsSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateLogOutDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetSessionStateSoapIn">
+    <wsdl:part name="parameters" element="tns:GetSessionState" />
+  </wsdl:message>
+  <wsdl:message name="GetSessionStateSoapOut">
+    <wsdl:part name="parameters" element="tns:GetSessionStateResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateSessionReferenceDetailSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateSessionReferenceDetail" />
+  </wsdl:message>
+  <wsdl:message name="UpdateSessionReferenceDetailSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateSessionReferenceDetailResponse" />
+  </wsdl:message>
+  <wsdl:message name="getOtpfromMailSoapIn">
+    <wsdl:part name="parameters" element="tns:getOtpfromMail" />
+  </wsdl:message>
+  <wsdl:message name="getOtpfromMailSoapOut">
+    <wsdl:part name="parameters" element="tns:getOtpfromMailResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateLogDetailSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateLogDetail" />
+  </wsdl:message>
+  <wsdl:message name="UpdateLogDetailSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateLogDetailResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomersUpgradeDetailsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCustomersUpgradeDetails" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomersUpgradeDetailsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCustomersUpgradeDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomersVersionUpgradeSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateCustomersVersionUpgrade" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomersVersionUpgradeSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateCustomersVersionUpgradeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomerspasswordDataSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCustomerspasswordData" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomerspasswordDataSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCustomerspasswordDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="GenerateOTPcodeHttpGetIn" />
+  <wsdl:message name="GenerateOTPcodeHttpGetOut">
+    <wsdl:part name="Body" element="tns:int" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomersDetailsHttpGetIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+    <wsdl:part name="loop" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomersDetailsHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomerDetailsHttpGetIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomerDetailsHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateLogOutDetailsHttpGetIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateLogOutDetailsHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="GetSessionStateHttpGetIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetSessionStateHttpGetOut">
+    <wsdl:part name="Body" element="tns:clsGetCustomersDetails" />
+  </wsdl:message>
+  <wsdl:message name="UpdateSessionReferenceDetailHttpGetIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="ReferenceNumber" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateSessionReferenceDetailHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="getOtpfromMailHttpGetIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="getOtpfromMailHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateLogDetailHttpGetIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+    <wsdl:part name="status" type="s:string" />
+    <wsdl:part name="ProcessorId" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateLogDetailHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomersUpgradeDetailsHttpGetIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomersUpgradeDetailsHttpGetOut">
+    <wsdl:part name="Body" element="tns:clsCustomerUpgradeVersion" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomersVersionUpgradeHttpGetIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="CurrentVersion" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+    <wsdl:part name="loop" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomersVersionUpgradeHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomerspasswordDataHttpGetIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomerspasswordDataHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="GenerateOTPcodeHttpPostIn" />
+  <wsdl:message name="GenerateOTPcodeHttpPostOut">
+    <wsdl:part name="Body" element="tns:int" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomersDetailsHttpPostIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+    <wsdl:part name="loop" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomersDetailsHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomerDetailsHttpPostIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomerDetailsHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateLogOutDetailsHttpPostIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateLogOutDetailsHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="GetSessionStateHttpPostIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetSessionStateHttpPostOut">
+    <wsdl:part name="Body" element="tns:clsGetCustomersDetails" />
+  </wsdl:message>
+  <wsdl:message name="UpdateSessionReferenceDetailHttpPostIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="ReferenceNumber" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateSessionReferenceDetailHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="getOtpfromMailHttpPostIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="getOtpfromMailHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateLogDetailHttpPostIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+    <wsdl:part name="status" type="s:string" />
+    <wsdl:part name="ProcessorId" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateLogDetailHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomersUpgradeDetailsHttpPostIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomersUpgradeDetailsHttpPostOut">
+    <wsdl:part name="Body" element="tns:clsCustomerUpgradeVersion" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomersVersionUpgradeHttpPostIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="CurrentVersion" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+    <wsdl:part name="loop" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomersVersionUpgradeHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomerspasswordDataHttpPostIn">
+    <wsdl:part name="EmailId" type="s:string" />
+    <wsdl:part name="Product" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomerspasswordDataHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:portType name="LicenseServiceSoap">
+    <wsdl:operation name="GenerateOTPcode">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Generate OTP code</wsdl:documentation>
+      <wsdl:input message="tns:GenerateOTPcodeSoapIn" />
+      <wsdl:output message="tns:GenerateOTPcodeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersDetails">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Customer Details </wsdl:documentation>
+      <wsdl:input message="tns:GetCustomersDetailsSoapIn" />
+      <wsdl:output message="tns:GetCustomersDetailsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomerDetails">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update the Customer password Details</wsdl:documentation>
+      <wsdl:input message="tns:UpdateCustomerDetailsSoapIn" />
+      <wsdl:output message="tns:UpdateCustomerDetailsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogOutDetails">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update the Session Logout Details</wsdl:documentation>
+      <wsdl:input message="tns:UpdateLogOutDetailsSoapIn" />
+      <wsdl:output message="tns:UpdateLogOutDetailsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSessionState">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Customer Session Details</wsdl:documentation>
+      <wsdl:input message="tns:GetSessionStateSoapIn" />
+      <wsdl:output message="tns:GetSessionStateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateSessionReferenceDetail">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update the Session Reference Details</wsdl:documentation>
+      <wsdl:input message="tns:UpdateSessionReferenceDetailSoapIn" />
+      <wsdl:output message="tns:UpdateSessionReferenceDetailSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getOtpfromMail">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get OTP from mail</wsdl:documentation>
+      <wsdl:input message="tns:getOtpfromMailSoapIn" />
+      <wsdl:output message="tns:getOtpfromMailSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogDetail">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update the LogNotes</wsdl:documentation>
+      <wsdl:input message="tns:UpdateLogDetailSoapIn" />
+      <wsdl:output message="tns:UpdateLogDetailSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersUpgradeDetails">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Customer Upgrade Details</wsdl:documentation>
+      <wsdl:input message="tns:GetCustomersUpgradeDetailsSoapIn" />
+      <wsdl:output message="tns:GetCustomersUpgradeDetailsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomersVersionUpgrade">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update Customer Version Upgrade Details </wsdl:documentation>
+      <wsdl:input message="tns:UpdateCustomersVersionUpgradeSoapIn" />
+      <wsdl:output message="tns:UpdateCustomersVersionUpgradeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomerspasswordData">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Customer's forget password Details </wsdl:documentation>
+      <wsdl:input message="tns:GetCustomerspasswordDataSoapIn" />
+      <wsdl:output message="tns:GetCustomerspasswordDataSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="LicenseServiceHttpGet">
+    <wsdl:operation name="GenerateOTPcode">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Generate OTP code</wsdl:documentation>
+      <wsdl:input message="tns:GenerateOTPcodeHttpGetIn" />
+      <wsdl:output message="tns:GenerateOTPcodeHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersDetails">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Customer Details </wsdl:documentation>
+      <wsdl:input message="tns:GetCustomersDetailsHttpGetIn" />
+      <wsdl:output message="tns:GetCustomersDetailsHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomerDetails">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update the Customer password Details</wsdl:documentation>
+      <wsdl:input message="tns:UpdateCustomerDetailsHttpGetIn" />
+      <wsdl:output message="tns:UpdateCustomerDetailsHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogOutDetails">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update the Session Logout Details</wsdl:documentation>
+      <wsdl:input message="tns:UpdateLogOutDetailsHttpGetIn" />
+      <wsdl:output message="tns:UpdateLogOutDetailsHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSessionState">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Customer Session Details</wsdl:documentation>
+      <wsdl:input message="tns:GetSessionStateHttpGetIn" />
+      <wsdl:output message="tns:GetSessionStateHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateSessionReferenceDetail">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update the Session Reference Details</wsdl:documentation>
+      <wsdl:input message="tns:UpdateSessionReferenceDetailHttpGetIn" />
+      <wsdl:output message="tns:UpdateSessionReferenceDetailHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getOtpfromMail">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get OTP from mail</wsdl:documentation>
+      <wsdl:input message="tns:getOtpfromMailHttpGetIn" />
+      <wsdl:output message="tns:getOtpfromMailHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogDetail">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update the LogNotes</wsdl:documentation>
+      <wsdl:input message="tns:UpdateLogDetailHttpGetIn" />
+      <wsdl:output message="tns:UpdateLogDetailHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersUpgradeDetails">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Customer Upgrade Details</wsdl:documentation>
+      <wsdl:input message="tns:GetCustomersUpgradeDetailsHttpGetIn" />
+      <wsdl:output message="tns:GetCustomersUpgradeDetailsHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomersVersionUpgrade">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update Customer Version Upgrade Details </wsdl:documentation>
+      <wsdl:input message="tns:UpdateCustomersVersionUpgradeHttpGetIn" />
+      <wsdl:output message="tns:UpdateCustomersVersionUpgradeHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomerspasswordData">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Customer's forget password Details </wsdl:documentation>
+      <wsdl:input message="tns:GetCustomerspasswordDataHttpGetIn" />
+      <wsdl:output message="tns:GetCustomerspasswordDataHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="LicenseServiceHttpPost">
+    <wsdl:operation name="GenerateOTPcode">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Generate OTP code</wsdl:documentation>
+      <wsdl:input message="tns:GenerateOTPcodeHttpPostIn" />
+      <wsdl:output message="tns:GenerateOTPcodeHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersDetails">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Customer Details </wsdl:documentation>
+      <wsdl:input message="tns:GetCustomersDetailsHttpPostIn" />
+      <wsdl:output message="tns:GetCustomersDetailsHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomerDetails">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update the Customer password Details</wsdl:documentation>
+      <wsdl:input message="tns:UpdateCustomerDetailsHttpPostIn" />
+      <wsdl:output message="tns:UpdateCustomerDetailsHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogOutDetails">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update the Session Logout Details</wsdl:documentation>
+      <wsdl:input message="tns:UpdateLogOutDetailsHttpPostIn" />
+      <wsdl:output message="tns:UpdateLogOutDetailsHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSessionState">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Customer Session Details</wsdl:documentation>
+      <wsdl:input message="tns:GetSessionStateHttpPostIn" />
+      <wsdl:output message="tns:GetSessionStateHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateSessionReferenceDetail">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update the Session Reference Details</wsdl:documentation>
+      <wsdl:input message="tns:UpdateSessionReferenceDetailHttpPostIn" />
+      <wsdl:output message="tns:UpdateSessionReferenceDetailHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getOtpfromMail">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get OTP from mail</wsdl:documentation>
+      <wsdl:input message="tns:getOtpfromMailHttpPostIn" />
+      <wsdl:output message="tns:getOtpfromMailHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogDetail">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update the LogNotes</wsdl:documentation>
+      <wsdl:input message="tns:UpdateLogDetailHttpPostIn" />
+      <wsdl:output message="tns:UpdateLogDetailHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersUpgradeDetails">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Customer Upgrade Details</wsdl:documentation>
+      <wsdl:input message="tns:GetCustomersUpgradeDetailsHttpPostIn" />
+      <wsdl:output message="tns:GetCustomersUpgradeDetailsHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomersVersionUpgrade">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update Customer Version Upgrade Details </wsdl:documentation>
+      <wsdl:input message="tns:UpdateCustomersVersionUpgradeHttpPostIn" />
+      <wsdl:output message="tns:UpdateCustomersVersionUpgradeHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomerspasswordData">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Customer's forget password Details </wsdl:documentation>
+      <wsdl:input message="tns:GetCustomerspasswordDataHttpPostIn" />
+      <wsdl:output message="tns:GetCustomerspasswordDataHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="LicenseServiceSoap" type="tns:LicenseServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GenerateOTPcode">
+      <soap:operation soapAction="http://tempuri.org/GenerateOTPcode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersDetails">
+      <soap:operation soapAction="http://tempuri.org/GetCustomersDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomerDetails">
+      <soap:operation soapAction="http://tempuri.org/UpdateCustomerDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogOutDetails">
+      <soap:operation soapAction="http://tempuri.org/UpdateLogOutDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSessionState">
+      <soap:operation soapAction="http://tempuri.org/GetSessionState" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateSessionReferenceDetail">
+      <soap:operation soapAction="http://tempuri.org/UpdateSessionReferenceDetail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOtpfromMail">
+      <soap:operation soapAction="http://tempuri.org/getOtpfromMail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogDetail">
+      <soap:operation soapAction="http://tempuri.org/UpdateLogDetail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersUpgradeDetails">
+      <soap:operation soapAction="http://tempuri.org/GetCustomersUpgradeDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomersVersionUpgrade">
+      <soap:operation soapAction="http://tempuri.org/UpdateCustomersVersionUpgrade" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomerspasswordData">
+      <soap:operation soapAction="http://tempuri.org/GetCustomerspasswordData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="LicenseServiceSoap12" type="tns:LicenseServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GenerateOTPcode">
+      <soap12:operation soapAction="http://tempuri.org/GenerateOTPcode" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersDetails">
+      <soap12:operation soapAction="http://tempuri.org/GetCustomersDetails" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomerDetails">
+      <soap12:operation soapAction="http://tempuri.org/UpdateCustomerDetails" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogOutDetails">
+      <soap12:operation soapAction="http://tempuri.org/UpdateLogOutDetails" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSessionState">
+      <soap12:operation soapAction="http://tempuri.org/GetSessionState" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateSessionReferenceDetail">
+      <soap12:operation soapAction="http://tempuri.org/UpdateSessionReferenceDetail" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOtpfromMail">
+      <soap12:operation soapAction="http://tempuri.org/getOtpfromMail" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogDetail">
+      <soap12:operation soapAction="http://tempuri.org/UpdateLogDetail" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersUpgradeDetails">
+      <soap12:operation soapAction="http://tempuri.org/GetCustomersUpgradeDetails" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomersVersionUpgrade">
+      <soap12:operation soapAction="http://tempuri.org/UpdateCustomersVersionUpgrade" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomerspasswordData">
+      <soap12:operation soapAction="http://tempuri.org/GetCustomerspasswordData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="LicenseServiceHttpGet" type="tns:LicenseServiceHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="GenerateOTPcode">
+      <http:operation location="/GenerateOTPcode" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersDetails">
+      <http:operation location="/GetCustomersDetails" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomerDetails">
+      <http:operation location="/UpdateCustomerDetails" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogOutDetails">
+      <http:operation location="/UpdateLogOutDetails" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSessionState">
+      <http:operation location="/GetSessionState" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateSessionReferenceDetail">
+      <http:operation location="/UpdateSessionReferenceDetail" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOtpfromMail">
+      <http:operation location="/getOtpfromMail" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogDetail">
+      <http:operation location="/UpdateLogDetail" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersUpgradeDetails">
+      <http:operation location="/GetCustomersUpgradeDetails" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomersVersionUpgrade">
+      <http:operation location="/UpdateCustomersVersionUpgrade" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomerspasswordData">
+      <http:operation location="/GetCustomerspasswordData" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="LicenseServiceHttpPost" type="tns:LicenseServiceHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="GenerateOTPcode">
+      <http:operation location="/GenerateOTPcode" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersDetails">
+      <http:operation location="/GetCustomersDetails" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomerDetails">
+      <http:operation location="/UpdateCustomerDetails" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogOutDetails">
+      <http:operation location="/UpdateLogOutDetails" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSessionState">
+      <http:operation location="/GetSessionState" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateSessionReferenceDetail">
+      <http:operation location="/UpdateSessionReferenceDetail" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOtpfromMail">
+      <http:operation location="/getOtpfromMail" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateLogDetail">
+      <http:operation location="/UpdateLogDetail" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersUpgradeDetails">
+      <http:operation location="/GetCustomersUpgradeDetails" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomersVersionUpgrade">
+      <http:operation location="/UpdateCustomersVersionUpgrade" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomerspasswordData">
+      <http:operation location="/GetCustomerspasswordData" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="LicenseService">
+    <wsdl:port name="LicenseServiceSoap" binding="tns:LicenseServiceSoap">
+      <soap:address location="http://www.myproactivesoftware.com/AIT/Live/LicenseService/387/LicenseService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="LicenseServiceSoap12" binding="tns:LicenseServiceSoap12">
+      <soap12:address location="http://www.myproactivesoftware.com/AIT/Live/LicenseService/387/LicenseService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="LicenseServiceHttpGet" binding="tns:LicenseServiceHttpGet">
+      <http:address location="http://www.myproactivesoftware.com/AIT/Live/LicenseService/387/LicenseService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="LicenseServiceHttpPost" binding="tns:LicenseServiceHttpPost">
+      <http:address location="http://www.myproactivesoftware.com/AIT/Live/LicenseService/387/LicenseService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

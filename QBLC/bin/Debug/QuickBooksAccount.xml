@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuickBooksAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserName />
+  <Password />
+  <CompanyFile>D:\Raja Priya\New NW Zoo company file\sample_advanced inventory business.qbw</CompanyFile>
+  <FileOpenMode>omSingleUser</FileOpenMode>
+  <QBVersion>QuickBooks Premier version 2005 and above</QBVersion>
+  <ConnectionType>ctLocalQBD</ConnectionType>
+  <UnattendedModePref>Required</UnattendedModePref>
+  <PersonalDataPref>NotNeeded</PersonalDataPref>
+  <QBCountry>US</QBCountry>
+  <QBMajorVersion>8</QBMajorVersion>
+  <QBMinorVersion>0</QBMinorVersion>
+</QuickBooksAccount>

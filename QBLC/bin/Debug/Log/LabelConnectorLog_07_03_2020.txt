@@ -1,0 +1,106 @@
+1<==>LabelConnector:Time:-03-07-2020 11:46:19 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:46:19 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:46:19 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:46:19 AMb4 setting printer name 
+7<==>LabelConnector:Time:-03-07-2020 11:46:19 AMb4 invprint get 
+8<==>LabelConnector:Time:-03-07-2020 11:46:19 AMafter invprint get 
+1<==>LabelConnector:Time:-03-07-2020 11:48:05 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:48:05 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:48:05 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:48:05 AMb4 setting printer name 
+7<==>LabelConnector:Time:-03-07-2020 11:48:05 AMb4 invprint get 
+8<==>LabelConnector:Time:-03-07-2020 11:48:05 AMafter invprint get 
+1a<==>LabelConnector:Time:-03-07-2020 11:48:08 AMData load sucessfully
+1<==>LabelConnector:Time:-03-07-2020 11:49:15 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:49:15 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:49:15 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:49:15 AMb4 setting printer name 
+7<==>LabelConnector:Time:-03-07-2020 11:49:15 AMb4 invprint get 
+8<==>LabelConnector:Time:-03-07-2020 11:49:15 AMafter invprint get 
+1<==>LabelConnector:Time:-03-07-2020 11:49:39 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:49:39 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:49:39 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:49:39 AMb4 setting printer name 
+7<==>LabelConnector:Time:-03-07-2020 11:49:39 AMb4 invprint get 
+8<==>LabelConnector:Time:-03-07-2020 11:49:39 AMafter invprint get 
+1<==>LabelConnector:Time:-03-07-2020 11:50:02 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:50:02 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:50:02 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:50:02 AMb4 setting printer name 
+7<==>LabelConnector:Time:-03-07-2020 11:50:02 AMb4 invprint get 
+8<==>LabelConnector:Time:-03-07-2020 11:50:02 AMafter invprint get 
+1<==>LabelConnector:Time:-03-07-2020 11:51:48 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:51:48 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:51:48 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:51:48 AMb4 setting printer name 
+7<==>LabelConnector:Time:-03-07-2020 11:51:48 AMb4 invprint get 
+8<==>LabelConnector:Time:-03-07-2020 11:51:48 AMafter invprint get 
+1<==>LabelConnector:Time:-03-07-2020 11:52:34 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:52:34 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:52:34 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:52:34 AMb4 setting printer name 
+7<==>LabelConnector:Time:-03-07-2020 11:52:34 AMb4 invprint get 
+8<==>LabelConnector:Time:-03-07-2020 11:52:34 AMafter invprint get 
+1a<==>LabelConnector:Time:-03-07-2020 11:52:38 AMData load sucessfully
+1<==>LabelConnector:Time:-03-07-2020 11:52:52 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:52:52 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:52:52 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:52:52 AMb4 setting printer name 
+7<==>LabelConnector:Time:-03-07-2020 11:52:52 AMb4 invprint get 
+8<==>LabelConnector:Time:-03-07-2020 11:52:52 AMafter invprint get 
+1<==>LabelConnector:Time:-03-07-2020 11:53:12 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:53:12 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:53:12 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:53:12 AMb4 setting printer name 
+7<==>LabelConnector:Time:-03-07-2020 11:53:12 AMb4 invprint get 
+8<==>LabelConnector:Time:-03-07-2020 11:53:12 AMafter invprint get 
+1a<==>LabelConnector:Time:-03-07-2020 11:53:16 AMData load sucessfully
+1<==>LabelConnector:Time:-03-07-2020 11:53:34 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:53:34 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:53:34 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:53:34 AMb4 setting printer name 
+7<==>LabelConnector:Time:-03-07-2020 11:53:34 AMb4 invprint get 
+8<==>LabelConnector:Time:-03-07-2020 11:53:34 AMafter invprint get 
+1a<==>LabelConnector:Time:-03-07-2020 11:53:47 AMData load sucessfully
+1<==>LabelConnector:Time:-03-07-2020 11:56:02 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:56:02 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:56:02 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:56:02 AMb4 setting printer name 
+1a<==>LabelConnector:Time:-03-07-2020 11:56:05 AMData load sucessfully
+1<==>LabelConnector:Time:-03-07-2020 11:57:10 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:57:10 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:57:10 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:57:10 AMb4 setting printer name 
+1a<==>LabelConnector:Time:-03-07-2020 11:57:19 AMData load sucessfully
+1<==>LabelConnector:Time:-03-07-2020 11:58:34 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:58:34 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:58:34 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:58:34 AMb4 setting printer name 
+1a<==>LabelConnector:Time:-03-07-2020 11:58:44 AMData load sucessfully
+1<==>LabelConnector:Time:-03-07-2020 11:59:13 AM Bind label list...
+3<==>LabelConnector:Time:-03-07-2020 11:59:13 AMB4 udf label binding 
+4<==>LabelConnector:Time:-03-07-2020 11:59:13 AMater udf label binding 
+5<==>LabelConnector:Time:-03-07-2020 11:59:13 AMb4 setting printer name 
+1a<==>LabelConnector:Time:-03-07-2020 11:59:23 AMData load sucessfully
+ErrorFinally : {0}-------------------[ END  - TestPrint - 03-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 03-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 03-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 03-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 03-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 03-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 03-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 03-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 03-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 03-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 03-07-2020 -------------------]
+

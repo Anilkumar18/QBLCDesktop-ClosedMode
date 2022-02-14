@@ -1,0 +1,28 @@
+ErrorFinally : {0}-------------------[ END  - Print - 14-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 14-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 14-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 14-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 14-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 14-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 14-07-2020 -------------------]
+
+ErrorCatch : {0}System.NullReferenceException: Object reference not set to an instance of an object.
+   at Telerik.WinControls.UI.RadPrintDocument.OnBeginPrint(PrintEventArgs e)
+   at System.Drawing.Printing.PrintDocument._OnBeginPrint(PrintEventArgs e)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at LabelConnector.FrmPrintByItemSearch.Print(String FileName, Int32 pintprintqty) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\FrmPrintByItemSearch.cs:line 1884
+ErrorFinally : {0}-------------------[ END  - Print - 14-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 14-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 14-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 14-07-2020 -------------------]
+

@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NReco.PdfRenderer</name>
+    </assembly>
+    <members>
+        <member name="T:NReco.PdfRenderer.ImageFormat">
+            <summary>
+            Image formats supported by PdfRenderer.
+            </summary>
+        </member>
+        <member name="F:NReco.PdfRenderer.ImageFormat.Jpeg">
+            <summary>
+            JPEG image format
+            </summary>
+        </member>
+        <member name="F:NReco.PdfRenderer.ImageFormat.Png">
+            <summary>
+            PNG image format
+            </summary>
+        </member>
+        <member name="F:NReco.PdfRenderer.ImageFormat.Tiff">
+            <summary>
+            TIFF image format
+            </summary>
+        </member>
+        <member name="T:NReco.PdfRenderer.PdfImages">
+            <summary>
+            PDF Images extractor (wrapper for pdfimages.exe poppler command line tool)
+            </summary>
+            <remarks><see cref="T:NReco.PdfRenderer.PdfImages"/> provides information about images inside PDF (including resolution) and can extract images as files.</remarks>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.ToolPath">
+            <summary>
+            Gets or sets path where poppler tool binaries are located
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.ToolExeName">
+            <summary>
+            Gets or sets poppler tool file name ('pdfimages.exe' by default)
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.ExecutionTimeout">
+            <summary>
+            Get or set maximum execution time for running poppler process (null is by default = no timeout)
+            </summary>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfImages.#ctor">
+            <summary>
+            Create new instance of HtmlToPdfConverter
+            </summary>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfImages.GetPdfImagesList(System.String)">
+            <summary>
+            Gets list of images in the specified PDF file.
+            </summary>
+            <param name="pdfFile">path to the PDF file</param>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfImages.GetPdfImagesList(System.IO.Stream)">
+            <summary>
+            Gets list of images in the specified input stream with PDF content.
+            </summary>
+            <param name="inputPdfStream">input stream with PDF content</param>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfImages.GetPdfImages(System.String,System.String,System.String)">
+            <summary>
+            Extract PDF file images.
+            </summary>
+            <param name="pdfFile">PDF file</param>
+            <param name="outputDir">target folder for the image files</param>
+            <param name="options">pdfimages options (by default "-png" is used)</param>
+            <returns>list of image file names</returns>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfImages.GetPdfImages(System.IO.Stream,System.String,System.String)">
+            <summary>
+            Extract images from input stream with PDF content.
+            </summary>
+            <param name="inputPdfStream">input stream with PDF content</param>
+            <param name="outputDir">target folder for the image files</param>
+            <param name="options">pdfimages options (by default "-png" is used)</param>
+            <returns>list of image file names</returns>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.Page">
+            <summary>
+            The page number containing the image.
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.Num">
+            <summary>
+            The image number
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.Type">
+            <summary>
+            The image type.
+            </summary>
+            <remarks>
+            <para>image - an opaque image</para>
+            <para>mask - a monochrome mask image</para>
+            <para>smask - a soft-mask image</para>
+            <para>stencil - a monochrome mask image used for painting a color or pattern</para>
+            Note: Tranparency in images is represented in PDF using a separate image for the image and the mask/smask. The mask/smask used as part of a transparent image always immediately follows the image in the image list.
+            </remarks>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.Width">
+            <summary>
+            Image width (in pixels)
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.Height">
+            <summary>
+            Image height (in pixels)
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.Color">
+            <summary>
+            Image color space.
+            </summary>
+            <remarks>
+            gray - Gray,
+            rgb - RGB,
+            cmyk - CMYK,
+            lab - L* a*b,
+            icc - ICC Based,
+            index - Indexed Color,
+            sep - Separation,
+            devn - DeviceN
+            </remarks>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.Comp">
+            <summary>
+            Number of color components
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.Bpc">
+            <summary>
+            Bits per component.
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.Enc">
+            <summary>
+            Image encoding.
+            </summary>
+            <remarks>
+            <para>image - raster image (may be Flate or LZW compressed but does not use an image encoding)</para>
+            <para>jpeg - Joint Photographic Experts Group</para>
+            <para>jp2 - JPEG2000</para>
+            <para>jbig2 - Joint Bi-Level Image Experts Group</para>
+            <para>ccitt - CCITT Group 3 or Group 4 Fax</para>
+            </remarks>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.Interp">
+            <summary>
+            True if the interpolation is to be performed when scaling up the image.
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.Xppi">
+            <summary>
+            The horizontal resolution of the image (in pixels per inch) when rendered on the pdf page.
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.Yppi">
+            <summary>
+            The vertical resolution of the image (in pixels per inch) when rendered on the pdf page.
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.Size">
+            <summary>
+            The size (in bytes) of the embedded image in the pdf file.
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfImages.PdfImageInfo.RawLine">
+            <summary>
+            Raw output of 'pdfimages -list'
+            </summary>
+        </member>
+        <member name="T:NReco.PdfRenderer.PdfInfo">
+            <summary>
+            PDF info extractor (wrapper for pdfinfo.exe poppler command line tool)
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfInfo.ToolPath">
+            <summary>
+            Gets or sets path where poppler tool binaries are located
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfInfo.ToolExeName">
+            <summary>
+            Gets or sets poppler tool file name ('pdfinfo.exe' by default)
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfInfo.ExecutionTimeout">
+            <summary>
+            Get or set maximum execution time for running poppler process (null is by default = no timeout)
+            </summary>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfInfo.#ctor">
+            <summary>
+            Create new instance of HtmlToPdfConverter
+            </summary>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfInfo.GetPdfInfo(System.String)">
+            <summary>
+            Gets infromation about specified PDF file.
+            </summary>
+            <param name="pdfFile">path to the PDF file</param>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfInfo.GetPdfInfo(System.IO.Stream)">
+            <summary>
+            Gets infromation about specified input stream with PDF content.
+            </summary>
+            <param name="inputPdfStream">input stream with PDF content</param>
+        </member>
+        <member name="T:NReco.PdfRenderer.PdfToImageConverter">
+            <summary>
+            PDF to Image converter (wrapper for poppler command line tool)
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToImageConverter.ToolPath">
+            <summary>
+            Gets or sets path where poppler tool is located
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToImageConverter.ToolExeName">
+            <summary>
+            Gets or sets poppler tool file name ('pdftoppm.exe' by default)
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToImageConverter.TempFilesPath">
+            <summary>
+            Get or set location for temp files (if not specified location returned by <see cref="M:System.IO.Path.GetTempPath"/> is used for temp files)
+            </summary>
+            <remarks>Temp files are used when several pages should be rendered at once.</remarks>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToImageConverter.Dpi">
+            <summary>
+            Gets or sets resolution (DPI).
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToImageConverter.EnableAntiAliasing">
+            <summary>
+            Gets or sets anti-aliasing flag.
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToImageConverter.EnableVectorAntiAliasing">
+            <summary>
+            Gets or sets vector anti-aliasing flag.
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToImageConverter.ScaleTo">
+            <summary>
+            Scale to specified value x*y box. 
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToImageConverter.CustomArgs">
+            <summary>
+            Gets or sets any additional command line arguments.
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToImageConverter.ProcessPriority">
+            <summary>
+            Gest or sets poppler tool process priority (Normal by default)
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToImageConverter.ExecutionTimeout">
+            <summary>
+            Get or set maximum execution time for running poppler process (null is by default = no timeout)
+            </summary>
+        </member>
+        <member name="E:NReco.PdfRenderer.PdfToImageConverter.LogReceived">
+            <summary>
+            Occurs when console log line is received from poppler process.
+            </summary>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToImageConverter.#ctor">
+            <summary>
+            Create new instance of HtmlToPdfConverter
+            </summary>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToImageConverter.GenerateImage(System.String,System.Int32)">
+            <summary>
+            Generate image by specifed PDF file.
+            </summary>
+            <param name="pdfFile">path to the PDF file</param>
+            <param name="page">page number to render</param>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToImageConverter.GenerateImage(System.IO.Stream,System.Int32)">
+            <summary>
+            Generate image by specifed PDF file.
+            </summary>
+            <param name="pdfInputStream">input stream with PDF content</param>
+            <param name="page">page number to render</param>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToImageConverter.GenerateImage(System.String,System.Int32,NReco.PdfRenderer.ImageFormat,System.IO.Stream)">
+            <summary>
+            Generate image by specifed PDF file and write output to the specified output stream.
+            </summary>
+            <param name="pdfFile">path to the PDF file</param>
+            <param name="page">page number to render</param>
+            <param name="imgFormat">output image format</param>
+            <param name="output">output stream for image data</param>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToImageConverter.GenerateImage(System.IO.Stream,System.Int32,NReco.PdfRenderer.ImageFormat,System.IO.Stream)">
+            <summary>
+            Generate image by specifed PDF Stream and write output to the specified output stream.
+            </summary>
+            <param name="pdfInputStream">input stream with PDF content</param>
+            <param name="page">page number to render</param>
+            <param name="imgFormat">output image format</param>
+            <param name="output">output stream for image data</param>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToImageConverter.GenerateImage(System.String,System.Int32,NReco.PdfRenderer.ImageFormat,System.String)">
+            <summary>
+            Generate image by specifed PDF file and write output in PNG format to the specified output stream.
+            </summary>
+            <param name="pdfFile">path to the PDF file</param>
+            <param name="page">page number to render</param>
+            <param name="imgFormat">output image format</param>
+            <param name="outputFile">output file name</param>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToImageConverter.GenerateImage(System.IO.Stream,System.Int32,NReco.PdfRenderer.ImageFormat,System.String)">
+            <summary>
+            Generate image by specifed PDF file and write output in PNG format to the specified output stream.
+            </summary>
+            <param name="pdfInputStream">input stream with PDF content</param>
+            <param name="page">page number to render</param>
+            <param name="imgFormat">output image format</param>
+            <param name="outputFile">output file name</param>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToImageConverter.GenerateImages(System.String,NReco.PdfRenderer.ImageFormat,System.String)">
+            <summary>
+            Generate images for all pages of the specifed PDF file and write output to the specified folder.
+            </summary>
+            <param name="pdfFile">path to the PDF file</param>
+            <param name="imgFormat">output image format</param>
+            <param name="outputDir">destination folder for produced image files</param>
+            <returns>file names of produced images</returns>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToImageConverter.GenerateImages(System.IO.Stream,NReco.PdfRenderer.ImageFormat,System.String)">
+            <summary>
+            Generate images for all pages of the PDF content stream and write output to the specified folder.
+            </summary>
+            <param name="inputPdfStream">input stream with PDF content</param>
+            <param name="imgFormat">output image format</param>
+            <param name="outputDir">destination folder for produced image files</param>
+            <returns>file names of produced images</returns>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToImageConverter.GenerateImages(System.String,System.Int32,System.Int32,NReco.PdfRenderer.ImageFormat,System.String)">
+            <summary>
+            Generate images by specifed PDF file pages range and write output to the specified folder.
+            </summary>
+            <param name="pdfFile">path to the PDF file</param>
+            <param name="firstPage">first page to render</param>
+            <param name="lastPage">last page to render</param>
+            <param name="imgFormat">output image format</param>
+            <param name="outputDir">destination folder for produced image files</param>
+            <returns>file names of produced images</returns>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToImageConverter.GenerateImages(System.IO.Stream,System.Int32,System.Int32,NReco.PdfRenderer.ImageFormat,System.String)">
+            <summary>
+            Generate images by specifed PDF content stream pages range and write output to the specified folder.
+            </summary>
+            <param name="inputPdfStream">input stream with PDF content</param>
+            <param name="firstPage">first page to render</param>
+            <param name="lastPage">last page to render</param>
+            <param name="imgFormat">output image format</param>
+            <param name="outputDir">destination folder for produced image files</param>
+            <returns>file names of produced images</returns>
+        </member>
+        <member name="T:NReco.PdfRenderer.PdfToImageException">
+            <summary>
+            The exception that is thrown when pdf-to-image process returns non-zero error exit code.
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToImageException.ErrorCode">
+            <summary>
+            Get WkHtmlToImage process error code
+            </summary>
+        </member>
+        <member name="T:NReco.PdfRenderer.PdfToTextConverter">
+            <summary>
+            PDF to text converter (wrapper for pdftotext.exe poppler command line tool)
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToTextConverter.ToolPath">
+            <summary>
+            Gets or sets path where poppler tool binaries are located
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToTextConverter.ToolExeName">
+            <summary>
+            Gets or sets poppler tool file name ('pdftotext.exe' by default)
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToTextConverter.ExecutionTimeout">
+            <summary>
+            Get or set maximum execution time for running poppler process (null is by default = no timeout)
+            </summary>
+        </member>
+        <member name="P:NReco.PdfRenderer.PdfToTextConverter.CustomArgs">
+            <summary>
+            Gets or sets any additional command line arguments for pdftotext.
+            </summary>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToTextConverter.#ctor">
+            <summary>
+            Create new instance of HtmlToPdfConverter
+            </summary>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToTextConverter.GenerateText(System.String)">
+            <summary>
+            Extracts text content from specified PDF file.
+            </summary>
+            <param name="pdfFile">path to the PDF file</param>
+            <remarks>It is possible to include metadata information (like bounding box data) by specifying pdtotext options with <see cref="P:NReco.PdfRenderer.PdfToTextConverter.CustomArgs"/> property.</remarks>
+        </member>
+        <member name="M:NReco.PdfRenderer.PdfToTextConverter.GenerateText(System.IO.Stream)">
+            <summary>
+            Extracts text content from specified input stream with PDF content.
+            </summary>
+            <param name="inputPdfStream">input stream with PDF content</param>
+            <remarks>It is possible to include metadata information (like bounding box data) by specifying pdtotext options with <see cref="P:NReco.PdfRenderer.PdfToTextConverter.CustomArgs"/> property.</remarks>
+        </member>
+    </members>
+</doc>

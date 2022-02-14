@@ -1,0 +1,429 @@
+E:\Sandip\Vistronics\QBLC\QBLC\obj\Debug\ResolveAssemblyReference.cache
+E:\Sandip\Vistronics\QBLC\QBLC\obj\Debug\QBLC.Properties.Resources.resources
+E:\Sandip\Vistronics\QBLC\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+E:\Sandip\Vistronics\QBLC\QBLC\obj\Debug\Interop.BarTender.dll
+E:\Sandip\Vistronics\QBLC\QBLC\obj\Debug\QBLC.csproj.ResolveComReference.cache
+E:\Sandip\Vistronics\QBLC\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+E:\Sandip\Vistronics\QBLC\QBLC\bin\Debug\QBLC.exe.config
+E:\Sandip\Vistronics\QBLC\QBLC\bin\Debug\QBLC.exe
+E:\Sandip\Vistronics\QBLC\QBLC\bin\Debug\QBLC.pdb
+E:\Sandip\Vistronics\QBLC\QBLC\bin\Debug\Interop.BarTender.dll
+E:\Sandip\Vistronics\QBLC\QBLC\obj\Debug\QBLC.exe
+E:\Sandip\Vistronics\QBLC\QBLC\obj\Debug\QBLC.pdb
+E:\Sandip\Vistronics\QBLC\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Accuware\Label Connector_09-14-2010\QBLC1\QBLC\bin\Debug\QBLC.exe.config
+D:\Accuware\Label Connector_09-14-2010\QBLC1\QBLC\obj\Debug\QBLC.exe
+D:\Accuware\Label Connector_09-14-2010\QBLC1\QBLC\obj\Debug\QBLC.pdb
+D:\Accuware\Label Connector_09-14-2010\QBLC1\QBLC\bin\Debug\QBLC.exe
+D:\Accuware\Label Connector_09-14-2010\QBLC1\QBLC\bin\Debug\QBLC.pdb
+D:\Accuware\Label Connector_09-14-2010\QBLC1\QBLC\bin\Debug\Interop.BarTender.dll
+D:\Accuware\Label Connector_09-14-2010\QBLC1\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\Accuware\Label Connector_09-14-2010\QBLC1\QBLC\obj\Debug\Interop.BarTender.dll
+D:\Accuware\Label Connector_09-14-2010\QBLC1\QBLC\obj\Debug\QBLC.csproj.ResolveComReference.cache
+D:\Accuware\Label Connector_09-14-2010\QBLC1\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Accuware\Label Connector_09-14-2010\QBLC1\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\Accuware\Label Connector_09-14-2010\QBLC1\QBLC\obj\Debug\QBLC.Properties.Resources.resources
+D:\Accuware\Label Connector_09-14-2010\QBLC1\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+D:\Accuware\Label Connector_09-14-2010\QBLC\QBLC\bin\Debug\QBLC.exe.config
+D:\Accuware\Label Connector_09-14-2010\QBLC\QBLC\obj\Debug\QBLC.exe
+D:\Accuware\Label Connector_09-14-2010\QBLC\QBLC\obj\Debug\QBLC.pdb
+D:\Accuware\Label Connector_09-14-2010\QBLC\QBLC\bin\Debug\QBLC.exe
+D:\Accuware\Label Connector_09-14-2010\QBLC\QBLC\bin\Debug\QBLC.pdb
+D:\Accuware\Label Connector_09-14-2010\QBLC\QBLC\bin\Debug\Interop.BarTender.dll
+D:\Accuware\Label Connector_09-14-2010\QBLC\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\Accuware\Label Connector_09-14-2010\QBLC\QBLC\obj\Debug\Interop.BarTender.dll
+D:\Accuware\Label Connector_09-14-2010\QBLC\QBLC\obj\Debug\QBLC.csproj.ResolveComReference.cache
+D:\Accuware\Label Connector_09-14-2010\QBLC\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Accuware\Label Connector_09-14-2010\QBLC\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\Accuware\Label Connector_09-14-2010\QBLC\QBLC\obj\Debug\QBLC.Properties.Resources.resources
+D:\Accuware\Label Connector_09-14-2010\QBLC\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+C:\Accuware\QBLC\QBLC\bin\Debug\QBLC.exe.config
+C:\Accuware\QBLC\QBLC\obj\Debug\QBLC.exe
+C:\Accuware\QBLC\QBLC\obj\Debug\QBLC.pdb
+C:\Accuware\QBLC\QBLC\bin\Debug\QBLC.exe
+C:\Accuware\QBLC\QBLC\bin\Debug\QBLC.pdb
+C:\Accuware\QBLC\QBLC\obj\Debug\ResolveAssemblyReference.cache
+C:\Accuware\QBLC\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+C:\Accuware\QBLC\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+C:\Accuware\QBLC\QBLC\obj\Debug\QBLC.Properties.Resources.resources
+C:\Accuware\QBLC\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+D:\Accuware\QBLCNew\QBLC\QBLC\bin\Debug\QBLC.exe.config
+D:\Accuware\QBLCNew\QBLC\QBLC\bin\Debug\QBLC.exe
+D:\Accuware\QBLCNew\QBLC\QBLC\bin\Debug\QBLC.pdb
+D:\Accuware\QBLCNew\QBLC\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\Accuware\QBLCNew\QBLC\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Accuware\QBLCNew\QBLC\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\Accuware\QBLCNew\QBLC\QBLC\obj\Debug\QBLC.Properties.Resources.resources
+D:\Accuware\QBLCNew\QBLC\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+D:\Accuware\QBLCNew\QBLC\QBLC\obj\Debug\QBLC.exe
+D:\Accuware\QBLCNew\QBLC\QBLC\obj\Debug\QBLC.pdb
+C:\Accuware\QBLC_2_0\QBLC\bin\Debug\QBLC.exe.config
+C:\Accuware\QBLC_2_0\QBLC\obj\Debug\QBLC.exe
+C:\Accuware\QBLC_2_0\QBLC\obj\Debug\QBLC.pdb
+C:\Accuware\QBLC_2_0\QBLC\obj\Debug\ResolveAssemblyReference.cache
+C:\Accuware\QBLC_2_0\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+C:\Accuware\QBLC_2_0\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+C:\Accuware\QBLC_2_0\QBLC\obj\Debug\QBLC.Properties.Resources.resources
+C:\Accuware\QBLC_2_0\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+C:\Accuware\QBLC_2_0\QBLC\bin\Debug\QBLC.exe
+C:\Accuware\QBLC_2_0\QBLC\bin\Debug\QBLC.pdb
+C:\Accuware\QBLC_2_0\QBLC\bin\Debug\Interop.BarTender.dll
+D:\Accuware\QBLC_2_0\QBLC\bin\Debug\QBLC.exe.config
+D:\Accuware\QBLC_2_0\QBLC\obj\Debug\QBLC.exe
+D:\Accuware\QBLC_2_0\QBLC\obj\Debug\QBLC.pdb
+D:\Accuware\QBLC_2_0\QBLC\bin\Debug\QBLC.exe
+D:\Accuware\QBLC_2_0\QBLC\bin\Debug\QBLC.pdb
+D:\Accuware\QBLC_2_0\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\Accuware\QBLC_2_0\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Accuware\QBLC_2_0\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\Accuware\QBLC_2_0\QBLC\obj\Debug\QBLC.Properties.Resources.resources
+D:\Accuware\QBLC_2_0\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+E:\Sandip\QBLC\QBLC\bin\Debug\QBLC.exe.config
+E:\Sandip\QBLC\QBLC\obj\Debug\QBLC.exe
+E:\Sandip\QBLC\QBLC\obj\Debug\QBLC.pdb
+E:\Sandip\QBLC\QBLC\bin\Debug\QBLC.exe
+E:\Sandip\QBLC\QBLC\bin\Debug\QBLC.pdb
+E:\Sandip\QBLC\QBLC\obj\Debug\ResolveAssemblyReference.cache
+E:\Sandip\QBLC\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+E:\Sandip\QBLC\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+E:\Sandip\QBLC\QBLC\obj\Debug\QBLC.Properties.Resources.resources
+E:\Sandip\QBLC\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+E:\Sandip\QBLC\QBLC\bin\Release\QBLC.exe.config
+E:\Sandip\QBLC\QBLC\obj\Release\ResolveAssemblyReference.cache
+E:\Sandip\QBLC\QBLC\obj\Release\QBLC.frmLabelConfig.resources
+E:\Sandip\QBLC\QBLC\obj\Release\QBLC.frmPrintLabel.resources
+E:\Sandip\QBLC\QBLC\obj\Release\QBLC.Properties.Resources.resources
+E:\Sandip\QBLC\QBLC\obj\Release\QBLC.csproj.GenerateResource.Cache
+E:\Sandip\QBLC\QBLC\bin\Release\QBLC.exe
+E:\Sandip\QBLC\QBLC\bin\Release\QBLC.pdb
+E:\Sandip\QBLC\QBLC\bin\Release\Interop.BarTender.dll
+E:\Sandip\QBLC\QBLC\obj\Release\QBLC.exe
+E:\Sandip\QBLC\QBLC\obj\Release\QBLC.pdb
+E:\Sandip\QBLC\QBLC\obj\Release\QBLC.frmAbout.resources
+D:\Sandip\QBLC\QBLC\bin\Release\QBLC.exe.config
+D:\Sandip\QBLC\QBLC\obj\Release\QBLC.exe
+D:\Sandip\QBLC\QBLC\obj\Release\QBLC.pdb
+D:\Sandip\QBLC\QBLC\bin\Debug\QBLC.exe.config
+D:\Sandip\QBLC\QBLC\obj\Debug\QBLC.exe
+D:\Sandip\QBLC\QBLC\obj\Debug\QBLC.pdb
+D:\Sandip\QBLC\QBLC\bin\Debug\QBLC.exe
+D:\Sandip\QBLC\QBLC\bin\Debug\QBLC.pdb
+D:\Sandip\QBLC\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\Sandip\QBLC\QBLC\obj\Debug\QBLC.frmAbout.resources
+D:\Sandip\QBLC\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Sandip\QBLC\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\Sandip\QBLC\QBLC\obj\Debug\QBLC.Properties.Resources.resources
+D:\Sandip\QBLC\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+D:\Accuware\Sandip-QBLC\QBLC\QBLC\bin\Debug\LabelConnector.exe.config
+D:\Accuware\Sandip-QBLC\QBLC\QBLC\bin\Debug\LabelConnector.exe
+D:\Accuware\Sandip-QBLC\QBLC\QBLC\bin\Debug\LabelConnector.pdb
+D:\Accuware\Sandip-QBLC\QBLC\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\Accuware\Sandip-QBLC\QBLC\QBLC\obj\Debug\QBLC.frmAbout.resources
+D:\Accuware\Sandip-QBLC\QBLC\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Accuware\Sandip-QBLC\QBLC\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\Accuware\Sandip-QBLC\QBLC\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+D:\Accuware\Sandip-QBLC\QBLC\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+D:\Accuware\Sandip-QBLC\QBLC\QBLC\obj\Debug\LabelConnector.exe
+D:\Accuware\Sandip-QBLC\QBLC\QBLC\obj\Debug\LabelConnector.pdb
+D:\Sandip\QBLC\QBLC\bin\Debug\LabelConnector.exe.config
+D:\Sandip\QBLC\QBLC\obj\Debug\LabelConnector.exe
+D:\Sandip\QBLC\QBLC\obj\Debug\LabelConnector.pdb
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC\QBLC\bin\Debug\LabelConnector.exe.config
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC\QBLC\obj\Debug\LabelConnector.exe
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC\QBLC\obj\Debug\LabelConnector.pdb
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC\QBLC\bin\Debug\LabelConnector.exe
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC\QBLC\bin\Debug\LabelConnector.pdb
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC\QBLC\bin\Debug\Interop.BarTender.dll
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC\QBLC\obj\Debug\QBLC.frmAbout.resources
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+D:\QBLC\QBLC\bin\Debug\LabelConnector.exe.config
+D:\QBLC\QBLC\bin\Debug\LabelConnector.exe
+D:\QBLC\QBLC\bin\Debug\LabelConnector.pdb
+D:\QBLC\QBLC\bin\Debug\Interop.BarTender.dll
+D:\QBLC\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\QBLC\QBLC\obj\Debug\QBLC.frmAbout.resources
+D:\QBLC\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\QBLC\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\QBLC\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+D:\QBLC\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+D:\QBLC\QBLC\obj\Debug\LabelConnector.exe
+D:\QBLC\QBLC\obj\Debug\LabelConnector.pdb
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC_10-May-2012\QBLC\bin\Debug\LabelConnector.exe.config
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC_10-May-2012\QBLC\obj\Debug\LabelConnector.exe
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC_10-May-2012\QBLC\obj\Debug\LabelConnector.pdb
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC_10-May-2012\QBLC\bin\Debug\LabelConnector.exe
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC_10-May-2012\QBLC\bin\Debug\LabelConnector.pdb
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC_10-May-2012\QBLC\bin\Debug\Interop.BarTender.dll
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC_10-May-2012\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC_10-May-2012\QBLC\obj\Debug\QBLC.frmAbout.resources
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC_10-May-2012\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC_10-May-2012\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC_10-May-2012\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+D:\Accuware\Label Connector_09-14-2010\CO-05\QBLC_10-May-2012\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+C:\Accuware\QBLC_v6.0\QBLC\bin\Debug\LabelConnector.exe.config
+C:\Accuware\QBLC_v6.0\QBLC\bin\Debug\LabelConnector.exe
+C:\Accuware\QBLC_v6.0\QBLC\bin\Debug\LabelConnector.pdb
+C:\Accuware\QBLC_v6.0\QBLC\bin\Debug\Interop.BarTender.dll
+C:\Accuware\QBLC_v6.0\QBLC\obj\Debug\ResolveAssemblyReference.cache
+C:\Accuware\QBLC_v6.0\QBLC\obj\Debug\QBLC.frmAbout.resources
+C:\Accuware\QBLC_v6.0\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+C:\Accuware\QBLC_v6.0\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+C:\Accuware\QBLC_v6.0\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+C:\Accuware\QBLC_v6.0\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+C:\Accuware\QBLC_v6.0\QBLC\obj\Debug\LabelConnector.exe
+C:\Accuware\QBLC_v6.0\QBLC\obj\Debug\LabelConnector.pdb
+C:\Accuware\QBLC_v6.0\QBLC\bin\Release\LabelConnector.exe.config
+C:\Accuware\QBLC_v6.0\QBLC\bin\Release\LabelConnector.exe
+C:\Accuware\QBLC_v6.0\QBLC\bin\Release\LabelConnector.pdb
+C:\Accuware\QBLC_v6.0\QBLC\obj\Release\ResolveAssemblyReference.cache
+C:\Accuware\QBLC_v6.0\QBLC\obj\Release\QBLC.frmAbout.resources
+C:\Accuware\QBLC_v6.0\QBLC\obj\Release\QBLC.frmLabelConfig.resources
+C:\Accuware\QBLC_v6.0\QBLC\obj\Release\QBLC.frmPrintLabel.resources
+C:\Accuware\QBLC_v6.0\QBLC\obj\Release\LabelConnector.Properties.Resources.resources
+C:\Accuware\QBLC_v6.0\QBLC\obj\Release\QBLC.csproj.GenerateResource.Cache
+C:\Accuware\QBLC_v6.0\QBLC\obj\Release\LabelConnector.exe
+C:\Accuware\QBLC_v6.0\QBLC\obj\Release\LabelConnector.pdb
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\bin\Release\LabelConnector.exe.config
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\bin\Release\LabelConnector.exe
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\bin\Release\LabelConnector.pdb
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Release\ResolveAssemblyReference.cache
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Release\QBLC.frmAbout.resources
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Release\QBLC.frmLabelConfig.resources
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Release\QBLC.frmPrintLabel.resources
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Release\LabelConnector.Properties.Resources.resources
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Release\QBLC.csproj.GenerateResource.Cache
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Release\LabelConnector.exe
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Release\LabelConnector.pdb
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\bin\Debug\LabelConnector.exe.config
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Debug\LabelConnector.exe
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Debug\LabelConnector.pdb
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\bin\Debug\LabelConnector.exe
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\bin\Debug\LabelConnector.pdb
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\bin\Debug\Interop.BarTender.dll
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Debug\QBLC.frmAbout.resources
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+D:\Accuware\QBLC_Product\QBLC_v6.0\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+D:\Accuware\QBLC_Product\QBLC_v6.4\QBLC\bin\Debug\LabelConnector.exe.config
+D:\Accuware\QBLC_Product\QBLC_v6.4\QBLC\obj\Debug\LabelConnector.exe
+D:\Accuware\QBLC_Product\QBLC_v6.4\QBLC\obj\Debug\LabelConnector.pdb
+D:\Accuware\QBLC_Product\QBLC_v6.4\QBLC\bin\Debug\LabelConnector.exe
+D:\Accuware\QBLC_Product\QBLC_v6.4\QBLC\bin\Debug\LabelConnector.pdb
+D:\Accuware\QBLC_Product\QBLC_v6.4\QBLC\bin\Debug\Interop.BarTender.dll
+D:\Accuware\QBLC_Product\QBLC_v6.4\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\Accuware\QBLC_Product\QBLC_v6.4\QBLC\obj\Debug\QBLC.frmAbout.resources
+D:\Accuware\QBLC_Product\QBLC_v6.4\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Accuware\QBLC_Product\QBLC_v6.4\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\Accuware\QBLC_Product\QBLC_v6.4\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+D:\Accuware\QBLC_Product\QBLC_v6.4\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+C:\Accuware\QBLC_v6.4\QBLC\bin\Debug\LabelConnector.exe.config
+C:\Accuware\QBLC_v6.4\QBLC\bin\Debug\LabelConnector.exe
+C:\Accuware\QBLC_v6.4\QBLC\bin\Debug\LabelConnector.pdb
+C:\Accuware\QBLC_v6.4\QBLC\bin\Debug\Interop.BarTender.dll
+C:\Accuware\QBLC_v6.4\QBLC\obj\Debug\ResolveAssemblyReference.cache
+C:\Accuware\QBLC_v6.4\QBLC\obj\Debug\QBLC.frmAbout.resources
+C:\Accuware\QBLC_v6.4\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+C:\Accuware\QBLC_v6.4\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+C:\Accuware\QBLC_v6.4\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+C:\Accuware\QBLC_v6.4\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+C:\Accuware\QBLC_v6.4\QBLC\obj\Debug\LabelConnector.exe
+C:\Accuware\QBLC_v6.4\QBLC\obj\Debug\LabelConnector.pdb
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.exe.config
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.exe
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.pdb
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\bin\Debug\Interop.BarTender.dll
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmAbout.resources
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.frmLabelConfigTuchScreen.resources
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.frmPrintLabelTuchScreen.resources
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.LabelConnectorSettings.resources
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.exe
+C:\Users\srohokale\Desktop\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.pdb
+C:\Accuware\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.exe.config
+C:\Accuware\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.exe
+C:\Accuware\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.pdb
+C:\Accuware\QBLC_v6.6\QBLC\bin\Debug\Interop.BarTender.dll
+C:\Accuware\QBLC_v6.6\QBLC\obj\Debug\ResolveAssemblyReference.cache
+C:\Accuware\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmAbout.resources
+C:\Accuware\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+C:\Accuware\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.frmLabelConfigTuchScreen.resources
+C:\Accuware\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+C:\Accuware\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.frmPrintLabelTuchScreen.resources
+C:\Accuware\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.LabelConnectorSettings.resources
+C:\Accuware\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+C:\Accuware\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+C:\Accuware\QBLC_v6.6\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+C:\Accuware\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.exe
+C:\Accuware\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.pdb
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.exe.config
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.exe
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.pdb
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\bin\Debug\Interop.BarTender.dll
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmAbout.resources
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.frmLabelConfigTuchScreen.resources
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.frmPrintLabelTuchScreen.resources
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.LabelConnectorSettings.resources
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.exe
+D:\Sandip\Accuware\QuickBooks\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.pdb
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.exe.config
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.exe
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.pdb
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\bin\Debug\Interop.BarTender.dll
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmAbout.resources
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.frmLabelConfigTuchScreen.resources
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.frmPrintLabelTuchScreen.resources
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.LabelConnectorSettings.resources
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.exe
+D:\Accuware\QBLC_Product\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.pdb
+D:\Sandip\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.exe.config
+D:\Sandip\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.exe
+D:\Sandip\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.pdb
+D:\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.exe.config
+D:\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.exe
+D:\QBLC_v6.6\QBLC\bin\Debug\LabelConnector.pdb
+D:\QBLC_v6.6\QBLC\bin\Debug\Interop.BarTender.dll
+D:\QBLC_v6.6\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmAbout.resources
+D:\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.frmLabelConfigTuchScreen.resources
+D:\QBLC_v6.6\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.frmPrintLabelTuchScreen.resources
+D:\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.LabelConnectorSettings.resources
+D:\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+D:\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+D:\QBLC_v6.6\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+D:\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.exe
+D:\QBLC_v6.6\QBLC\obj\Debug\LabelConnector.pdb
+D:\QBLC_v6.6\QBLC\bin\Release\LabelConnector.exe.config
+D:\QBLC_v6.6\QBLC\obj\Release\LabelConnector.exe
+D:\QBLC_v6.6\QBLC\obj\Release\LabelConnector.pdb
+D:\QBLC_v6.6\QBLC\bin\Release\LabelConnector.exe
+D:\QBLC_v6.6\QBLC\bin\Release\LabelConnector.pdb
+D:\QBLC_v6.6\QBLC\obj\Release\ResolveAssemblyReference.cache
+D:\QBLC_v6.6\QBLC\obj\Release\QBLC.frmAbout.resources
+D:\QBLC_v6.6\QBLC\obj\Release\QBLC.frmLabelConfig.resources
+D:\QBLC_v6.6\QBLC\obj\Release\LabelConnector.frmLabelConfigTuchScreen.resources
+D:\QBLC_v6.6\QBLC\obj\Release\QBLC.frmPrintLabel.resources
+D:\QBLC_v6.6\QBLC\obj\Release\LabelConnector.frmPrintLabelTuchScreen.resources
+D:\QBLC_v6.6\QBLC\obj\Release\LabelConnector.LabelConnectorSettings.resources
+D:\QBLC_v6.6\QBLC\obj\Release\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+D:\QBLC_v6.6\QBLC\obj\Release\LabelConnector.Properties.Resources.resources
+D:\QBLC_v6.6\QBLC\obj\Release\QBLC.csproj.GenerateResource.Cache
+D:\QBLC_v6.6.0.9\QBLC\bin\Debug\LabelConnector.exe.config
+D:\QBLC_v6.6.0.9\QBLC\bin\Debug\LabelConnector.exe
+D:\QBLC_v6.6.0.9\QBLC\bin\Debug\LabelConnector.pdb
+D:\QBLC_v6.6.0.9\QBLC\bin\Debug\Interop.BarTender.dll
+D:\QBLC_v6.6.0.9\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\QBLC_v6.6.0.9\QBLC\obj\Debug\QBLC.frmAbout.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Debug\LabelConnector.frmLabelConfigTuchScreen.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Debug\LabelConnector.frmPrintLabelTuchScreen.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Debug\LabelConnector.LabelConnectorSettings.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Debug\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+D:\QBLC_v6.6.0.9\QBLC\obj\Debug\LabelConnector.exe
+D:\QBLC_v6.6.0.9\QBLC\obj\Debug\LabelConnector.pdb
+D:\QBLC_v6.6.0.9\QBLC\bin\Release\LabelConnector.exe.config
+D:\QBLC_v6.6.0.9\QBLC\obj\Release\LabelConnector.exe
+D:\QBLC_v6.6.0.9\QBLC\obj\Release\LabelConnector.pdb
+D:\QBLC_v6.6.0.9\QBLC\bin\Release\LabelConnector.exe
+D:\QBLC_v6.6.0.9\QBLC\bin\Release\LabelConnector.pdb
+D:\QBLC_v6.6.0.9\QBLC\obj\Release\ResolveAssemblyReference.cache
+D:\QBLC_v6.6.0.9\QBLC\obj\Release\QBLC.frmAbout.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Release\QBLC.frmLabelConfig.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Release\LabelConnector.frmLabelConfigTuchScreen.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Release\QBLC.frmPrintLabel.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Release\LabelConnector.frmPrintLabelTuchScreen.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Release\LabelConnector.LabelConnectorSettings.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Release\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Release\LabelConnector.Properties.Resources.resources
+D:\QBLC_v6.6.0.9\QBLC\obj\Release\QBLC.csproj.GenerateResource.Cache
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\bin\Debug\LabelConnector.exe.config
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\bin\Debug\LabelConnector.exe
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\bin\Debug\LabelConnector.pdb
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\bin\Debug\Interop.BarTender.dll
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Debug\ResolveAssemblyReference.cache
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Debug\QBLC.frmAbout.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Debug\QBLC.frmLabelConfig.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Debug\LabelConnector.frmLabelConfigTuchScreen.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Debug\QBLC.frmPrintLabel.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Debug\LabelConnector.frmPrintLabelTuchScreen.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Debug\LabelConnector.LabelConnectorSettings.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Debug\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Debug\LabelConnector.Properties.Resources.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Debug\QBLC.csproj.GenerateResource.Cache
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Debug\LabelConnector.exe
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Debug\LabelConnector.pdb
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\bin\Release\LabelConnector.exe.config
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\obj\Release\LabelConnector.exe
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\obj\Release\LabelConnector.pdb
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\bin\Release\LabelConnector.exe
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\bin\Release\LabelConnector.pdb
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\obj\Release\QBLC.frmAbout.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\obj\Release\QBLC.frmLabelConfig.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\obj\Release\LabelConnector.frmLabelConfigTuchScreen.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\obj\Release\QBLC.frmPrintLabel.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\obj\Release\LabelConnector.frmPrintLabelTuchScreen.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\obj\Release\LabelConnector.LabelConnectorSettings.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\obj\Release\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\obj\Release\LabelConnector.Properties.Resources.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\obj\Release\LabelConnector.QBDataAccessSetting.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.2\QBLC\obj\Release\QBLC.csproj.GenerateResource.Cache
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\bin\Release\LabelConnector.exe.config
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\bin\Release\LabelConnector.exe
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\bin\Release\LabelConnector.pdb
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\obj\Release\QBLC.frmAbout.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\obj\Release\QBLC.frmLabelConfig.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\obj\Release\LabelConnector.frmLabelConfigTuchScreen.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\obj\Release\QBLC.frmPrintLabel.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\obj\Release\LabelConnector.frmPrintLabelTuchScreen.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\obj\Release\LabelConnector.LabelConnectorSettings.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\obj\Release\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\obj\Release\LabelConnector.Properties.Resources.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\obj\Release\LabelConnector.QBDataAccessSetting.resources
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\obj\Release\QBLC.csproj.GenerateResource.Cache
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\obj\Release\LabelConnector.exe
+C:\Documents and Settings\usarmy\Desktop\QBLC_v7.0\QBLC\obj\Release\LabelConnector.pdb
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\bin\Release\LabelConnector.exe.config
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\bin\Release\LabelConnector.exe
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\bin\Release\LabelConnector.pdb
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Release\ResolveAssemblyReference.cache
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Release\QBLC.frmAbout.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Release\QBLC.frmLabelConfig.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Release\LabelConnector.frmLabelConfigTuchScreen.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Release\QBLC.frmPrintLabel.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Release\LabelConnector.frmPrintLabelTuchScreen.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Release\LabelConnector.LabelConnectorSettings.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Release\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Release\LabelConnector.Properties.Resources.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Release\LabelConnector.QBDataAccessSetting.resources
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Release\QBLC.csproj.GenerateResource.Cache
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Release\LabelConnector.exe
+D:\Accuware\QBLC_Product\QBLC_v7.0\QBLC\obj\Release\LabelConnector.pdb

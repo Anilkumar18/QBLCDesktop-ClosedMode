@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<QuickBooks>
+  <template transactiontype="itemlist">
+  </template>
+  <CustomItemFields>
+    <Addr>Addr</Addr>
+    <Color>Color</Color>
+    <Material>Material</Material>
+  </CustomItemFields>
+</QuickBooks>

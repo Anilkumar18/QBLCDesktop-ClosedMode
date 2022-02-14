@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<QuickBooks>
+  <Item>
+    <itemname>Anchor-12x1</itemname>
+    <description>Anchor, 12x1 RedCap</description>
+    <salesprice>1</salesprice>
+    <quantityonsalesorder>38</quantityonsalesorder>
+    <quantityonhand>785</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>25</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Anchor adhesive</itemname>
+    <description>Adhesive, Anchor</description>
+    <salesprice>20</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>45</quantityonhand>
+    <CustomItem>
+      <_STYLE>testing custom field1</_STYLE>
+      <_COLOR>testing custom field2</_COLOR>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Base - BL</itemname>
+    <description>Anchor Base, Black</description>
+    <salesprice>150</salesprice>
+    <quantityonsalesorder>7</quantityonsalesorder>
+    <quantityonhand>34</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>25</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Connectors - UR</itemname>
+    <description>UR- Connectors</description>
+    <salesprice>75</salesprice>
+    <quantityonsalesorder>4</quantityonsalesorder>
+    <quantityonhand>464</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>AN spring</itemname>
+    <description>Anchor Spring</description>
+    <salesprice>1</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>1913</quantityonhand>
+    <CustomItem>
+      <_STYLE>789</_STYLE>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Cord - 12G</itemname>
+    <description>Electrical Cord, 12 Gauge</description>
+    <salesprice>90</salesprice>
+    <quantityonsalesorder>6</quantityonsalesorder>
+    <quantityonhand>26</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Drill</itemname>
+    <salesprice>300</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>23</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>5</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Drum - AL</itemname>
+    <description>Drum, 4", Aluminum</description>
+    <salesprice>50</salesprice>
+    <quantityonsalesorder>689</quantityonsalesorder>
+    <quantityonhand>687</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Edge - CL</itemname>
+    <description>Leading Edge, Clear</description>
+    <salesprice>10</salesprice>
+    <quantityonsalesorder>382</quantityonsalesorder>
+    <quantityonhand>380</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Grommet 4</itemname>
+    <description>Grommet, #4 Brass</description>
+    <salesprice>1</salesprice>
+    <quantityonsalesorder>14</quantityonsalesorder>
+    <quantityonhand>1100</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Hex tool</itemname>
+    <description>T Style Hex Tool</description>
+    <salesprice>175</salesprice>
+    <quantityonsalesorder>4</quantityonsalesorder>
+    <quantityonhand>69</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Hook</itemname>
+    <description>Retainer Hook, Manual Strap</description>
+    <salesprice>112</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>43</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Hook - SN</itemname>
+    <description>Snap Hook, Manual Strap</description>
+    <salesprice>112</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>125</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>J Box</itemname>
+    <description>Box, 1/2"x4 Single J Box</description>
+    <salesprice>300</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>26</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>25</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Motor, deckmount</itemname>
+    <description>Inf Deckmount, R1/2 Baldor Motor</description>
+    <salesprice>550</salesprice>
+    <quantityonsalesorder>1</quantityonsalesorder>
+    <quantityonhand>38</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pedestal - CTR</itemname>
+    <description>Center Pedestal</description>
+    <salesprice>500</salesprice>
+    <quantityonsalesorder>9</quantityonsalesorder>
+    <quantityonhand>3</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>25</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pedestal - DR</itemname>
+    <description>PowerTrak, Drive Pedestal</description>
+    <salesprice>193</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>6</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pin - BL</itemname>
+    <description>Anchor Pin, Black</description>
+    <salesprice>50</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>41</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Cover -AQ</itemname>
+    <description>Aqua</description>
+    <salesprice>2499.77</salesprice>
+    <quantityonsalesorder>18</quantityonsalesorder>
+    <quantityonhand>9</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Cover -DB</itemname>
+    <description>Dark Blue</description>
+    <salesprice>2499.77</salesprice>
+    <quantityonsalesorder>5</quantityonsalesorder>
+    <quantityonhand>16</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Cover -FG</itemname>
+    <description>Forest Green</description>
+    <salesprice>2999.77</salesprice>
+    <quantityonsalesorder>8</quantityonsalesorder>
+    <quantityonhand>16</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>5</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Cover -LB</itemname>
+    <description>Light Blue</description>
+    <salesprice>2499.77</salesprice>
+    <quantityonsalesorder>2</quantityonsalesorder>
+    <quantityonhand>33</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>PowerTrak-4x2</itemname>
+    <description>PowerTrak, Tube Castings 4"x2"</description>
+    <salesprice>175</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>10</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pulley End</itemname>
+    <description>Pulley End Casting TT w/pulley</description>
+    <salesprice>20</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>30</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pump -1800</itemname>
+    <description>Rule Pump 1800</description>
+    <salesprice>500</salesprice>
+    <quantityonsalesorder>1</quantityonsalesorder>
+    <quantityonhand>65</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pump BP</itemname>
+    <description>Rule Pump, Base Plate</description>
+    <salesprice>85</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>46</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pump HC</itemname>
+    <description>Rule Pump, House Clamps</description>
+    <salesprice>45</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>39</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Pump KH</itemname>
+    <description>Pump, Key Hole Panel River</description>
+    <salesprice>75</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>152</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Reel</itemname>
+    <description>Single Rope Reel</description>
+    <salesprice>550</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>14</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>RO-1/4in</itemname>
+    <description>Rope w/Core 1/4" - Per Foot</description>
+    <salesprice>1</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>1665</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Roller -4</itemname>
+    <description>Rocky Roller #4</description>
+    <salesprice>20</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>66</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Rope</itemname>
+    <description>Rope</description>
+    <salesprice>1</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>1250</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>SC-10x.5-SS</itemname>
+    <description>Screw, 10x1/2 phil pan SS</description>
+    <salesprice>22.5</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>842</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>SC-12</itemname>
+    <description>Screw, #12 Drill Flex HWH #3 Tek</description>
+    <salesprice>25.75</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>295</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>SC-12x1.75-SS</itemname>
+    <description>Screw, Track 12x1 3/4" Oval SS</description>
+    <salesprice>15</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>725</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>SC-12x3in-SS</itemname>
+    <description>Screw, Track #12x3" POH SS</description>
+    <salesprice>2.5</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>251</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Spring</itemname>
+    <description>Spring</description>
+    <salesprice>3</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>294</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Stickers</itemname>
+    <description>Motor Stickers</description>
+    <salesprice>50</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>11</quantityonhand>
+    <CustomItem>
+      <_STYLE>T1</_STYLE>
+      <_COLOR>T2</_COLOR>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Strain R-1/2</itemname>
+    <description>Strain Relief, 1/2" lg</description>
+    <salesprice>90</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>16</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Track -CL</itemname>
+    <description>Track Top Clear</description>
+    <salesprice>130</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>29</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>50</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Track -GU</itemname>
+    <description>Track Guides, TT (Pair)</description>
+    <salesprice>100</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>81</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Unit - RC-1/2HP</itemname>
+    <description>Inf Recessed Unit 1/2 HP Baldor</description>
+    <salesprice>1650</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>19</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>5</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Washer - RU</itemname>
+    <description>Washer, Rubber</description>
+    <salesprice>6</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>1223</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>200</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Wheel Assy</itemname>
+    <description>Wheel Assembly</description>
+    <salesprice>30</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>20</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>10</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Wirenuts -OR</itemname>
+    <description>Wire Nuts, Orange</description>
+    <salesprice>6.5</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>166</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Wirenuts -YE</itemname>
+    <description>Wire Nuts, Yellow</description>
+    <salesprice>7.8</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>226</quantityonhand>
+    <CustomItem>
+      <_QTYPRICEBREAK>100</_QTYPRICEBREAK>
+    </CustomItem>
+  </Item>
+</QuickBooks>

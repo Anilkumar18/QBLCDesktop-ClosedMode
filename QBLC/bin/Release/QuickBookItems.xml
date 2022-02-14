@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<QuickBooks>
+  <Item>
+    <itemname>Cabinets</itemname>
+    <description>Cabinets</description>
+    <salesprice>0</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>0</quantityonhand>
+    <averagecost>0</averagecost>
+    <purchasedesc>Cabinets</purchasedesc>
+    <purchasecost>0</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Thomas Kitchen &amp; Bath</prefvendorref>
+    <barcodevalue>QB:010399723015</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Inventory Asset</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Cabinet Pulls</itemname>
+    <description>Cabinet Pulls</description>
+    <salesprice>6940.25</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>1311</quantityonhand>
+    <averagecost>2.85782</averagecost>
+    <unitofmeasuresetref>Each to Case/Doz</unitofmeasuresetref>
+    <purchasedesc>Cabinet Pulls</purchasedesc>
+    <purchasecost>3</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Patton Hardware Supplies</prefvendorref>
+    <barcodevalue>QB:010399723016</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Inventory Asset</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Light Pine</itemname>
+    <description>Light pine kitchen cabinet wall unit</description>
+    <salesprice>1799</salesprice>
+    <quantityonsalesorder>2</quantityonsalesorder>
+    <quantityonorder>1</quantityonorder>
+    <quantityonhand>29</quantityonhand>
+    <averagecost>1191.61379</averagecost>
+    <purchasedesc>Light pine kitchen cabinet wall unit 
+#CLD- 1235-p</purchasedesc>
+    <purchasecost>1500</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Patton Hardware Supplies</prefvendorref>
+    <barcodevalue>QB:010399723017</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Inventory Asset</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Door Frame</itemname>
+    <description>standard interior door frame</description>
+    <salesprice>0</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>6</quantityonorder>
+    <quantityonhand>84</quantityonhand>
+    <averagecost>60.19917</averagecost>
+    <purchasedesc>standard interior door frame</purchasedesc>
+    <purchasecost>12</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Patton Hardware Supplies</prefvendorref>
+    <barcodevalue>QB:010399723068</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Inventory Asset</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Hardware</itemname>
+    <salesprice>0</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>4</quantityonorder>
+    <quantityonhand>9</quantityonhand>
+    <averagecost>0</averagecost>
+    <purchasecost>0</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Patton Hardware Supplies</prefvendorref>
+    <barcodevalue>QB:010399723018</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Inventory Asset</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Brass hinges</itemname>
+    <description>standard interior brass hinge</description>
+    <salesprice>0</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>1422</quantityonhand>
+    <averagecost>3</averagecost>
+    <unitofmeasuresetref>Each to Case/Doz</unitofmeasuresetref>
+    <purchasedesc>standard interior brass hinge</purchasedesc>
+    <purchasecost>3</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Perry Windows &amp; Doors</prefvendorref>
+    <barcodevalue>QB:010399723069</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Inventory Asset</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Doorknobs Std</itemname>
+    <description>Standard Doorknobs</description>
+    <salesprice>412.18</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>4</quantityonorder>
+    <quantityonhand>146</quantityonhand>
+    <averagecost>25.73397</averagecost>
+    <purchasedesc>Doorknobs Part # DK 3704</purchasedesc>
+    <purchasecost>25</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Perry Windows &amp; Doors</prefvendorref>
+    <barcodevalue>QB:010399723019</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Inventory Asset</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_COLOR>Natural</_COLOR>
+      <_MATERIAL>Brass</_MATERIAL>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Lk Doorknobs</itemname>
+    <description>Locking interior doorknobs</description>
+    <salesprice>38</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>128</quantityonhand>
+    <averagecost>35.25039</averagecost>
+    <purchasedesc>Locking interior doorknobs  Part # DK415</purchasedesc>
+    <purchasecost>34.95</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Perry Windows &amp; Doors</prefvendorref>
+    <barcodevalue>QB:010399723020</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Inventory Asset</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_COLOR>Natural</_COLOR>
+      <_MATERIAL>Chrome</_MATERIAL>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Wood Door</itemname>
+    <description>Doors</description>
+    <salesprice>80</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>6</quantityonhand>
+    <averagecost>305</averagecost>
+    <purchasecost>40</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Patton Hardware Supplies</prefvendorref>
+    <barcodevalue>QB:010399723021</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Inventory Asset</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Exterior</itemname>
+    <description>Exterior wood door</description>
+    <salesprice>120</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>4</quantityonorder>
+    <quantityonhand>49</quantityonhand>
+    <averagecost>498.34633</averagecost>
+    <purchasedesc>Exterior door - #P-10981</purchasedesc>
+    <purchasecost>590.39</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Perry Windows &amp; Doors</prefvendorref>
+    <barcodevalue>QB:010399723022</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Inventory Asset</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_COLOR>Dark Brown</_COLOR>
+      <_MATERIAL>Wood</_MATERIAL>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Interior</itemname>
+    <description>Interior wood door</description>
+    <salesprice>72</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>61</quantityonhand>
+    <averagecost>61.88803</averagecost>
+    <purchasedesc>Interior door - P-187055T</purchasedesc>
+    <purchasecost>35</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Perry Windows &amp; Doors</prefvendorref>
+    <barcodevalue>QB:010399723023</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Inventory Asset</assetaccountref>
+    <itemtype>Inventory Part</itemtype>
+    <CustomItem>
+      <_COLOR>White</_COLOR>
+      <_MATERIAL>Wood</_MATERIAL>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Interior Door kit</itemname>
+    <description>complete Interior door</description>
+    <salesprice>0</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonorder>0</quantityonorder>
+    <quantityonhand>20</quantityonhand>
+    <averagecost>100</averagecost>
+    <purchasecost>0</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <barcodevalue>QB:010399723067</barcodevalue>
+    <cogsaccountref>Cost of Goods Sold</cogsaccountref>
+    <assetaccountref>Inventory Asset</assetaccountref>
+    <itemtype>Inventory Assembly</itemtype>
+  </Item>
+  <Item>
+    <itemname>Lumber</itemname>
+    <description>Lumber</description>
+    <salesprice>0</salesprice>
+    <purchasedesc>Lumber</purchasedesc>
+    <purchasecost>0</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Timberloft Lumber</prefvendorref>
+    <barcodevalue>QB:010399723088</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Trim</itemname>
+    <description>Trim lumber</description>
+    <salesprice>0</salesprice>
+    <purchasedesc>Trim lumber</purchasedesc>
+    <purchasecost>95</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Timberloft Lumber</prefvendorref>
+    <barcodevalue>QB:010399723029</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Decking</itemname>
+    <description>Decking lumber</description>
+    <salesprice>0</salesprice>
+    <purchasedesc>Decking lumber</purchasedesc>
+    <purchasecost>0</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Timberloft Lumber</prefvendorref>
+    <barcodevalue>QB:010399723027</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+    <CustomItem>
+      <_COLOR>Red</_COLOR>
+      <_MATERIAL>Redwood</_MATERIAL>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Rough</itemname>
+    <description>Rough lumber</description>
+    <salesprice>0</salesprice>
+    <purchasedesc>Rough lumber</purchasedesc>
+    <purchasecost>475</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Timberloft Lumber</prefvendorref>
+    <barcodevalue>QB:010399723028</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Appliance</itemname>
+    <salesprice>0</salesprice>
+    <purchasedesc>Appliance</purchasedesc>
+    <purchasecost>75</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>McClain Appliances</prefvendorref>
+    <barcodevalue>QB:010399723024</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Cabinets - Custom</itemname>
+    <description>Custom counters</description>
+    <salesprice>0</salesprice>
+    <purchasecost>2100</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Thomas Kitchen &amp; Bath</prefvendorref>
+    <barcodevalue>QB:010399723051</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Counter</itemname>
+    <description>Custom made counter top</description>
+    <salesprice>1899.98</salesprice>
+    <purchasedesc>Custom made counter top</purchasedesc>
+    <purchasecost>1750</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Thomas Kitchen &amp; Bath</prefvendorref>
+    <barcodevalue>QB:010399723025</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Electrical Materials</itemname>
+    <description>Electrical Materials</description>
+    <salesprice>0</salesprice>
+    <purchasedesc>Electrical Materials</purchasedesc>
+    <purchasecost>2000</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>C.U. Electric</prefvendorref>
+    <barcodevalue>QB:010399723087</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Flooring</itemname>
+    <description>Flooring</description>
+    <salesprice>0</salesprice>
+    <purchasedesc>Flooring</purchasedesc>
+    <purchasecost>0</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Patton Hardware Supplies</prefvendorref>
+    <barcodevalue>QB:010399723049</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Fluorescent Ceiling Lighting</itemname>
+    <description>Fluorescent Lights</description>
+    <salesprice>0</salesprice>
+    <purchasecost>45</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Daigle Lighting</prefvendorref>
+    <barcodevalue>QB:010399723055</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Lighting</itemname>
+    <description>Lighting</description>
+    <salesprice>0</salesprice>
+    <purchasecost>52</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Daigle Lighting</prefvendorref>
+    <barcodevalue>QB:010399723059</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Patio Door</itemname>
+    <salesprice>200</salesprice>
+    <purchasecost>124.75</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Perry Windows &amp; Doors</prefvendorref>
+    <barcodevalue>QB:010399723058</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Plumb Fixtrs</itemname>
+    <description>Plumbing fixtures</description>
+    <salesprice>0</salesprice>
+    <purchasedesc>Plumbing fixtures</purchasedesc>
+    <purchasecost>1</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Thomas Kitchen &amp; Bath</prefvendorref>
+    <barcodevalue>QB:010399723030</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>Window</itemname>
+    <description>Window</description>
+    <salesprice>0</salesprice>
+    <purchasedesc>Window</purchasedesc>
+    <purchasecost>0</purchasecost>
+    <incomeaccountref>Construction Income:Materials Income</incomeaccountref>
+    <prefvendorref>Perry Windows &amp; Doors</prefvendorref>
+    <barcodevalue>QB:010399723031</barcodevalue>
+    <itemtype>Non-Inventory Part</itemtype>
+  </Item>
+  <Item>
+    <itemname>BOM</itemname>
+    <itemtype>Group</itemtype>
+  </Item>
+  <Item>
+    <itemname>A1 Custom Storage Shed</itemname>
+    <description>Custom Storage Building - Model A1</description>
+    <itemtype>Group</itemtype>
+  </Item>
+  <Item>
+    <itemname>A2 Custom Storage Shed</itemname>
+    <description>Custom Storage Building - Model A2</description>
+    <itemtype>Group</itemtype>
+  </Item>
+  <Item>
+    <itemname>A3 Custom Storage Shed</itemname>
+    <description>Custom Storage Building - model A3</description>
+    <itemtype>Group</itemtype>
+  </Item>
+  <Item>
+    <itemname>Door set</itemname>
+    <description>Exterior door and hardware set</description>
+    <itemtype>Group</itemtype>
+  </Item>
+  <Item>
+    <itemname>Reimb Group</itemname>
+    <description>Time and materials</description>
+    <itemtype>Group</itemtype>
+  </Item>
+  <Item>
+    <itemname>Room Addition/Remodel</itemname>
+    <description>Project Total</description>
+    <itemtype>Group</itemtype>
+  </Item>
+</QuickBooks>

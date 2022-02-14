@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<QuickBooks>
+  <Item>
+    <itemname>Cabinet Pulls</itemname>
+    <description>Cabinet Pulls</description>
+    <salesprice>0</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>398</quantityonhand>
+    <CustomItem>
+      <_COLOR>Red</_COLOR>
+      <_MATERIAL>Tablet</_MATERIAL>
+      <_PACKERNUMBER>AV2001</_PACKERNUMBER>
+      <_PRINTLABEL>Yes</_PRINTLABEL>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Light Pine</itemname>
+    <description>Light pine kitchen cabinet wall unit</description>
+    <salesprice>1799</salesprice>
+    <quantityonsalesorder>2</quantityonsalesorder>
+    <quantityonhand>6</quantityonhand>
+  </Item>
+  <Item>
+    <itemname>Door Frame</itemname>
+    <description>standard interior door frame</description>
+    <salesprice>0</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>9</quantityonhand>
+    <CustomItem>
+      <_COLOR>Green</_COLOR>
+      <_MATERIAL>Tables</_MATERIAL>
+      <_PACKERNUMBER>11</_PACKERNUMBER>
+      <_PRINTLABEL>Yes</_PRINTLABEL>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Brass hinges</itemname>
+    <description>standard interior brass hinge</description>
+    <salesprice>0</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>245</quantityonhand>
+    <CustomItem>
+      <_COLOR>Dark Blue</_COLOR>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Doorknobs Std</itemname>
+    <description>Standard Doorknobs</description>
+    <salesprice>30</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>124</quantityonhand>
+    <CustomItem>
+      <_COLOR>Natural</_COLOR>
+      <_MATERIAL>Brass</_MATERIAL>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Lk Doorknobs</itemname>
+    <description>Locking interior doorknobs</description>
+    <salesprice>38</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>117</quantityonhand>
+    <CustomItem>
+      <_COLOR>Natural</_COLOR>
+      <_MATERIAL>Chrome</_MATERIAL>
+      <_PRINTLABEL>Yes</_PRINTLABEL>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Exterior</itemname>
+    <description>Exterior wood door</description>
+    <salesprice>120</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>11</quantityonhand>
+    <CustomItem>
+      <_COLOR>Dark Brown</_COLOR>
+      <_MATERIAL>Wood</_MATERIAL>
+      <_PACKERNUMBER>nckm</_PACKERNUMBER>
+      <_PRINTLABEL>Yes</_PRINTLABEL>
+    </CustomItem>
+  </Item>
+  <Item>
+    <itemname>Interior</itemname>
+    <description>Interior wood door</description>
+    <salesprice>72</salesprice>
+    <quantityonsalesorder>0</quantityonsalesorder>
+    <quantityonhand>47</quantityonhand>
+    <CustomItem>
+      <_COLOR>White</_COLOR>
+      <_MATERIAL>Wood</_MATERIAL>
+    </CustomItem>
+  </Item>
+</QuickBooks>

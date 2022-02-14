@@ -1,0 +1,28 @@
+ErrorFinally : {0}-------------------[ END  - Print - 09-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 09-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 09-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 09-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 09-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 09-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 09-07-2020 -------------------]
+
+ErrorCatch : {0}System.IO.FileNotFoundException: E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\Debug\PdfPrintImagesList\New Item print list\New Item print list.Tiff
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at LabelConnector.FrmPrintByItemSearch.<>c__DisplayClass46_1.<Print>b__0(Object sndr, PrintPageEventArgs args) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\FrmPrintByItemSearch.cs:line 1863
+   at System.Drawing.Printing.PrintDocument.OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintDocument._OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintController.PrintLoop(PrintDocument document)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at LabelConnector.FrmPrintByItemSearch.Print(String FileName, Int32 pintprintqty) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\FrmPrintByItemSearch.cs:line 1884
+ErrorFinally : {0}-------------------[ END  - Print - 09-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 09-07-2020 -------------------]
+

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<QuickBooks>
+  <template transactiontype="itemlist">
+    <Static>Static</Static>
+    <ItemIncrement>ItemIncrement</ItemIncrement>
+    <FullName>FullNameval</FullName>
+    <Itemname>Item Name/Number</Itemname>
+    <Description>Description</Description>
+    <Purchasedesc>Purchasedesc</Purchasedesc>
+    <SalesPrice>SalesPrice</SalesPrice>
+    <qtyonlabel>QtyonLabel</qtyonlabel>
+    <qtyonhand>QtyOnHand</qtyonhand>
+    <site>Site</site>
+    <bin>Bin</bin>
+    <TimeStamp>Current Time</TimeStamp>
+    <DateStamp>Current Date</DateStamp>
+    <ReorderPoint>Re-OrderPoint</ReorderPoint>
+    <Max>Max</Max>
+    <LotNo>Entry1</LotNo>
+    <MPN>MPN</MPN>
+    <unitofmeasuresetref>unitofmeasuresetref</unitofmeasuresetref>
+    <BarCodeValue>BarCodeValue</BarCodeValue>
+    <PurchaseCost>PurchaseCost</PurchaseCost>
+    <QuantityOnHand>QuantityOnHand</QuantityOnHand>
+    <QuantityOnSalesorder>QuantityOnSalesorder</QuantityOnSalesorder>
+    <QuantityOnorder>QuantityOnorder</QuantityOnorder>
+    <ExpenseAccountRef>ExpenseAccountRef</ExpenseAccountRef>
+    <PrefVendorref>PrefVendorref</PrefVendorref>
+    <CogsAccountref>CogsAccountref</CogsAccountref>
+    <AssetAccountref>AssetAccountref</AssetAccountref>
+    <SubItemOf>SubItemOf</SubItemOf>
+  </template>
+  <CustomItemFields>
+    <Category>Category</Category>
+    <Color>Color</Color>
+    <Material>Material</Material>
+  </CustomItemFields>
+</QuickBooks>

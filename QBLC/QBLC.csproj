@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E29538AC-B1C1-491B-A727-90B962EC2728}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LabelConnector</RootNamespace>
+    <AssemblyName>LabelConnector</AssemblyName>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>false</GenerateManifests>
+    <ApplicationIcon>Accuware48x48.ico</ApplicationIcon>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Label Connector</ProductName>
+    <PublisherName>Accuware</PublisherName>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <DebugSymbols>true</DebugSymbols>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.1.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\packages\Portable.BouncyCastle.1.8.1.3\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Common.Logging, Version=3.4.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Common.Logging.3.4.1\lib\net40\Common.Logging.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Common.Logging.Core, Version=3.4.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Common.Logging.Core.3.4.1\lib\net40\Common.Logging.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Control.Draggable, Version=1.0.5049.269, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Control.Draggable.1.0.5049.269\lib\net35-Client\Control.Draggable.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpZipLib.0.86.0\lib\20\ICSharpCode.SharpZipLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Interop.QBFC13, Version=13.0.0.23, Culture=neutral, PublicKeyToken=31d8aec643e18259">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\Common Files\Intuit\QuickBooks\Interop.QBFC13.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\WeatherInfo\QBLCWeatherService\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.3.0\lib\net40\NPOI.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NPOI.OOXML, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.3.0\lib\net40\NPOI.OOXML.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.3.0\lib\net40\NPOI.OpenXml4Net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.3.0\lib\net40\NPOI.OpenXmlFormats.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NReco.PdfRenderer, Version=1.2.2.0, Culture=neutral, PublicKeyToken=cd48cd639550efcd, processorArchitecture=MSIL">
+      <HintPath>..\packages\NReco.PdfRenderer.1.2.2\lib\net20\NReco.PdfRenderer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Telerik.WinControls">
+      <HintPath>D:\RAJA PRIYA\QB\Backups\TelerikPackage\Telerik.WinControls\v4.0_2018.1.116.40__5bb2a467cbec794e\Telerik.WinControls.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.WinControls.RadDiagram">
+      <HintPath>D:\RAJA PRIYA\QB\Backups\TelerikPackage\Telerik.WinControls.RadDiagram\v4.0_2018.1.116.40__5bb2a467cbec794e\Telerik.WinControls.RadDiagram.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.WinControls.UI">
+      <HintPath>D:\RAJA PRIYA\QB\Backups\TelerikPackage\Telerik.WinControls.UI\v4.0_2018.1.116.40__5bb2a467cbec794e\Telerik.WinControls.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="TelerikCommon">
+      <HintPath>D:\RAJA PRIYA\QB\Backups\TelerikPackage\TelerikCommon\v4.0_2018.1.116.40__5bb2a467cbec794e\TelerikCommon.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="alLineItem.cs" />
+    <Compile Include="clsAllItems.cs" />
+    <Compile Include="clsDBWork.cs" />
+    <Compile Include="clsGridSalesOrderLine.cs" />
+    <Compile Include="clsInvoice.cs" />
+    <Compile Include="clsInvoiceGroupingByCustomField.cs" />
+    <Compile Include="clsInvoiceLine.cs" />
+    <Compile Include="clsItemBin.cs" />
+    <Compile Include="clsLogin.cs" />
+    <Compile Include="clsPurchaseOrder.cs" />
+    <Compile Include="clsPurchaseOrderLine.cs" />
+    <Compile Include="clsRdpUser.cs" />
+    <Compile Include="clsReportItems.cs" />
+    <Compile Include="clsSalesOrder.cs" />
+    <Compile Include="clsSalesOrderLine.cs" />
+    <Compile Include="clsSalesReceipt.cs" />
+    <Compile Include="clsSalesReceiptLineItems.cs" />
+    <Compile Include="clsStringExtension.cs" />
+    <Compile Include="clsTemplateLabelXmlwork.cs" />
+    <Compile Include="clsTemplateStatus.cs" />
+    <Compile Include="clsTrialApplication.cs" />
+    <Compile Include="clsUtil.cs" />
+    <Compile Include="Common\ModGlobal.cs" />
+    <Compile Include="frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbout.Designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAddEditFieldBarCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddEditFieldBarCode.Designer.cs">
+      <DependentUpon>FrmAddEditFieldBarCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAddEditField.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddEditField.Designer.cs">
+      <DependentUpon>FrmAddEditField.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAddEditTemplateHeader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddEditTemplateHeader.Designer.cs">
+      <DependentUpon>FrmAddEditTemplateHeader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAddImages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddImages.Designer.cs">
+      <DependentUpon>FrmAddImages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAddLineProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddLineProperty.Designer.cs">
+      <DependentUpon>FrmAddLineProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConfirmPopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConfirmPopup.Designer.cs">
+      <DependentUpon>FrmConfirmPopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConnectQuickBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConnectQuickBooks.Designer.cs">
+      <DependentUpon>FrmConnectQuickBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDivQuantitySetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDivQuantitySetting.Designer.cs">
+      <DependentUpon>FrmDivQuantitySetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmgetsize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmgetsize.Designer.cs">
+      <DependentUpon>frmgetsize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInventoryReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInventoryReport.Designer.cs">
+      <DependentUpon>FrmInventoryReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInvoicePrintModeConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInvoicePrintModeConfig.Designer.cs">
+      <DependentUpon>frmInvoicePrintModeConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmItemListSettingcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmItemListSettingcs.Designer.cs">
+      <DependentUpon>FrmItemListSettingcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLabelConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLabelConfig.Designer.cs">
+      <DependentUpon>frmLabelConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLabelConfigTuchScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLabelConfigTuchScreen.Designer.cs">
+      <DependentUpon>frmLabelConfigTuchScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLabelDesign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLabelDesign.Designer.cs">
+      <DependentUpon>FrmLabelDesign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMultiselect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMultiselect.Designer.cs">
+      <DependentUpon>frmMultiselect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPOScreenSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPOScreenSetting.Designer.cs">
+      <DependentUpon>FrmPOScreenSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrintbyItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrintbyItem.Designer.cs">
+      <DependentUpon>FrmPrintbyItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrintByItemSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrintByItemSearch.Designer.cs">
+      <DependentUpon>FrmPrintByItemSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrintByItemTouchScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrintByItemTouchScreen.Designer.cs">
+      <DependentUpon>FrmPrintByItemTouchScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintedViewList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintedViewList.Designer.cs">
+      <DependentUpon>frmPrintedViewList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrinterSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrinterSetting.Designer.cs">
+      <DependentUpon>FrmPrinterSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintLabel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintLabel.Designer.cs">
+      <DependentUpon>frmPrintLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintLabelTuchScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintLabelTuchScreen.Designer.cs">
+      <DependentUpon>frmPrintLabelTuchScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrintWeatherOnly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrintWeatherOnly.Designer.cs">
+      <DependentUpon>FrmPrintWeatherOnly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrintWeatherOnlyTouchScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrintWeatherOnlyTouchScreen.Designer.cs">
+      <DependentUpon>FrmPrintWeatherOnlyTouchScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReceiptList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReceiptList.Designer.cs">
+      <DependentUpon>FrmReceiptList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegistration.Designer.cs">
+      <DependentUpon>FrmRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReleaseNotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReleaseNotes.Designer.cs">
+      <DependentUpon>FrmReleaseNotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalesReceiptSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalesReceiptSetting.Designer.cs">
+      <DependentUpon>frmSalesReceiptSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTemplateOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTemplateOperation.Designer.cs">
+      <DependentUpon>FrmTemplateOperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUpgradePopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpgradePopup.Designer.cs">
+      <DependentUpon>FrmUpgradePopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetCustomerConsumerDetails.cs" />
+    <Compile Include="clsItemDetails.cs" />
+    <Compile Include="Globalvariables.cs" />
+    <Compile Include="ImportTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportTemplate.Designer.cs">
+      <DependentUpon>ImportTemplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IniFile.cs" />
+    <Compile Include="LabelConnectorSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LabelConnectorSettings.Designer.cs">
+      <DependentUpon>LabelConnectorSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LabelConnectorSettingsTuchScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LabelConnectorSettingsTuchScreen.Designer.cs">
+      <DependentUpon>LabelConnectorSettingsTuchScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="License\clsLicenseChecker.cs" />
+    <Compile Include="License\clsLicenseWatcher.cs" />
+    <Compile Include="MyCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PackagingSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackagingSetting.designer.cs">
+      <DependentUpon>PackagingSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackagingSettings.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuickBooksField.cs" />
+    <Compile Include="frmSoColumnOrederPopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSoColumnOrederPopup.Designer.cs">
+      <DependentUpon>frmSoColumnOrederPopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\net.wxbug.api\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\WebReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAbout.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddEditFieldBarCode.resx">
+      <DependentUpon>FrmAddEditFieldBarCode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddEditField.resx">
+      <DependentUpon>FrmAddEditField.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddEditTemplateHeader.resx">
+      <DependentUpon>FrmAddEditTemplateHeader.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddImages.resx">
+      <DependentUpon>FrmAddImages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddLineProperty.resx">
+      <DependentUpon>FrmAddLineProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConfirmPopup.resx">
+      <DependentUpon>FrmConfirmPopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConnectQuickBooks.resx">
+      <DependentUpon>FrmConnectQuickBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDivQuantitySetting.resx">
+      <DependentUpon>FrmDivQuantitySetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmgetsize.resx">
+      <DependentUpon>frmgetsize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInventoryReport.resx">
+      <DependentUpon>FrmInventoryReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInvoicePrintModeConfig.resx">
+      <DependentUpon>frmInvoicePrintModeConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmItemListSettingcs.resx">
+      <DependentUpon>FrmItemListSettingcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLabelConfig.resx">
+      <DependentUpon>frmLabelConfig.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLabelConfigTuchScreen.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmLabelConfigTuchScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLabelDesign.resx">
+      <DependentUpon>FrmLabelDesign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMultiselect.resx">
+      <DependentUpon>frmMultiselect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPOScreenSetting.resx">
+      <DependentUpon>FrmPOScreenSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrintbyItem.resx">
+      <DependentUpon>FrmPrintbyItem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrintByItemSearch.resx">
+      <DependentUpon>FrmPrintByItemSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrintByItemTouchScreen.resx">
+      <DependentUpon>FrmPrintByItemTouchScreen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintedViewList.resx">
+      <DependentUpon>frmPrintedViewList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrinterSetting.resx">
+      <DependentUpon>FrmPrinterSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintLabel.resx">
+      <DependentUpon>frmPrintLabel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintLabelTuchScreen.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmPrintLabelTuchScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrintWeatherOnly.resx">
+      <DependentUpon>FrmPrintWeatherOnly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrintWeatherOnlyTouchScreen.resx">
+      <DependentUpon>FrmPrintWeatherOnlyTouchScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReceiptList.resx">
+      <DependentUpon>FrmReceiptList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegistration.resx">
+      <DependentUpon>FrmRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReleaseNotes.resx">
+      <DependentUpon>FrmReleaseNotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalesReceiptSetting.resx">
+      <DependentUpon>frmSalesReceiptSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSoColumnOrederPopup.resx">
+      <DependentUpon>frmSoColumnOrederPopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTemplateOperation.resx">
+      <DependentUpon>FrmTemplateOperation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpgradePopup.resx">
+      <DependentUpon>FrmUpgradePopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportTemplate.resx">
+      <DependentUpon>ImportTemplate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LabelConnectorSettings.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LabelConnectorSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LabelConnectorSettingsTuchScreen.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LabelConnectorSettingsTuchScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackagingSetting.resx">
+      <DependentUpon>PackagingSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QBDataAccessSetting.resx">
+      <DependentUpon>QBDataAccessSetting.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <BaseApplicationManifest Include="Properties\app.manifest" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="QBAuthentication.cs" />
+    <Compile Include="QBDataAccessSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QBDataAccessSetting.Designer.cs">
+      <DependentUpon>QBDataAccessSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QBHelper.cs" />
+    <Compile Include="QuickBookAccounts.cs" />
+    <Compile Include="Serializer.cs" />
+    <None Include="Web References\net.wxbug.api\ApiAlertData.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\net.wxbug.api\ApiAlertIssueData.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\net.wxbug.api\ApiForecastData.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\net.wxbug.api\ApiForecastIssueData.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\net.wxbug.api\ApiLocationData.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\net.wxbug.api\ApiStationData.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\net.wxbug.api\LiveCompactWeatherData.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\net.wxbug.api\LiveWeatherData.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\net.wxbug.api\LocationUSWorldCityData.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\net.wxbug.api\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\net.wxbug.api\webservice-v1.wsdl" />
+    <None Include="Web References\WebReference\clsCustomerUpgradeVersion.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\WebReference\clsGetCustomersDetails.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\WebReference\LicenseService.wsdl" />
+    <None Include="Web References\WebReference\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Accuware.ico" />
+    <Content Include="Accuware48x48.ico" />
+    <None Include="Web References\WebReference\LicenseService.disco" />
+    <None Include="bin\Debug\Images\New.png" />
+    <None Include="bin\Debug\Images\open.png" />
+    <None Include="bin\Debug\Images\SyncFields.png" />
+    <None Include="bin\Debug\Images\close.png" />
+    <None Include="bin\Debug\Images\CloseDesigner.png" />
+    <None Include="bin\Debug\Images\saveas24.png" />
+    <None Include="bin\Debug\Images\save24.png" />
+    <None Include="bin\Debug\Images\edit.png" />
+    <None Include="bin\Debug\Images\delete.png" />
+    <None Include="bin\Debug\Images\editfield.png" />
+    <None Include="bin\Debug\Images\copy.png" />
+    <Content Include="bin\Debug\LabelConnector2020 1.0.lw.xml" />
+    <None Include="Resources\restore-pagesmall.png" />
+    <None Include="Resources\restore-page.png" />
+    <None Include="Resources\resize.png" />
+    <None Include="Resources\reposition.png" />
+    <None Include="Resources\Line.png" />
+    <None Include="Resources\showpassword.png" />
+    <None Include="Resources\LC.png" />
+    <None Include="Resources\LogoforQBOpage.png" />
+    <None Include="Resources\Rectangle Version clear background.png" />
+    <None Include="Resources\Rectangle Version.png" />
+    <None Include="Resources\Duplicate.png" />
+    <None Include="Resources\copy1.png" />
+    <None Include="Resources\copy.png" />
+    <None Include="Resources\logout %281%29.png" />
+    <None Include="Resources\i32x32.png" />
+    <None Include="bin\Debug\Images\QuickBooksConnect.png" />
+    <None Include="bin\Debug\Images\Reports.png" />
+    <None Include="bin\Debug\Images\Button-Help-icon.png" />
+    <None Include="bin\Debug\Images\exit-icon.png" />
+    <None Include="bin\Debug\Images\License-manager-icon.png" />
+    <None Include="bin\Debug\Images\Design.png" />
+    <None Include="bin\Debug\Images\Receipt-4-icon.png" />
+    <None Include="bin\Debug\Images\ItemList-icon.png" />
+    <None Include="bin\Debug\Images\Settings.png" />
+    <None Include="bin\Debug\Images\image.png" />
+    <None Include="bin\Debug\Images\import16 x16.png" />
+    <None Include="bin\Debug\Images\import.png" />
+    <None Include="bin\Debug\Images\SaveAs.png" />
+    <None Include="bin\Debug\Images\openfile.png" />
+    <None Include="bin\Debug\Images\Printer.png" />
+    <None Include="bin\Debug\Images\Trash.png" />
+    <None Include="Resources\Trash.ico" />
+    <None Include="Web References\net.wxbug.api\webservice-v1.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://api.wxbug.net/webservice-v1.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\net.wxbug.api\</RelPath>
+      <UpdateFromURL>http://api.wxbug.net/webservice-v1.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>LabelConnector_net_wxbug_api_WeatherBugWebServices</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://www.myproactivesoftware.com/AIT/Live/LicenseService/387/LicenseService.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\WebReference\</RelPath>
+      <UpdateFromURL>http://www.myproactivesoftware.com/AIT/Live/LicenseService/387/LicenseService.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>LabelConnector_WebReference_LicenseService</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="BarTender">
+      <Guid>{D58562C1-E51B-11CF-8941-00A024A9083F}</Guid>
+      <VersionMajor>11</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

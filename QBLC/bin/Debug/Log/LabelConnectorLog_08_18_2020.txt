@@ -1,0 +1,233 @@
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ START - Void Print(System.String, Int32) - 08/18/2020 -------------------]
+Parameter: 1: [Name - None], Value - 
+-------------------[ END  - Print - 08/18/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ START - Void Print(System.String, Int32) - 08/18/2020 -------------------]
+Parameter: 1: [Name - None], Value - 
+-------------------[ END  - Print - 08/18/2020 -------------------]
+
+1<==>LabelConnector:Time:-08/18/2020 05:12:44 PM Bind label list...
+3<==>LabelConnector:Time:-08/18/2020 05:12:44 PMB4 udf label binding 
+4<==>LabelConnector:Time:-08/18/2020 05:12:44 PMater udf label binding 
+5<==>LabelConnector:Time:-08/18/2020 05:12:44 PMb4 setting printer name 
+2<==>LabelConnector:Time:-08/18/2020 05:12:44 PM Get PO upper grid data start...
+3<==>LabelConnector:Time:-08/18/2020 05:12:44 PM Open QB connection started ...
+4<==>LabelConnector:Time:-08/18/2020 05:12:45 PM QB DoRequest processes started...
+5<==>LabelConnector:Time:-08/18/2020 05:12:46 PM QB DoRequest processes completed...
+6<==>LabelConnector:Time:-08/18/2020 05:12:46 PM Open QB connection ended ...
+7<==>LabelConnector:Time:-08/18/2020 05:12:46 PM QB Generate responselist...
+8<==>LabelConnector:Time:-08/18/2020 05:12:46 PMloList is generated
+9<==>LabelConnector:Time:-08/18/2020 05:12:46 PM Get PO upper grid data end...
+9<==>LabelConnector:Time:-08/18/2020 05:12:46 PM binding order grid data start...
+10<==>LabelConnector:Time:-08/18/2020 05:12:46 PM binding order grid data end...
+1a<==>LabelConnector:Time:-08/18/2020 05:12:47 PMData load sucessfully
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+1<==>LabelConnector:Time:-08/18/2020 05:14:53 PM Bind label list...
+3<==>LabelConnector:Time:-08/18/2020 05:14:53 PMB4 udf label binding 
+4<==>LabelConnector:Time:-08/18/2020 05:14:53 PMater udf label binding 
+5<==>LabelConnector:Time:-08/18/2020 05:14:53 PMb4 setting printer name 
+2<==>LabelConnector:Time:-08/18/2020 05:14:53 PM Get PO upper grid data start...
+3<==>LabelConnector:Time:-08/18/2020 05:14:53 PM Open QB connection started ...
+4<==>LabelConnector:Time:-08/18/2020 05:14:54 PM QB DoRequest processes started...
+5<==>LabelConnector:Time:-08/18/2020 05:14:54 PM QB DoRequest processes completed...
+6<==>LabelConnector:Time:-08/18/2020 05:14:54 PM Open QB connection ended ...
+7<==>LabelConnector:Time:-08/18/2020 05:14:54 PM QB Generate responselist...
+8<==>LabelConnector:Time:-08/18/2020 05:14:54 PMloList is generated
+9<==>LabelConnector:Time:-08/18/2020 05:14:54 PM Get PO upper grid data end...
+9<==>LabelConnector:Time:-08/18/2020 05:14:54 PM binding order grid data start...
+10<==>LabelConnector:Time:-08/18/2020 05:14:54 PM binding order grid data end...
+1a<==>LabelConnector:Time:-08/18/2020 05:14:55 PMData load sucessfully
+ErrorFinally : {0}-------------------[ END  - PrintMultipleImages - 08/18/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+1<==>LabelConnector:Time:-08/18/2020 05:48:58 PM Bind label list...
+3<==>LabelConnector:Time:-08/18/2020 05:48:58 PMB4 udf label binding 
+4<==>LabelConnector:Time:-08/18/2020 05:48:58 PMater udf label binding 
+5<==>LabelConnector:Time:-08/18/2020 05:48:58 PMb4 setting printer name 
+1a<==>LabelConnector:Time:-08/18/2020 05:49:00 PMData load sucessfully
+1<==>LabelConnector:Time:-08/18/2020 05:49:02 PM Bind label list...
+3<==>LabelConnector:Time:-08/18/2020 05:49:02 PMB4 udf label binding 
+4<==>LabelConnector:Time:-08/18/2020 05:49:02 PMater udf label binding 
+5<==>LabelConnector:Time:-08/18/2020 05:49:02 PMb4 setting printer name 
+7<==>LabelConnector:Time:-08/18/2020 05:49:02 PMb4 invprint get 
+8<==>LabelConnector:Time:-08/18/2020 05:49:02 PMafter invprint get 
+1a<==>LabelConnector:Time:-08/18/2020 05:49:05 PMData load sucessfully
+P1<==>LabelConnector:Time:-08/18/2020 05:49:16 PMPrinting Start..
+P2<==>LabelConnector:Time:-08/18/2020 05:49:25 PMGet Label namePO
+P3<==>LabelConnector:Time:-08/18/2020 05:49:25 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-08/18/2020 05:49:25 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-08/18/2020 05:49:25 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-08/18/2020 05:49:25 PM==after bill addr
+P5<==>LabelConnector:Time:-08/18/2020 05:49:27 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-08/18/2020 05:49:27 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-08/18/2020 05:49:27 PMAfter Getting Field Property List1
+P8<==>LabelConnector:Time:-08/18/2020 05:49:27 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-08/18/2020 05:49:27 PMBefore pdf creation loop start1
+WRE<==>LabelConnector:Time:-08/18/2020 05:49:27 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-08/18/2020 05:49:27 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-08/18/2020 05:49:28 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+P2<==>LabelConnector:Time:-08/18/2020 05:49:30 PMGet Label namePO
+P3<==>LabelConnector:Time:-08/18/2020 05:49:30 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-08/18/2020 05:49:30 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-08/18/2020 05:49:30 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-08/18/2020 05:49:31 PM==after bill addr
+P5<==>LabelConnector:Time:-08/18/2020 05:49:33 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-08/18/2020 05:49:33 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-08/18/2020 05:49:33 PMAfter Getting Field Property List1
+P8<==>LabelConnector:Time:-08/18/2020 05:49:33 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-08/18/2020 05:49:33 PMBefore pdf creation loop start1
+WRE<==>LabelConnector:Time:-08/18/2020 05:49:33 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-08/18/2020 05:49:33 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-08/18/2020 05:49:33 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+P1<==>LabelConnector:Time:-08/18/2020 05:49:37 PMPrinting Start..
+P2<==>LabelConnector:Time:-08/18/2020 05:49:37 PMGet Label namePO
+P3<==>LabelConnector:Time:-08/18/2020 05:49:37 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-08/18/2020 05:49:37 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-08/18/2020 05:49:37 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-08/18/2020 05:49:38 PM==after bill addr
+P5<==>LabelConnector:Time:-08/18/2020 05:49:40 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-08/18/2020 05:49:40 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-08/18/2020 05:49:40 PMAfter Getting Field Property List1
+P8<==>LabelConnector:Time:-08/18/2020 05:49:40 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-08/18/2020 05:49:40 PMBefore pdf creation loop start1
+WRE<==>LabelConnector:Time:-08/18/2020 05:49:40 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-08/18/2020 05:49:40 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-08/18/2020 05:49:40 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+P2<==>LabelConnector:Time:-08/18/2020 05:49:42 PMGet Label namePO
+P3<==>LabelConnector:Time:-08/18/2020 05:49:42 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-08/18/2020 05:49:42 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-08/18/2020 05:49:42 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-08/18/2020 05:49:43 PM==after bill addr
+P5<==>LabelConnector:Time:-08/18/2020 05:49:44 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-08/18/2020 05:49:44 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-08/18/2020 05:49:44 PMAfter Getting Field Property List1
+P8<==>LabelConnector:Time:-08/18/2020 05:49:44 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-08/18/2020 05:49:44 PMBefore pdf creation loop start1
+WRE<==>LabelConnector:Time:-08/18/2020 05:49:44 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-08/18/2020 05:49:44 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-08/18/2020 05:49:45 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+P1<==>LabelConnector:Time:-08/18/2020 05:50:01 PMPrinting Start..
+P2<==>LabelConnector:Time:-08/18/2020 05:50:26 PMGet Label namePO
+P3<==>LabelConnector:Time:-08/18/2020 05:50:28 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-08/18/2020 05:50:29 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-08/18/2020 05:50:29 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-08/18/2020 05:50:30 PM==after bill addr
+P5<==>LabelConnector:Time:-08/18/2020 05:50:34 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-08/18/2020 05:50:35 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-08/18/2020 05:52:02 PMAfter Getting Field Property List1
+P8<==>LabelConnector:Time:-08/18/2020 05:52:05 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-08/18/2020 05:52:32 PMBefore pdf creation loop start1
+WRE<==>LabelConnector:Time:-08/18/2020 05:54:39 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-08/18/2020 05:54:39 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-08/18/2020 05:54:40 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+P2<==>LabelConnector:Time:-08/18/2020 05:54:57 PMGet Label namePO
+P3<==>LabelConnector:Time:-08/18/2020 05:54:57 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-08/18/2020 05:54:57 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-08/18/2020 05:54:57 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-08/18/2020 05:54:58 PM==after bill addr
+P5<==>LabelConnector:Time:-08/18/2020 05:55:01 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-08/18/2020 05:55:01 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-08/18/2020 05:55:01 PMAfter Getting Field Property List1
+P8<==>LabelConnector:Time:-08/18/2020 05:55:07 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-08/18/2020 05:55:13 PMBefore pdf creation loop start1
+WRE<==>LabelConnector:Time:-08/18/2020 05:55:19 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-08/18/2020 05:55:19 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-08/18/2020 05:55:19 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+1<==>LabelConnector:Time:-08/18/2020 05:55:47 PM Bind label list...
+3<==>LabelConnector:Time:-08/18/2020 05:55:47 PMB4 udf label binding 
+4<==>LabelConnector:Time:-08/18/2020 05:55:47 PMater udf label binding 
+5<==>LabelConnector:Time:-08/18/2020 05:55:47 PMb4 setting printer name 
+1a<==>LabelConnector:Time:-08/18/2020 05:55:55 PMData load sucessfully
+1<==>LabelConnector:Time:-08/18/2020 05:56:05 PM Bind label list...
+3<==>LabelConnector:Time:-08/18/2020 05:56:05 PMB4 udf label binding 
+4<==>LabelConnector:Time:-08/18/2020 05:56:05 PMater udf label binding 
+5<==>LabelConnector:Time:-08/18/2020 05:56:05 PMb4 setting printer name 
+1a<==>LabelConnector:Time:-08/18/2020 05:56:11 PMData load sucessfully
+1<==>LabelConnector:Time:-08/18/2020 07:23:52 PM Bind label list...
+3<==>LabelConnector:Time:-08/18/2020 07:23:52 PMB4 udf label binding 
+4<==>LabelConnector:Time:-08/18/2020 07:23:52 PMater udf label binding 
+5<==>LabelConnector:Time:-08/18/2020 07:23:52 PMb4 setting printer name 
+7<==>LabelConnector:Time:-08/18/2020 07:23:52 PMb4 invprint get 
+8<==>LabelConnector:Time:-08/18/2020 07:23:52 PMafter invprint get 
+1a<==>LabelConnector:Time:-08/18/2020 07:23:57 PMData load sucessfully
+P1<==>LabelConnector:Time:-08/18/2020 07:26:37 PMPrinting Start..
+P2<==>LabelConnector:Time:-08/18/2020 07:26:45 PMGet Label namePO
+P3<==>LabelConnector:Time:-08/18/2020 07:26:46 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-08/18/2020 07:26:47 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-08/18/2020 07:26:47 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-08/18/2020 07:26:49 PM==after bill addr
+P5<==>LabelConnector:Time:-08/18/2020 07:26:54 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-08/18/2020 07:26:56 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-08/18/2020 07:26:57 PMAfter Getting Field Property List1
+P8<==>LabelConnector:Time:-08/18/2020 07:27:05 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-08/18/2020 07:27:31 PMBefore pdf creation loop start1
+WRE<==>LabelConnector:Time:-08/18/2020 07:33:08 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-08/18/2020 07:33:08 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-08/18/2020 07:33:09 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+P1<==>LabelConnector:Time:-08/18/2020 07:33:38 PMPrinting Start..
+P2<==>LabelConnector:Time:-08/18/2020 07:33:38 PMGet Label namePO
+P3<==>LabelConnector:Time:-08/18/2020 07:33:38 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-08/18/2020 07:33:38 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-08/18/2020 07:33:38 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-08/18/2020 07:33:41 PM==after bill addr
+P5<==>LabelConnector:Time:-08/18/2020 07:33:44 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-08/18/2020 07:33:44 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-08/18/2020 07:33:44 PMAfter Getting Field Property List1
+P8<==>LabelConnector:Time:-08/18/2020 07:33:44 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-08/18/2020 07:33:44 PMBefore pdf creation loop start1
+WRE<==>LabelConnector:Time:-08/18/2020 07:33:44 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-08/18/2020 07:33:44 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-08/18/2020 07:33:45 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+1<==>LabelConnector:Time:-08/18/2020 07:34:01 PM Bind label list...
+3<==>LabelConnector:Time:-08/18/2020 07:34:01 PMB4 udf label binding 
+4<==>LabelConnector:Time:-08/18/2020 07:34:01 PMater udf label binding 
+5<==>LabelConnector:Time:-08/18/2020 07:34:01 PMb4 setting printer name 
+1a<==>LabelConnector:Time:-08/18/2020 07:34:04 PMData load sucessfully
+1<==>LabelConnector:Time:-08/18/2020 07:34:06 PM Bind label list...
+3<==>LabelConnector:Time:-08/18/2020 07:34:06 PMB4 udf label binding 
+4<==>LabelConnector:Time:-08/18/2020 07:34:06 PMater udf label binding 
+5<==>LabelConnector:Time:-08/18/2020 07:34:06 PMb4 setting printer name 
+1a<==>LabelConnector:Time:-08/18/2020 07:34:37 PMData load sucessfully
+19<==>LabelConnector:Time:-08/18/2020 07:35:12 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-08/18/2020 07:35:13 PMGet Barcode value ResponseList Generated.
+21<==>LabelConnector:Time:-08/18/2020 07:35:13 PMcheck Barcode IndexOf condition start
+22<==>LabelConnector:Time:-08/18/2020 07:35:13 PMcheck Barcode IndexOf condition matched sucessufully
+23<==>LabelConnector:Time:-08/18/2020 07:35:13 PMreturn Barcode value as0103358660106
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+19<==>LabelConnector:Time:-08/18/2020 07:36:09 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-08/18/2020 07:36:11 PMGet Barcode value ResponseList Generated.
+21<==>LabelConnector:Time:-08/18/2020 07:36:11 PMcheck Barcode IndexOf condition start
+22<==>LabelConnector:Time:-08/18/2020 07:36:11 PMcheck Barcode IndexOf condition matched sucessufully
+23<==>LabelConnector:Time:-08/18/2020 07:36:11 PMreturn Barcode value as0103358660106
+ErrorFinally : {0}-------------------[ END  - Print - 08/18/2020 -------------------]
+
+19<==>LabelConnector:Time:-08/18/2020 07:36:42 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-08/18/2020 07:36:44 PMGet Barcode value ResponseList Generated.
+21<==>LabelConnector:Time:-08/18/2020 07:36:44 PMcheck Barcode IndexOf condition start
+22<==>LabelConnector:Time:-08/18/2020 07:36:44 PMcheck Barcode IndexOf condition matched sucessufully
+23<==>LabelConnector:Time:-08/18/2020 07:36:44 PMreturn Barcode value as0103358660106

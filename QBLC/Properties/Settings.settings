@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LabelConnector.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LabelConnector_net_wxbug_api_WeatherBugWebServices" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://api.wxbug.net/webservice-v1.asmx</Value>
+    </Setting>
+    <Setting Name="LabelConnector_WebReference_LicenseService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.myproactivesoftware.com/AIT/Live/LicenseService/387/LicenseService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

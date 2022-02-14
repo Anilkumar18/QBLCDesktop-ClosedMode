@@ -1,0 +1,69 @@
+ErrorFinally : {0}-------------------[ END  - Print - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+
+ErrorCatch : {0}System.Drawing.Printing.InvalidPrinterException: Settings to access printer 'HP DJ 5000 series PCL-3' are not valid.
+   at System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal(String printer)
+   at System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal()
+   at System.Drawing.Printing.PrinterSettings.GetHdevmode(PageSettings pageSettings)
+   at System.Drawing.Printing.PrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.StandardPrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at LabelConnector.clsTemplateLabelXmlwork.TestPrint(String FileName) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\clsTemplateLabelXmlwork.cs:line 4278
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+
+ErrorCatch : {0}System.Drawing.Printing.InvalidPrinterException: Settings to access printer 'HP DJ 5000 series PCL-3' are not valid.
+   at System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal(String printer)
+   at System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal()
+   at System.Drawing.Printing.PrinterSettings.GetHdevmode(PageSettings pageSettings)
+   at System.Drawing.Printing.PrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.StandardPrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at LabelConnector.clsTemplateLabelXmlwork.TestPrint(String FileName) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\clsTemplateLabelXmlwork.cs:line 4278
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+
+ErrorCatch : {0}System.Drawing.Printing.InvalidPrinterException: Settings to access printer 'HP DJ 5000 series PCL-3' are not valid.
+   at System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal(String printer)
+   at System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal()
+   at System.Drawing.Printing.PrinterSettings.GetHdevmode(PageSettings pageSettings)
+   at System.Drawing.Printing.PrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.StandardPrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at LabelConnector.clsTemplateLabelXmlwork.TestPrint(String FileName) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\clsTemplateLabelXmlwork.cs:line 4278
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - TestPrint - 07/28/2020 -------------------]
+

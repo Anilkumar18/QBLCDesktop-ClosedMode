@@ -1,0 +1,160 @@
+C:\Users\kbodhale\Desktop\FolderRights (1)\FolderRights\SetAccessRights\bin\Debug\SetAccessRights.exe
+C:\Users\kbodhale\Desktop\FolderRights (1)\FolderRights\SetAccessRights\bin\Debug\SetAccessRights.pdb
+C:\Users\kbodhale\Desktop\FolderRights (1)\FolderRights\SetAccessRights\obj\Debug\SetAccessRights.exe
+C:\Users\kbodhale\Desktop\FolderRights (1)\FolderRights\SetAccessRights\obj\Debug\SetAccessRights.pdb
+C:\Accuware\FolderRights\SetAccessRights\bin\Debug\SetAccessRights.exe
+C:\Accuware\FolderRights\SetAccessRights\bin\Debug\SetAccessRights.pdb
+C:\Accuware\FolderRights\SetAccessRights\obj\Debug\SetAccessRights.exe
+C:\Accuware\FolderRights\SetAccessRights\obj\Debug\SetAccessRights.pdb
+D:\Accuware\QBLC_Product\To_Build\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+D:\Accuware\QBLC_Product\To_Build\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.exe
+D:\Accuware\QBLC_Product\To_Build\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.pdb
+D:\Accuware\QBLC_Product\To_Build\QBLC_AIT - MergeCode\SetAccessRights\obj\Debug\SetAccessRights.exe
+D:\Accuware\QBLC_Product\To_Build\QBLC_AIT - MergeCode\SetAccessRights\obj\Debug\SetAccessRights.pdb
+C:\Users\admin\Desktop\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+C:\Users\admin\Desktop\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.exe
+C:\Users\admin\Desktop\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.pdb
+C:\Users\admin\Desktop\QBLC_AIT - MergeCode\SetAccessRights\obj\Debug\SetAccessRights.exe
+C:\Users\admin\Desktop\QBLC_AIT - MergeCode\SetAccessRights\obj\Debug\SetAccessRights.pdb
+C:\Accuware\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+C:\Accuware\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.exe
+C:\Accuware\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.pdb
+C:\Accuware\QBLC_AIT - MergeCode\SetAccessRights\obj\Debug\SetAccessRights.exe
+C:\Accuware\QBLC_AIT - MergeCode\SetAccessRights\obj\Debug\SetAccessRights.pdb
+C:\Accuware\QBLC_AIT_MergeCode_WithLIcenceKey\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+C:\Accuware\QBLC_AIT_MergeCode_WithLIcenceKey\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.exe
+C:\Accuware\QBLC_AIT_MergeCode_WithLIcenceKey\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.pdb
+C:\Accuware\QBLC_AIT_MergeCode_WithLIcenceKey\QBLC_AIT - MergeCode\SetAccessRights\obj\Debug\SetAccessRights.csprojResolveAssemblyReference.cache
+C:\Accuware\QBLC_AIT_MergeCode_WithLIcenceKey\QBLC_AIT - MergeCode\SetAccessRights\obj\Debug\SetAccessRights.exe
+C:\Accuware\QBLC_AIT_MergeCode_WithLIcenceKey\QBLC_AIT - MergeCode\SetAccessRights\obj\Debug\SetAccessRights.pdb
+C:\Accuware\QBLC_AIT_MergeCode_Required-LicenceKey\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+C:\Accuware\QBLC_AIT_MergeCode_Required-LicenceKey\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.exe
+C:\Accuware\QBLC_AIT_MergeCode_Required-LicenceKey\QBLC_AIT - MergeCode\SetAccessRights\bin\Debug\SetAccessRights.pdb
+C:\Accuware\QBLC_AIT_MergeCode_Required-LicenceKey\QBLC_AIT - MergeCode\SetAccessRights\obj\Debug\SetAccessRights.exe
+C:\Accuware\QBLC_AIT_MergeCode_Required-LicenceKey\QBLC_AIT - MergeCode\SetAccessRights\obj\Debug\SetAccessRights.pdb
+C:\Accuware\QBLC_AIT_MergeCode_Required-LicenceKey\QBLC_AIT - MergeCode\SetAccessRights\obj\Debug\SetAccessRights.csprojResolveAssemblyReference.cache
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+E:\TamilRK\QB and Sage Projects\Test files\Edit desc\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+E:\TamilRK\QB and Sage Projects\Test files\Edit desc\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Edit desc\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Edit desc\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Edit desc\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Edit desc\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+E:\TamilRK\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+E:\TamilRK\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.exe
+E:\TamilRK\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.pdb
+E:\TamilRK\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.exe
+E:\TamilRK\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.pdb
+E:\TamilRK\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+E:\TamilRK\QB and Sage Projects\Test files\Pixalation imp\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+E:\TamilRK\QB and Sage Projects\Test files\Pixalation imp\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Pixalation imp\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Pixalation imp\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Pixalation imp\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Pixalation imp\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+E:\TamilRK\QB and Sage Projects\Test files\Barcode single mode\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+E:\TamilRK\QB and Sage Projects\Test files\Barcode single mode\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Barcode single mode\QBLC_22June2020\SetAccessRights\bin\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Barcode single mode\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+E:\TamilRK\QB and Sage Projects\Test files\Barcode single mode\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Barcode single mode\QBLC_22June2020\SetAccessRights\obj\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Item Lsit Bin filed\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+E:\TamilRK\QB and Sage Projects\Test files\Item Lsit Bin filed\SetAccessRights\bin\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Item Lsit Bin filed\SetAccessRights\bin\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Item Lsit Bin filed\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+E:\TamilRK\QB and Sage Projects\Test files\Item Lsit Bin filed\SetAccessRights\obj\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Item Lsit Bin filed\SetAccessRights\obj\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Center align and lorg font issue LST\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+E:\TamilRK\QB and Sage Projects\Test files\Center align and lorg font issue LST\SetAccessRights\bin\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Center align and lorg font issue LST\SetAccessRights\bin\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Center align and lorg font issue LST\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+E:\TamilRK\QB and Sage Projects\Test files\Center align and lorg font issue LST\SetAccessRights\obj\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Center align and lorg font issue LST\SetAccessRights\obj\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Center align and lorg font issue LST\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+E:\Raja Priya\QB\27-02-2021\Center align and lorg font issue LST\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+E:\Raja Priya\QB\27-02-2021\Center align and lorg font issue LST\SetAccessRights\bin\Debug\SetAccessRights.exe
+E:\Raja Priya\QB\27-02-2021\Center align and lorg font issue LST\SetAccessRights\bin\Debug\SetAccessRights.pdb
+E:\Raja Priya\QB\27-02-2021\Center align and lorg font issue LST\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+E:\Raja Priya\QB\27-02-2021\Center align and lorg font issue LST\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+E:\Raja Priya\QB\27-02-2021\Center align and lorg font issue LST\SetAccessRights\obj\Debug\SetAccessRights.exe
+E:\Raja Priya\QB\27-02-2021\Center align and lorg font issue LST\SetAccessRights\obj\Debug\SetAccessRights.pdb
+D:\RAJA PRIYA\QB\QBLC\Center align and lorg font issue LST\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+D:\RAJA PRIYA\QB\QBLC\Center align and lorg font issue LST\SetAccessRights\bin\Debug\SetAccessRights.exe
+D:\RAJA PRIYA\QB\QBLC\Center align and lorg font issue LST\SetAccessRights\bin\Debug\SetAccessRights.pdb
+D:\RAJA PRIYA\QB\QBLC\Center align and lorg font issue LST\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+D:\RAJA PRIYA\QB\QBLC\Center align and lorg font issue LST\SetAccessRights\obj\Debug\SetAccessRights.exe
+D:\RAJA PRIYA\QB\QBLC\Center align and lorg font issue LST\SetAccessRights\obj\Debug\SetAccessRights.pdb
+D:\RAJA PRIYA\QB\QBLC\Center align and lorg font issue LST\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+D:\RAJA PRIYA\QB\QBLC\QBLC Speed Issue\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+D:\RAJA PRIYA\QB\QBLC\QBLC Speed Issue\SetAccessRights\bin\Debug\SetAccessRights.exe
+D:\RAJA PRIYA\QB\QBLC\QBLC Speed Issue\SetAccessRights\bin\Debug\SetAccessRights.pdb
+D:\RAJA PRIYA\QB\QBLC\QBLC Speed Issue\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+D:\RAJA PRIYA\QB\QBLC\QBLC Speed Issue\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+D:\RAJA PRIYA\QB\QBLC\QBLC Speed Issue\SetAccessRights\obj\Debug\SetAccessRights.exe
+D:\RAJA PRIYA\QB\QBLC\QBLC Speed Issue\SetAccessRights\obj\Debug\SetAccessRights.pdb
+E:\Raja Priya\QB\08-04-2021\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+E:\Raja Priya\QB\08-04-2021\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe
+E:\Raja Priya\QB\08-04-2021\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.pdb
+E:\Raja Priya\QB\08-04-2021\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+E:\Raja Priya\QB\08-04-2021\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.exe
+E:\Raja Priya\QB\08-04-2021\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.pdb
+E:\Raja Priya\QB\08-04-2021\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+D:\Raja Priya\QB\User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+D:\Raja Priya\QB\User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe
+D:\Raja Priya\QB\User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.pdb
+D:\Raja Priya\QB\User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+D:\Raja Priya\QB\User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.exe
+D:\Raja Priya\QB\User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.pdb
+D:\Raja Priya\QB\User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+D:\User based QBLC\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+D:\User based QBLC\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe
+D:\User based QBLC\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.pdb
+D:\User based QBLC\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+D:\User based QBLC\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+D:\User based QBLC\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.exe
+D:\User based QBLC\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.pdb
+D:\Dev User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+D:\Dev User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe
+D:\Dev User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.pdb
+D:\Dev User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+D:\Dev User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.exe
+D:\Dev User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.pdb
+D:\Dev User Based QBLC\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+D:\QBLC User Based\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+D:\QBLC User Based\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe
+D:\QBLC User Based\QBLC with Login screen\QBLC\SetAccessRights\bin\Debug\SetAccessRights.pdb
+D:\QBLC User Based\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+D:\QBLC User Based\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.exe
+D:\QBLC User Based\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.pdb
+D:\QBLC User Based\QBLC with Login screen\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+E:\TFS\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+E:\TFS\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe
+E:\TFS\QBLC\SetAccessRights\bin\Debug\SetAccessRights.pdb
+E:\TFS\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+E:\TFS\QBLC\SetAccessRights\obj\Debug\SetAccessRights.exe
+E:\TFS\QBLC\SetAccessRights\obj\Debug\SetAccessRights.pdb
+E:\TFS\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+D:\QBLC User Based\QBLC\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+D:\QBLC User Based\QBLC\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe
+D:\QBLC User Based\QBLC\QBLC\SetAccessRights\bin\Debug\SetAccessRights.pdb
+D:\QBLC User Based\QBLC\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+D:\QBLC User Based\QBLC\QBLC\SetAccessRights\obj\Debug\SetAccessRights.exe
+D:\QBLC User Based\QBLC\QBLC\SetAccessRights\obj\Debug\SetAccessRights.pdb
+D:\QBLC User Based\QBLC\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csprojAssemblyReference.cache
+D:\QBLC User Based\QBLC QB Close mode\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+D:\QBLC User Based\QBLC QB Close mode\QBLC\SetAccessRights\bin\Debug\SetAccessRights.exe
+D:\QBLC User Based\QBLC QB Close mode\QBLC\SetAccessRights\bin\Debug\SetAccessRights.pdb
+D:\QBLC User Based\QBLC QB Close mode\QBLC\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+D:\QBLC User Based\QBLC QB Close mode\QBLC\SetAccessRights\obj\Debug\SetAccessRights.exe
+D:\QBLC User Based\QBLC QB Close mode\QBLC\SetAccessRights\obj\Debug\SetAccessRights.pdb

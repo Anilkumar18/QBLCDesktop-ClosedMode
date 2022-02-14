@@ -1,0 +1,895 @@
+1<==>LabelConnector:Time:-24-07-2020 11:16:43 AM Bind label list...
+3<==>LabelConnector:Time:-24-07-2020 11:16:46 AMB4 udf label binding 
+4<==>LabelConnector:Time:-24-07-2020 11:16:47 AMater udf label binding 
+5<==>LabelConnector:Time:-24-07-2020 11:16:48 AMb4 setting printer name 
+1a<==>LabelConnector:Time:-24-07-2020 11:17:20 AMData load sucessfully
+1<==>LabelConnector:Time:-24-07-2020 11:19:25 AM Bind label list...
+3<==>LabelConnector:Time:-24-07-2020 11:19:26 AMB4 udf label binding 
+4<==>LabelConnector:Time:-24-07-2020 11:19:26 AMater udf label binding 
+5<==>LabelConnector:Time:-24-07-2020 11:19:26 AMb4 setting printer name 
+7<==>LabelConnector:Time:-24-07-2020 11:19:26 AMb4 invprint get 
+8<==>LabelConnector:Time:-24-07-2020 11:19:26 AMafter invprint get 
+1a<==>LabelConnector:Time:-24-07-2020 11:20:09 AMData load sucessfully
+1<==>LabelConnector:Time:-24-07-2020 12:09:43 PM Bind label list...
+3<==>LabelConnector:Time:-24-07-2020 12:09:43 PMB4 udf label binding 
+4<==>LabelConnector:Time:-24-07-2020 12:09:43 PMater udf label binding 
+5<==>LabelConnector:Time:-24-07-2020 12:09:43 PMb4 setting printer name 
+7<==>LabelConnector:Time:-24-07-2020 12:09:43 PMb4 invprint get 
+8<==>LabelConnector:Time:-24-07-2020 12:09:43 PMafter invprint get 
+1a<==>LabelConnector:Time:-24-07-2020 12:09:46 PMData load sucessfully
+1<==>LabelConnector:Time:-24-07-2020 12:09:46 PM Bind label list...
+3<==>LabelConnector:Time:-24-07-2020 12:09:46 PMB4 udf label binding 
+4<==>LabelConnector:Time:-24-07-2020 12:09:46 PMater udf label binding 
+5<==>LabelConnector:Time:-24-07-2020 12:09:46 PMb4 setting printer name 
+7<==>LabelConnector:Time:-24-07-2020 12:09:46 PMb4 invprint get 
+8<==>LabelConnector:Time:-24-07-2020 12:09:46 PMafter invprint get 
+1a<==>LabelConnector:Time:-24-07-2020 12:09:49 PMData load sucessfully
+1<==>LabelConnector:Time:-24-07-2020 12:09:49 PM Bind label list...
+3<==>LabelConnector:Time:-24-07-2020 12:09:49 PMB4 udf label binding 
+4<==>LabelConnector:Time:-24-07-2020 12:09:49 PMater udf label binding 
+5<==>LabelConnector:Time:-24-07-2020 12:09:49 PMb4 setting printer name 
+7<==>LabelConnector:Time:-24-07-2020 12:09:49 PMb4 invprint get 
+8<==>LabelConnector:Time:-24-07-2020 12:09:49 PMafter invprint get 
+1a<==>LabelConnector:Time:-24-07-2020 12:09:51 PMData load sucessfully
+P1<==>LabelConnector:Time:-24-07-2020 12:09:55 PMPrinting Start..
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:2 if header row checked
+Step:3 FieldPropertiesList2
+Step:43
+Step:610
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 24-07-2020 -------------------]
+
+Step16: after printing
+P1<==>LabelConnector:Time:-24-07-2020 12:10:54 PMPrinting Start..
+Step:1 insidefor
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:610
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 24-07-2020 -------------------]
+
+Step16: after printing
+P1<==>LabelConnector:Time:-24-07-2020 12:12:02 PMPrinting Start..
+Step:1 insidefor
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:610
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 24-07-2020 -------------------]
+
+Step16: after printing
+P1<==>LabelConnector:Time:-24-07-2020 12:12:10 PMPrinting Start..
+Step:1 insidefor
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:610
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 24-07-2020 -------------------]
+
+ErrorCatch : {0}System.IO.DirectoryNotFoundException: Could not find a part of the path 'E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\Debug\PdfPrintImagesList\Invoice'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at QBLC.frmPrintLabel.PrintMultipleInvoices(String pstrimagepath, Int32 pintprintcount, Double printdelay) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\frmPrintLabel.cs:line 9482
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 24-07-2020 -------------------]
+
+Step16: after printing
+P1<==>LabelConnector:Time:-24-07-2020 12:13:02 PMPrinting Start..
+Step:1 insidefor
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:610
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 24-07-2020 -------------------]
+
+Step16: after printing
+P1<==>LabelConnector:Time:-24-07-2020 12:41:48 PMPrinting Start..
+Step:1 insidefor
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:610
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 24-07-2020 -------------------]
+
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 24-07-2020 -------------------]
+
+Step16: after printing
+P1<==>LabelConnector:Time:-24-07-2020 12:45:55 PMPrinting Start..
+Step:1 insidefor
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:610
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 24-07-2020 -------------------]
+
+Step16: after printing
+P1<==>LabelConnector:Time:-24-07-2020 12:46:11 PMPrinting Start..
+Step:1 insidefor
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:610
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 24-07-2020 -------------------]
+
+Step16: after printing
+P1<==>LabelConnector:Time:-24-07-2020 12:46:36 PMPrinting Start..
+Step:1 insidefor
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:610
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 24-07-2020 -------------------]
+
+Step16: after printing
+P1<==>LabelConnector:Time:-24-07-2020 12:47:50 PMPrinting Start..
+Step:1 insidefor
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:610
+Step7: before loop
+Step8: Get items for selected order
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 24-07-2020 -------------------]
+
+Step16: after printing
+P1<==>LabelConnector:Time:-24-07-2020 12:51:58 PMPrinting Start..
+Step:1 insidefor
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:610
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 24-07-2020 -------------------]
+
+Step16: after printing
+1<==>LabelConnector:Time:-24-07-2020 12:52:10 PM Bind label list...
+3<==>LabelConnector:Time:-24-07-2020 12:52:10 PMB4 udf label binding 
+4<==>LabelConnector:Time:-24-07-2020 12:52:10 PMater udf label binding 
+5<==>LabelConnector:Time:-24-07-2020 12:52:10 PMb4 setting printer name 
+7<==>LabelConnector:Time:-24-07-2020 12:52:10 PMb4 invprint get 
+8<==>LabelConnector:Time:-24-07-2020 12:52:10 PMafter invprint get 
+1a<==>LabelConnector:Time:-24-07-2020 12:57:21 PMData load sucessfully
+1<==>LabelConnector:Time:-24-07-2020 12:57:32 PM Bind label list...
+3<==>LabelConnector:Time:-24-07-2020 12:57:32 PMB4 udf label binding 
+4<==>LabelConnector:Time:-24-07-2020 12:57:32 PMater udf label binding 
+5<==>LabelConnector:Time:-24-07-2020 12:57:32 PMb4 setting printer name 
+7<==>LabelConnector:Time:-24-07-2020 12:57:32 PMb4 invprint get 
+8<==>LabelConnector:Time:-24-07-2020 12:57:32 PMafter invprint get 
+1a<==>LabelConnector:Time:-24-07-2020 12:59:01 PMData load sucessfully
+1<==>LabelConnector:Time:-24-07-2020 12:59:03 PM Bind label list...
+3<==>LabelConnector:Time:-24-07-2020 12:59:03 PMB4 udf label binding 
+4<==>LabelConnector:Time:-24-07-2020 12:59:03 PMater udf label binding 
+5<==>LabelConnector:Time:-24-07-2020 12:59:03 PMb4 setting printer name 
+7<==>LabelConnector:Time:-24-07-2020 12:59:03 PMb4 invprint get 
+8<==>LabelConnector:Time:-24-07-2020 12:59:03 PMafter invprint get 
+1a<==>LabelConnector:Time:-24-07-2020 12:59:27 PMData load sucessfully
+1<==>LabelConnector:Time:-24-07-2020 12:59:34 PM Bind label list...
+3<==>LabelConnector:Time:-24-07-2020 12:59:38 PMB4 udf label binding 
+4<==>LabelConnector:Time:-24-07-2020 12:59:39 PMater udf label binding 
+5<==>LabelConnector:Time:-24-07-2020 12:59:40 PMb4 setting printer name 
+7<==>LabelConnector:Time:-24-07-2020 12:59:45 PMb4 invprint get 
+8<==>LabelConnector:Time:-24-07-2020 12:59:47 PMafter invprint get 
+1a<==>LabelConnector:Time:-24-07-2020 01:06:52 PMData load sucessfully
+1<==>LabelConnector:Time:-24-07-2020 01:07:03 PM Bind label list...
+3<==>LabelConnector:Time:-24-07-2020 01:07:03 PMB4 udf label binding 
+4<==>LabelConnector:Time:-24-07-2020 01:07:03 PMater udf label binding 
+5<==>LabelConnector:Time:-24-07-2020 01:07:03 PMb4 setting printer name 
+7<==>LabelConnector:Time:-24-07-2020 01:07:03 PMb4 invprint get 
+8<==>LabelConnector:Time:-24-07-2020 01:07:03 PMafter invprint get 
+1a<==>LabelConnector:Time:-24-07-2020 01:07:08 PMData load sucessfully
+1<==>LabelConnector:Time:-24-07-2020 01:08:05 PM Bind label list...
+3<==>LabelConnector:Time:-24-07-2020 01:08:05 PMB4 udf label binding 
+4<==>LabelConnector:Time:-24-07-2020 01:08:05 PMater udf label binding 
+5<==>LabelConnector:Time:-24-07-2020 01:08:05 PMb4 setting printer name 
+7<==>LabelConnector:Time:-24-07-2020 01:08:05 PMb4 invprint get 
+8<==>LabelConnector:Time:-24-07-2020 01:08:05 PMafter invprint get 
+1a<==>LabelConnector:Time:-24-07-2020 01:08:10 PMData load sucessfully
+1<==>LabelConnector:Time:-07/24/2020 01:12:13 PM Bind label list...
+3<==>LabelConnector:Time:-07/24/2020 01:12:13 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/24/2020 01:12:13 PMater udf label binding 
+5<==>LabelConnector:Time:-07/24/2020 01:12:13 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/24/2020 01:12:13 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/24/2020 01:12:13 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/24/2020 01:12:22 PMData load sucessfully
+1<==>LabelConnector:Time:-07/24/2020 01:12:34 PM Bind label list...
+3<==>LabelConnector:Time:-07/24/2020 01:12:34 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/24/2020 01:12:34 PMater udf label binding 
+5<==>LabelConnector:Time:-07/24/2020 01:12:34 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/24/2020 01:12:34 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/24/2020 01:12:34 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/24/2020 01:12:38 PMData load sucessfully
+P1<==>LabelConnector:Time:-07/24/2020 01:12:44 PMPrinting Start..
+P2<==>LabelConnector:Time:-07/24/2020 01:12:44 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-07/24/2020 01:12:44 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-07/24/2020 01:12:44 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-07/24/2020 01:12:44 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-07/24/2020 01:12:46 PM==after bill addr
+P5<==>LabelConnector:Time:-07/24/2020 01:12:50 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-07/24/2020 01:12:50 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-07/24/2020 01:12:50 PMAfter Getting Field Property List2
+P8<==>LabelConnector:Time:-07/24/2020 01:12:50 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-07/24/2020 01:12:50 PMBefore pdf creation loop start2
+Maping<==>LabelConnector:Time:-07/24/2020 01:12:50 PMProperty FieldInvoiceLineDesc==Property ValuePOWER MANUAL 1500
+Maping<==>LabelConnector:Time:-07/24/2020 01:12:50 PMProperty FieldOther==Property Value
+WRE<==>LabelConnector:Time:-07/24/2020 01:12:50 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-07/24/2020 01:12:50 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-07/24/2020 01:12:51 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 07/24/2020 -------------------]
+
+P1<==>LabelConnector:Time:-07/24/2020 01:14:51 PMPrinting Start..
+P2<==>LabelConnector:Time:-07/24/2020 01:14:51 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-07/24/2020 01:14:51 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-07/24/2020 01:14:51 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-07/24/2020 01:14:51 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-07/24/2020 01:14:53 PM==after bill addr
+P5<==>LabelConnector:Time:-07/24/2020 01:14:57 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-07/24/2020 01:14:57 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-07/24/2020 01:14:57 PMAfter Getting Field Property List2
+P8<==>LabelConnector:Time:-07/24/2020 01:14:57 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-07/24/2020 01:14:57 PMBefore pdf creation loop start2
+Maping<==>LabelConnector:Time:-07/24/2020 01:14:57 PMProperty FieldInvoiceLineDesc==Property ValuePOWER MANUAL 1500
+Maping<==>LabelConnector:Time:-07/24/2020 01:14:57 PMProperty FieldOther==Property Value
+WRE<==>LabelConnector:Time:-07/24/2020 01:14:57 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-07/24/2020 01:14:57 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-07/24/2020 01:14:57 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 07/24/2020 -------------------]
+
+P2<==>LabelConnector:Time:-07/24/2020 01:15:02 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-07/24/2020 01:15:02 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-07/24/2020 01:15:02 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-07/24/2020 01:15:02 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-07/24/2020 01:15:03 PM==after bill addr
+P5<==>LabelConnector:Time:-07/24/2020 01:15:07 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-07/24/2020 01:15:07 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-07/24/2020 01:15:07 PMAfter Getting Field Property List2
+P8<==>LabelConnector:Time:-07/24/2020 01:15:07 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-07/24/2020 01:15:07 PMBefore pdf creation loop start2
+Maping<==>LabelConnector:Time:-07/24/2020 01:15:07 PMProperty FieldInvoiceLineDesc==Property ValueLight Blue
+Maping<==>LabelConnector:Time:-07/24/2020 01:15:07 PMProperty FieldOther==Property Value
+WRE<==>LabelConnector:Time:-07/24/2020 01:15:07 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-07/24/2020 01:15:07 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-07/24/2020 01:15:08 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 07/24/2020 -------------------]
+
+1<==>LabelConnector:Time:-07/24/2020 01:59:55 PM Bind label list...
+3<==>LabelConnector:Time:-07/24/2020 01:59:55 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/24/2020 01:59:55 PMater udf label binding 
+5<==>LabelConnector:Time:-07/24/2020 01:59:55 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/24/2020 01:59:55 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/24/2020 01:59:55 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/24/2020 02:00:00 PMData load sucessfully
+1<==>LabelConnector:Time:-07/24/2020 02:00:56 PM Bind label list...
+3<==>LabelConnector:Time:-07/24/2020 02:00:56 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/24/2020 02:00:56 PMater udf label binding 
+5<==>LabelConnector:Time:-07/24/2020 02:00:56 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/24/2020 02:00:56 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/24/2020 02:00:56 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/24/2020 02:01:01 PMData load sucessfully
+1<==>LabelConnector:Time:-07/24/2020 04:29:08 PM Bind label list...
+3<==>LabelConnector:Time:-07/24/2020 04:29:08 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/24/2020 04:29:08 PMater udf label binding 
+5<==>LabelConnector:Time:-07/24/2020 04:29:08 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/24/2020 04:29:08 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/24/2020 04:29:08 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/24/2020 04:29:12 PMData load sucessfully
+1<==>LabelConnector:Time:-07/24/2020 04:29:26 PM Bind label list...
+3<==>LabelConnector:Time:-07/24/2020 04:29:26 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/24/2020 04:29:26 PMater udf label binding 
+5<==>LabelConnector:Time:-07/24/2020 04:29:26 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/24/2020 04:29:26 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/24/2020 04:29:26 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/24/2020 04:29:30 PMData load sucessfully
+P1<==>LabelConnector:Time:-07/24/2020 04:29:35 PMPrinting Start..
+P2<==>LabelConnector:Time:-07/24/2020 04:29:35 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-07/24/2020 04:29:35 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-07/24/2020 04:29:35 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-07/24/2020 04:29:35 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-07/24/2020 04:29:36 PM==after bill addr
+P5<==>LabelConnector:Time:-07/24/2020 04:29:40 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-07/24/2020 04:29:40 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-07/24/2020 04:29:40 PMAfter Getting Field Property List2
+P8<==>LabelConnector:Time:-07/24/2020 04:29:40 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-07/24/2020 04:29:40 PMBefore pdf creation loop start2
+Maping<==>LabelConnector:Time:-07/24/2020 04:29:40 PMProperty FieldInvoiceLineDesc==Property ValueMANUAL COVER 1000
+Maping<==>LabelConnector:Time:-07/24/2020 04:29:40 PMProperty FieldOther==Property ValueMike Van Halen
+WRE<==>LabelConnector:Time:-07/24/2020 04:29:40 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-07/24/2020 04:29:40 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-07/24/2020 04:29:41 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 07/24/2020 -------------------]
+
+1<==>LabelConnector:Time:-07/24/2020 04:30:15 PM Bind label list...
+3<==>LabelConnector:Time:-07/24/2020 04:30:15 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/24/2020 04:30:15 PMater udf label binding 
+5<==>LabelConnector:Time:-07/24/2020 04:30:15 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/24/2020 04:30:15 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/24/2020 04:30:15 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/24/2020 04:30:20 PMData load sucessfully
+P1<==>LabelConnector:Time:-07/24/2020 04:30:36 PMPrinting Start..
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:614
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 07/24/2020 -------------------]
+
+Step16: after printing
+P1<==>LabelConnector:Time:-07/24/2020 04:31:39 PMPrinting Start..
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:614
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 07/24/2020 -------------------]
+
+Step16: after printing
+P1<==>LabelConnector:Time:-07/24/2020 04:32:37 PMPrinting Start..
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:614
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 07/24/2020 -------------------]
+
+Step16: after printing
+1<==>LabelConnector:Time:-07/24/2020 04:35:06 PM Bind label list...
+3<==>LabelConnector:Time:-07/24/2020 04:35:06 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/24/2020 04:35:06 PMater udf label binding 
+5<==>LabelConnector:Time:-07/24/2020 04:35:06 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/24/2020 04:35:06 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/24/2020 04:35:06 PMafter invprint get 
+1<==>LabelConnector:Time:-07/24/2020 04:37:16 PM Bind label list...
+3<==>LabelConnector:Time:-07/24/2020 04:37:16 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/24/2020 04:37:16 PMater udf label binding 
+5<==>LabelConnector:Time:-07/24/2020 04:37:16 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/24/2020 04:37:16 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/24/2020 04:37:16 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/24/2020 04:37:28 PMData load sucessfully
+P1<==>LabelConnector:Time:-07/24/2020 04:37:36 PMPrinting Start..
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:614
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 07/24/2020 -------------------]
+
+Step16: after printing
+P1<==>LabelConnector:Time:-07/24/2020 04:38:53 PMPrinting Start..
+Step:1 insidefor
+Step:1 insidefor
+Step:2 if header row checked
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:1 insidefor
+Step:3 FieldPropertiesList2
+Step:43
+Step:614
+Step7: before loop
+Step8: Get items for selected order
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step9: In for each getting dimensions start
+Step:10 getting dimenstions end
+Step11: Text printing start..
+Step14: Print text value
+Step:15 before printing
+ErrorFinally : {0}-------------------[ END  - PrintMultipleInvoices - 07/24/2020 -------------------]
+
+Step16: after printing
+1<==>LabelConnector:Time:-07/24/2020 04:39:25 PM Bind label list...
+3<==>LabelConnector:Time:-07/24/2020 04:39:25 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/24/2020 04:39:25 PMater udf label binding 
+5<==>LabelConnector:Time:-07/24/2020 04:39:25 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/24/2020 04:39:25 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/24/2020 04:39:25 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/24/2020 04:39:29 PMData load sucessfully
+P1<==>LabelConnector:Time:-07/24/2020 04:39:32 PMPrinting Start..
+P2<==>LabelConnector:Time:-07/24/2020 04:39:32 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-07/24/2020 04:39:32 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-07/24/2020 04:39:32 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-07/24/2020 04:39:32 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-07/24/2020 04:39:34 PM==after bill addr
+P5<==>LabelConnector:Time:-07/24/2020 04:39:39 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-07/24/2020 04:39:39 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-07/24/2020 04:39:39 PMAfter Getting Field Property List2
+P8<==>LabelConnector:Time:-07/24/2020 04:39:39 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-07/24/2020 04:39:39 PMBefore pdf creation loop start2
+Maping<==>LabelConnector:Time:-07/24/2020 04:39:39 PMProperty FieldInvoiceLineDesc==Property ValuePOWER MANUAL 1500
+Maping<==>LabelConnector:Time:-07/24/2020 04:39:39 PMProperty FieldOther==Property Value
+WRE<==>LabelConnector:Time:-07/24/2020 04:39:39 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-07/24/2020 04:39:39 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-07/24/2020 04:39:39 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 07/24/2020 -------------------]
+
+P2<==>LabelConnector:Time:-07/24/2020 04:39:45 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-07/24/2020 04:39:45 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-07/24/2020 04:39:45 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-07/24/2020 04:39:45 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-07/24/2020 04:39:47 PM==after bill addr
+P5<==>LabelConnector:Time:-07/24/2020 04:39:51 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-07/24/2020 04:39:51 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-07/24/2020 04:39:51 PMAfter Getting Field Property List2
+P8<==>LabelConnector:Time:-07/24/2020 04:39:51 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-07/24/2020 04:39:51 PMBefore pdf creation loop start2
+Maping<==>LabelConnector:Time:-07/24/2020 04:39:51 PMProperty FieldInvoiceLineDesc==Property ValueLight Blue
+Maping<==>LabelConnector:Time:-07/24/2020 04:39:51 PMProperty FieldOther==Property Value
+WRE<==>LabelConnector:Time:-07/24/2020 04:39:51 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-07/24/2020 04:39:51 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-07/24/2020 04:39:52 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 07/24/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 07/24/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 07/24/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 07/24/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 07/24/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 07/24/2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 07/24/2020 -------------------]
+
+19<==>LabelConnector:Time:-07/24/2020 06:09:16 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-07/24/2020 06:09:17 PMGet Barcode value ResponseList Generated.
+21<==>LabelConnector:Time:-07/24/2020 06:09:17 PMcheck Barcode IndexOf condition start
+22<==>LabelConnector:Time:-07/24/2020 06:09:17 PMcheck Barcode IndexOf condition matched sucessufully
+23<==>LabelConnector:Time:-07/24/2020 06:09:17 PMreturn Barcode value as0103358660122
+19<==>LabelConnector:Time:-07/24/2020 06:09:23 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-07/24/2020 06:09:23 PMGet Barcode value ResponseList Generated.
+21<==>LabelConnector:Time:-07/24/2020 06:09:23 PMcheck Barcode IndexOf condition start
+22<==>LabelConnector:Time:-07/24/2020 06:09:23 PMcheck Barcode IndexOf condition matched sucessufully
+23<==>LabelConnector:Time:-07/24/2020 06:09:23 PMreturn Barcode value as0103358660122
+19<==>LabelConnector:Time:-07/24/2020 06:09:29 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-07/24/2020 06:09:30 PMGet Barcode value ResponseList Generated.
+21<==>LabelConnector:Time:-07/24/2020 06:09:30 PMcheck Barcode IndexOf condition start
+22<==>LabelConnector:Time:-07/24/2020 06:09:30 PMcheck Barcode IndexOf condition matched sucessufully
+23<==>LabelConnector:Time:-07/24/2020 06:09:30 PMreturn Barcode value as0103358660122
+19<==>LabelConnector:Time:-07/24/2020 06:09:35 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-07/24/2020 06:09:36 PMGet Barcode value ResponseList Generated.
+21<==>LabelConnector:Time:-07/24/2020 06:09:36 PMcheck Barcode IndexOf condition start
+22<==>LabelConnector:Time:-07/24/2020 06:09:36 PMcheck Barcode IndexOf condition matched sucessufully
+23<==>LabelConnector:Time:-07/24/2020 06:09:36 PMreturn Barcode value as0103358660122
+19<==>LabelConnector:Time:-07/24/2020 06:09:41 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-07/24/2020 06:09:42 PMGet Barcode value ResponseList Generated.
+21<==>LabelConnector:Time:-07/24/2020 06:09:42 PMcheck Barcode IndexOf condition start
+22<==>LabelConnector:Time:-07/24/2020 06:09:42 PMcheck Barcode IndexOf condition matched sucessufully
+23<==>LabelConnector:Time:-07/24/2020 06:09:42 PMreturn Barcode value as0103358660122
+19<==>LabelConnector:Time:-07/24/2020 06:09:46 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-07/24/2020 06:09:47 PMGet Barcode value ResponseList Generated.
+21<==>LabelConnector:Time:-07/24/2020 06:09:47 PMcheck Barcode IndexOf condition start
+22<==>LabelConnector:Time:-07/24/2020 06:09:47 PMcheck Barcode IndexOf condition matched sucessufully
+23<==>LabelConnector:Time:-07/24/2020 06:09:47 PMreturn Barcode value as0103358660122

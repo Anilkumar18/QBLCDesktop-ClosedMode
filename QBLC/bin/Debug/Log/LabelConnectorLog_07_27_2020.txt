@@ -1,0 +1,60 @@
+1<==>LabelConnector:Time:-07/27/2020 05:40:10 PM Bind label list...
+3<==>LabelConnector:Time:-07/27/2020 05:40:12 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/27/2020 05:40:12 PMater udf label binding 
+5<==>LabelConnector:Time:-07/27/2020 05:40:13 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/27/2020 05:40:18 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/27/2020 05:40:19 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/27/2020 05:41:19 PMData load sucessfully
+1<==>LabelConnector:Time:-07/27/2020 05:41:22 PM Bind label list...
+3<==>LabelConnector:Time:-07/27/2020 05:41:22 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/27/2020 05:41:23 PMater udf label binding 
+5<==>LabelConnector:Time:-07/27/2020 05:41:25 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/27/2020 05:41:31 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/27/2020 05:41:33 PMafter invprint get 
+1<==>LabelConnector:Time:-07/27/2020 05:51:18 PM Bind label list...
+3<==>LabelConnector:Time:-07/27/2020 05:51:18 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/27/2020 05:51:18 PMater udf label binding 
+5<==>LabelConnector:Time:-07/27/2020 05:51:18 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/27/2020 05:51:18 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/27/2020 05:51:18 PMafter invprint get 
+1<==>LabelConnector:Time:-07/27/2020 06:06:52 PM Bind label list...
+3<==>LabelConnector:Time:-07/27/2020 06:06:52 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/27/2020 06:06:52 PMater udf label binding 
+5<==>LabelConnector:Time:-07/27/2020 06:06:52 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/27/2020 06:06:52 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/27/2020 06:06:52 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/27/2020 06:08:58 PMData load sucessfully
+1<==>LabelConnector:Time:-07/27/2020 06:09:29 PM Bind label list...
+3<==>LabelConnector:Time:-07/27/2020 06:09:29 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/27/2020 06:09:29 PMater udf label binding 
+5<==>LabelConnector:Time:-07/27/2020 06:09:29 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/27/2020 06:09:29 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/27/2020 06:09:29 PMafter invprint get 
+1<==>LabelConnector:Time:-07/27/2020 07:03:46 PM Bind label list...
+3<==>LabelConnector:Time:-07/27/2020 07:03:46 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/27/2020 07:03:46 PMater udf label binding 
+5<==>LabelConnector:Time:-07/27/2020 07:03:46 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/27/2020 07:03:46 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/27/2020 07:03:46 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/27/2020 07:03:49 PMData load sucessfully
+1<==>LabelConnector:Time:-07/27/2020 07:03:55 PM Bind label list...
+3<==>LabelConnector:Time:-07/27/2020 07:03:55 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/27/2020 07:03:55 PMater udf label binding 
+5<==>LabelConnector:Time:-07/27/2020 07:03:55 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/27/2020 07:03:55 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/27/2020 07:03:55 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/27/2020 07:03:57 PMData load sucessfully
+1<==>LabelConnector:Time:-07/27/2020 07:04:21 PM Bind label list...
+3<==>LabelConnector:Time:-07/27/2020 07:04:21 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/27/2020 07:04:21 PMater udf label binding 
+5<==>LabelConnector:Time:-07/27/2020 07:04:21 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/27/2020 07:04:21 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/27/2020 07:04:21 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/27/2020 07:04:23 PMData load sucessfully
+1<==>LabelConnector:Time:-07/27/2020 07:04:25 PM Bind label list...
+3<==>LabelConnector:Time:-07/27/2020 07:04:25 PMB4 udf label binding 
+4<==>LabelConnector:Time:-07/27/2020 07:04:25 PMater udf label binding 
+5<==>LabelConnector:Time:-07/27/2020 07:04:25 PMb4 setting printer name 
+7<==>LabelConnector:Time:-07/27/2020 07:04:25 PMb4 invprint get 
+8<==>LabelConnector:Time:-07/27/2020 07:04:25 PMafter invprint get 
+1a<==>LabelConnector:Time:-07/27/2020 07:04:27 PMData load sucessfully

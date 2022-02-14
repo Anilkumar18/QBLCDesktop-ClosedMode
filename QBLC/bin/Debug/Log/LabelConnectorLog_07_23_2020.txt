@@ -1,0 +1,334 @@
+1<==>LabelConnector:Time:-23-07-2020 01:46:09 PM Bind label list...
+3<==>LabelConnector:Time:-23-07-2020 01:46:09 PMB4 udf label binding 
+4<==>LabelConnector:Time:-23-07-2020 01:46:09 PMater udf label binding 
+5<==>LabelConnector:Time:-23-07-2020 01:46:09 PMb4 setting printer name 
+7<==>LabelConnector:Time:-23-07-2020 01:46:09 PMb4 invprint get 
+8<==>LabelConnector:Time:-23-07-2020 01:46:09 PMafter invprint get 
+1a<==>LabelConnector:Time:-23-07-2020 01:46:13 PMData load sucessfully
+P1<==>LabelConnector:Time:-23-07-2020 01:46:40 PMPrinting Start..
+P2<==>LabelConnector:Time:-23-07-2020 01:46:40 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-23-07-2020 01:46:40 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-23-07-2020 01:46:40 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-23-07-2020 01:46:40 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-23-07-2020 01:46:41 PM==after bill addr
+P5<==>LabelConnector:Time:-23-07-2020 01:46:43 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-23-07-2020 01:46:43 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-23-07-2020 01:46:43 PMAfter Getting Field Property List3
+P8<==>LabelConnector:Time:-23-07-2020 01:46:43 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-23-07-2020 01:46:43 PMBefore pdf creation loop start3
+Maping<==>LabelConnector:Time:-23-07-2020 01:46:43 PMProperty FieldInvoiceLineItemRefFullName==Property Value1000-MC
+Maping<==>LabelConnector:Time:-23-07-2020 01:46:43 PMProperty FieldInvoiceLineDesc==Property ValueMANUAL COVER 1000
+WRE<==>LabelConnector:Time:-23-07-2020 01:46:43 PMPDF Writing Done
+IMS<==>LabelConnector:Time:-23-07-2020 01:46:43 PMConvert PDF to Image start
+IME<==>LabelConnector:Time:-23-07-2020 01:46:43 PMConvert PDF to Image End
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+P1<==>LabelConnector:Time:-23-07-2020 01:48:54 PMPrinting Start..
+P2<==>LabelConnector:Time:-23-07-2020 01:48:54 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-23-07-2020 01:48:54 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-23-07-2020 01:48:54 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-23-07-2020 01:48:54 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-23-07-2020 01:48:56 PM==after bill addr
+P5<==>LabelConnector:Time:-23-07-2020 01:48:58 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-23-07-2020 01:48:58 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-23-07-2020 01:48:58 PMAfter Getting Field Property List4
+P8<==>LabelConnector:Time:-23-07-2020 01:48:58 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-23-07-2020 01:48:58 PMBefore pdf creation loop start4
+Maping<==>LabelConnector:Time:-23-07-2020 01:48:58 PMProperty FieldInvoiceLineItemRefFullName==Property Value1000-MC
+Maping<==>LabelConnector:Time:-23-07-2020 01:48:58 PMProperty FieldInvoiceLineDesc==Property ValueMANUAL COVER 1000
+ErrorCatch : {0}System.IO.FileNotFoundException: E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\Debug\PdfPrintImagesList\Invoice\Invoice.Tiff
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at QBLC.frmPrintLabel.<>c__DisplayClass112_1.<Print>b__0(Object sndr, PrintPageEventArgs args) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\frmPrintLabel.cs:line 9087
+   at System.Drawing.Printing.PrintDocument.OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintDocument._OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintController.PrintLoop(PrintDocument document)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at QBLC.frmPrintLabel.Print(String FileName, Int32 pintprintqty) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\frmPrintLabel.cs:line 9112
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+1<==>LabelConnector:Time:-23-07-2020 03:28:18 PM Bind label list...
+3<==>LabelConnector:Time:-23-07-2020 03:28:19 PMB4 udf label binding 
+4<==>LabelConnector:Time:-23-07-2020 03:28:19 PMater udf label binding 
+5<==>LabelConnector:Time:-23-07-2020 03:28:19 PMb4 setting printer name 
+2<==>LabelConnector:Time:-23-07-2020 03:28:19 PM Get PO upper grid data start...
+3<==>LabelConnector:Time:-23-07-2020 03:28:22 PM Open QB connection started ...
+4<==>LabelConnector:Time:-23-07-2020 03:28:26 PM QB DoRequest processes started...
+5<==>LabelConnector:Time:-23-07-2020 03:28:27 PM QB DoRequest processes completed...
+6<==>LabelConnector:Time:-23-07-2020 03:28:27 PM Open QB connection ended ...
+7<==>LabelConnector:Time:-23-07-2020 03:28:27 PM QB Generate responselist...
+9<==>LabelConnector:Time:-23-07-2020 03:28:27 PM Get PO upper grid data end...
+1a<==>LabelConnector:Time:-23-07-2020 03:28:57 PMData load sucessfully
+1<==>LabelConnector:Time:-23-07-2020 03:28:59 PM Bind label list...
+3<==>LabelConnector:Time:-23-07-2020 03:28:59 PMB4 udf label binding 
+4<==>LabelConnector:Time:-23-07-2020 03:28:59 PMater udf label binding 
+5<==>LabelConnector:Time:-23-07-2020 03:28:59 PMb4 setting printer name 
+7<==>LabelConnector:Time:-23-07-2020 03:28:59 PMb4 invprint get 
+8<==>LabelConnector:Time:-23-07-2020 03:28:59 PMafter invprint get 
+1a<==>LabelConnector:Time:-23-07-2020 03:29:02 PMData load sucessfully
+P1<==>LabelConnector:Time:-23-07-2020 03:29:36 PMPrinting Start..
+P2<==>LabelConnector:Time:-23-07-2020 03:29:36 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-23-07-2020 03:29:36 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-23-07-2020 03:29:36 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-23-07-2020 03:29:36 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-23-07-2020 03:29:37 PM==after bill addr
+P5<==>LabelConnector:Time:-23-07-2020 03:29:39 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-23-07-2020 03:29:39 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-23-07-2020 03:29:39 PMAfter Getting Field Property List4
+P8<==>LabelConnector:Time:-23-07-2020 03:29:39 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-23-07-2020 03:29:39 PMBefore pdf creation loop start4
+Maping<==>LabelConnector:Time:-23-07-2020 03:29:39 PMProperty FieldInvoiceLineItemRefFullName==Property Value1000-MC
+Maping<==>LabelConnector:Time:-23-07-2020 03:29:39 PMProperty FieldInvoiceLineDesc==Property ValueMANUAL COVER 1000
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+P1<==>LabelConnector:Time:-23-07-2020 03:30:52 PMPrinting Start..
+P2<==>LabelConnector:Time:-23-07-2020 03:42:21 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-23-07-2020 03:42:21 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-23-07-2020 03:42:22 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-23-07-2020 03:42:22 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-23-07-2020 03:42:23 PM==after bill addr
+P5<==>LabelConnector:Time:-23-07-2020 03:42:26 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-23-07-2020 03:42:27 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-23-07-2020 03:42:28 PMAfter Getting Field Property List4
+P8<==>LabelConnector:Time:-23-07-2020 03:42:32 PMAfter Getting header Field List3
+P10<==>LabelConnector:Time:-23-07-2020 03:42:57 PMBefore pdf creation loop start4
+Maping<==>LabelConnector:Time:-23-07-2020 03:43:09 PMProperty FieldInvoiceLineItemRefFullName==Property Value1000-MC
+Maping<==>LabelConnector:Time:-23-07-2020 03:43:19 PMProperty FieldInvoiceLineDesc==Property ValueMANUAL COVER 1000
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+P1<==>LabelConnector:Time:-23-07-2020 03:45:33 PMPrinting Start..
+P2<==>LabelConnector:Time:-23-07-2020 03:45:33 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-23-07-2020 03:45:33 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-23-07-2020 03:45:33 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-23-07-2020 03:45:33 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-23-07-2020 03:45:34 PM==after bill addr
+P5<==>LabelConnector:Time:-23-07-2020 03:45:36 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-23-07-2020 03:45:36 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-23-07-2020 03:45:36 PMAfter Getting Field Property List4
+P8<==>LabelConnector:Time:-23-07-2020 03:45:36 PMAfter Getting header Field List3
+ErrorFinally : {0}-------------------[ END  - PrintMultipleImages - 23-07-2020 -------------------]
+
+P1<==>LabelConnector:Time:-23-07-2020 03:50:11 PMPrinting Start..
+P2<==>LabelConnector:Time:-23-07-2020 03:50:11 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-23-07-2020 03:50:11 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-23-07-2020 03:50:11 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-23-07-2020 03:50:11 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-23-07-2020 03:50:13 PM==after bill addr
+P5<==>LabelConnector:Time:-23-07-2020 03:50:16 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-23-07-2020 03:50:16 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-23-07-2020 03:50:16 PMAfter Getting Field Property List4
+P8<==>LabelConnector:Time:-23-07-2020 03:50:16 PMAfter Getting header Field List3
+ErrorFinally : {0}-------------------[ END  - PrintMultipleImages - 23-07-2020 -------------------]
+
+P1<==>LabelConnector:Time:-23-07-2020 03:51:13 PMPrinting Start..
+P2<==>LabelConnector:Time:-23-07-2020 03:51:13 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-23-07-2020 03:51:13 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-23-07-2020 03:51:13 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-23-07-2020 03:51:13 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-23-07-2020 03:51:18 PM==after bill addr
+P5<==>LabelConnector:Time:-23-07-2020 03:51:26 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-23-07-2020 03:51:26 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-23-07-2020 03:51:26 PMAfter Getting Field Property List4
+P8<==>LabelConnector:Time:-23-07-2020 03:51:26 PMAfter Getting header Field List3
+ErrorFinally : {0}-------------------[ END  - PrintMultipleImages - 23-07-2020 -------------------]
+
+P1<==>LabelConnector:Time:-23-07-2020 03:52:47 PMPrinting Start..
+P2<==>LabelConnector:Time:-23-07-2020 03:52:47 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-23-07-2020 03:52:47 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-23-07-2020 03:52:47 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-23-07-2020 03:52:47 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-23-07-2020 03:52:49 PM==after bill addr
+P5<==>LabelConnector:Time:-23-07-2020 03:52:51 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-23-07-2020 03:52:51 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-23-07-2020 03:52:51 PMAfter Getting Field Property List4
+P8<==>LabelConnector:Time:-23-07-2020 03:52:51 PMAfter Getting header Field List3
+ErrorFinally : {0}-------------------[ END  - PrintMultipleImages - 23-07-2020 -------------------]
+
+P1<==>LabelConnector:Time:-23-07-2020 03:53:19 PMPrinting Start..
+P2<==>LabelConnector:Time:-23-07-2020 03:53:19 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-23-07-2020 03:53:19 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-23-07-2020 03:53:19 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-23-07-2020 03:53:19 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-23-07-2020 03:53:20 PM==after bill addr
+P5<==>LabelConnector:Time:-23-07-2020 03:53:24 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-23-07-2020 03:53:24 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-23-07-2020 03:53:24 PMAfter Getting Field Property List4
+P8<==>LabelConnector:Time:-23-07-2020 03:53:24 PMAfter Getting header Field List3
+ErrorFinally : {0}-------------------[ END  - PrintMultipleImages - 23-07-2020 -------------------]
+
+P1<==>LabelConnector:Time:-23-07-2020 05:26:01 PMPrinting Start..
+P2<==>LabelConnector:Time:-23-07-2020 05:26:01 PMGet Label nameInvoice
+P3<==>LabelConnector:Time:-23-07-2020 05:26:01 PMGet Printer nameMicrosoft Print to PDF
+P4<==>LabelConnector:Time:-23-07-2020 05:26:01 PMBefore return Invoice data
+IP1<==>LabelConnector:Time:-23-07-2020 05:26:01 PMInvoice data retrival start
+IP22<==>LabelConnector:Time:-23-07-2020 05:26:02 PM==after bill addr
+P5<==>LabelConnector:Time:-23-07-2020 05:26:04 PMAfter return Invoice data1
+P6<==>LabelConnector:Time:-23-07-2020 05:26:04 PMBefore Getting Field Property List
+P7<==>LabelConnector:Time:-23-07-2020 05:26:04 PMAfter Getting Field Property List4
+P8<==>LabelConnector:Time:-23-07-2020 05:26:04 PMAfter Getting header Field List3
+ErrorFinally : {0}-------------------[ END  - PrintMultipleImages - 23-07-2020 -------------------]
+
+1<==>LabelConnector:Time:-23-07-2020 05:59:51 PM Bind label list...
+3<==>LabelConnector:Time:-23-07-2020 05:59:52 PMB4 udf label binding 
+4<==>LabelConnector:Time:-23-07-2020 05:59:52 PMater udf label binding 
+5<==>LabelConnector:Time:-23-07-2020 05:59:52 PMb4 setting printer name 
+1a<==>LabelConnector:Time:-23-07-2020 06:00:05 PMData load sucessfully
+1<==>LabelConnector:Time:-23-07-2020 06:01:49 PM Bind label list...
+3<==>LabelConnector:Time:-23-07-2020 06:01:49 PMB4 udf label binding 
+4<==>LabelConnector:Time:-23-07-2020 06:01:49 PMater udf label binding 
+5<==>LabelConnector:Time:-23-07-2020 06:01:50 PMb4 setting printer name 
+1a<==>LabelConnector:Time:-23-07-2020 06:02:01 PMData load sucessfully
+19<==>LabelConnector:Time:-23-07-2020 06:02:20 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-23-07-2020 06:02:21 PMGet Barcode value ResponseList Generated.
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+19<==>LabelConnector:Time:-23-07-2020 06:03:04 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-23-07-2020 06:03:05 PMGet Barcode value ResponseList Generated.
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+19<==>LabelConnector:Time:-23-07-2020 06:03:48 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-23-07-2020 06:03:49 PMGet Barcode value ResponseList Generated.
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+19<==>LabelConnector:Time:-23-07-2020 06:04:41 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-23-07-2020 06:04:42 PMGet Barcode value ResponseList Generated.
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+19<==>LabelConnector:Time:-23-07-2020 06:05:22 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-23-07-2020 06:05:23 PMGet Barcode value ResponseList Generated.
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+19<==>LabelConnector:Time:-23-07-2020 06:06:17 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-23-07-2020 06:06:18 PMGet Barcode value ResponseList Generated.
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+19<==>LabelConnector:Time:-23-07-2020 06:06:53 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-23-07-2020 06:06:54 PMGet Barcode value ResponseList Generated.
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+19<==>LabelConnector:Time:-23-07-2020 06:07:33 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-23-07-2020 06:07:35 PMGet Barcode value ResponseList Generated.
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+19<==>LabelConnector:Time:-23-07-2020 06:08:23 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-23-07-2020 06:08:25 PMGet Barcode value ResponseList Generated.
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+19<==>LabelConnector:Time:-23-07-2020 06:09:33 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-23-07-2020 06:09:34 PMGet Barcode value ResponseList Generated.
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+19<==>LabelConnector:Time:-23-07-2020 06:13:54 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-23-07-2020 06:13:55 PMGet Barcode value ResponseList Generated.
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+1<==>LabelConnector:Time:-23-07-2020 06:54:44 PM Bind label list...
+3<==>LabelConnector:Time:-23-07-2020 06:54:44 PMB4 udf label binding 
+4<==>LabelConnector:Time:-23-07-2020 06:54:44 PMater udf label binding 
+5<==>LabelConnector:Time:-23-07-2020 06:54:44 PMb4 setting printer name 
+2<==>LabelConnector:Time:-23-07-2020 06:54:44 PM Get PO upper grid data start...
+3<==>LabelConnector:Time:-23-07-2020 06:54:44 PM Open QB connection started ...
+4<==>LabelConnector:Time:-23-07-2020 06:54:45 PM QB DoRequest processes started...
+5<==>LabelConnector:Time:-23-07-2020 06:54:46 PM QB DoRequest processes completed...
+6<==>LabelConnector:Time:-23-07-2020 06:54:46 PM Open QB connection ended ...
+7<==>LabelConnector:Time:-23-07-2020 06:54:46 PM QB Generate responselist...
+8<==>LabelConnector:Time:-23-07-2020 06:54:46 PMloList is generated
+9<==>LabelConnector:Time:-23-07-2020 06:54:46 PM Get PO upper grid data end...
+9<==>LabelConnector:Time:-23-07-2020 06:54:46 PM binding order grid data start...
+10<==>LabelConnector:Time:-23-07-2020 06:54:46 PM binding order grid data end...
+1a<==>LabelConnector:Time:-23-07-2020 06:54:47 PMData load sucessfully
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+1<==>LabelConnector:Time:-23-07-2020 07:19:17 PM Bind label list...
+3<==>LabelConnector:Time:-23-07-2020 07:19:17 PMB4 udf label binding 
+4<==>LabelConnector:Time:-23-07-2020 07:19:17 PMater udf label binding 
+5<==>LabelConnector:Time:-23-07-2020 07:19:17 PMb4 setting printer name 
+2<==>LabelConnector:Time:-23-07-2020 07:19:17 PM Get PO upper grid data start...
+3<==>LabelConnector:Time:-23-07-2020 07:19:17 PM Open QB connection started ...
+4<==>LabelConnector:Time:-23-07-2020 07:19:19 PM QB DoRequest processes started...
+5<==>LabelConnector:Time:-23-07-2020 07:19:19 PM QB DoRequest processes completed...
+6<==>LabelConnector:Time:-23-07-2020 07:19:19 PM Open QB connection ended ...
+7<==>LabelConnector:Time:-23-07-2020 07:19:19 PM QB Generate responselist...
+8<==>LabelConnector:Time:-23-07-2020 07:19:19 PMloList is generated
+9<==>LabelConnector:Time:-23-07-2020 07:19:19 PM Get PO upper grid data end...
+9<==>LabelConnector:Time:-23-07-2020 07:19:19 PM binding order grid data start...
+10<==>LabelConnector:Time:-23-07-2020 07:19:19 PM binding order grid data end...
+1a<==>LabelConnector:Time:-23-07-2020 07:19:21 PMData load sucessfully
+ErrorCatch : {0}System.IO.FileNotFoundException: E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\Debug\PdfPrintImagesList\PO\PO.Tiff
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at QBLC.frmPrintLabel.<>c__DisplayClass112_1.<Print>b__0(Object sndr, PrintPageEventArgs args) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\frmPrintLabel.cs:line 9087
+   at System.Drawing.Printing.PrintDocument.OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintDocument._OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintController.PrintLoop(PrintDocument document)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at QBLC.frmPrintLabel.Print(String FileName, Int32 pintprintqty) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\frmPrintLabel.cs:line 9112
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+ErrorCatch : {0}System.IO.FileNotFoundException: E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\Debug\PdfPrintImagesList\PO\PO.Tiff
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at QBLC.frmPrintLabel.<>c__DisplayClass112_1.<Print>b__0(Object sndr, PrintPageEventArgs args) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\frmPrintLabel.cs:line 9087
+   at System.Drawing.Printing.PrintDocument.OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintDocument._OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintController.PrintLoop(PrintDocument document)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at QBLC.frmPrintLabel.Print(String FileName, Int32 pintprintqty) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\frmPrintLabel.cs:line 9112
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+1<==>LabelConnector:Time:-23-07-2020 07:25:06 PM Bind label list...
+3<==>LabelConnector:Time:-23-07-2020 07:25:06 PMB4 udf label binding 
+4<==>LabelConnector:Time:-23-07-2020 07:25:06 PMater udf label binding 
+5<==>LabelConnector:Time:-23-07-2020 07:25:06 PMb4 setting printer name 
+1a<==>LabelConnector:Time:-23-07-2020 07:25:23 PMData load sucessfully
+19<==>LabelConnector:Time:-23-07-2020 07:25:56 PMGet Barcode value open connection.
+20<==>LabelConnector:Time:-23-07-2020 07:25:57 PMGet Barcode value ResponseList Generated.
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+ErrorCatch : {0}System.IO.FileNotFoundException: E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\Debug\PdfPrintImagesList\New Item print list\New Item print list.Tiff
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at LabelConnector.FrmPrintByItemSearch.<>c__DisplayClass46_1.<Print>b__0(Object sndr, PrintPageEventArgs args) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\FrmPrintByItemSearch.cs:line 1854
+   at System.Drawing.Printing.PrintDocument.OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintDocument._OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintController.PrintLoop(PrintDocument document)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at LabelConnector.FrmPrintByItemSearch.Print(String FileName, Int32 pintprintqty) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\FrmPrintByItemSearch.cs:line 1873
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+ErrorCatch : {0}System.IO.FileNotFoundException: E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\Debug\PdfPrintImagesList\New Item print list\New Item print list.Tiff
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at LabelConnector.FrmPrintByItemSearch.<>c__DisplayClass46_1.<Print>b__0(Object sndr, PrintPageEventArgs args) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\FrmPrintByItemSearch.cs:line 1854
+   at System.Drawing.Printing.PrintDocument.OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintDocument._OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintController.PrintLoop(PrintDocument document)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at LabelConnector.FrmPrintByItemSearch.Print(String FileName, Int32 pintprintqty) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\FrmPrintByItemSearch.cs:line 1873
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+
+ErrorCatch : {0}System.IO.FileNotFoundException: E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\Debug\PdfPrintImagesList\New Item print list\New Item print list.Tiff
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at LabelConnector.FrmPrintByItemSearch.<>c__DisplayClass46_1.<Print>b__0(Object sndr, PrintPageEventArgs args) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\FrmPrintByItemSearch.cs:line 1854
+   at System.Drawing.Printing.PrintDocument.OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintDocument._OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintController.PrintLoop(PrintDocument document)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at LabelConnector.FrmPrintByItemSearch.Print(String FileName, Int32 pintprintqty) in E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\FrmPrintByItemSearch.cs:line 1873
+ErrorFinally : {0}-------------------[ END  - Print - 23-07-2020 -------------------]
+

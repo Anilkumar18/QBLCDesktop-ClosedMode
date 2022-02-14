@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<QuickBooks>
+  <template templatename="invoice">
+    <Static>Static</Static>
+    <ItemIncrement>ItemIncrement</ItemIncrement>
+    <InvoiceLineItemRefFullName>Item Name/Number</InvoiceLineItemRefFullName>
+    <InvoiceLineDesc>Desc</InvoiceLineDesc>
+    <CustomerRefFullName>Customer Name</CustomerRefFullName>
+    <InvoiceLineQuantity>InvoiceQty</InvoiceLineQuantity>
+    <PrintLblQty>PrintLblQty</PrintLblQty>
+    <QtyOnLabel>QtyOnLabel</QtyOnLabel>
+    <InvoiceLineAmount>Amount</InvoiceLineAmount>
+    <InvoiceLineRate>Rate</InvoiceLineRate>
+    <PONumber>PONumber</PONumber>
+    <SerialNumber>SerialNumber</SerialNumber>
+    <SerialQuantity>SerialQuantity</SerialQuantity>
+    <TimeStamp>Current Time</TimeStamp>
+    <DateStamp>Current Date</DateStamp>
+    <RefNumber>InvoiceNumber</RefNumber>
+    <BarCodeValue>BarCodeValue</BarCodeValue>
+    <ShipAddressAddr1>ShipAddressAddr1</ShipAddressAddr1>
+    <ShipAddressAddr2>ShipAddressAddr2</ShipAddressAddr2>
+    <ShipAddressAddr3>ShipAddressAddr3</ShipAddressAddr3>
+    <ShipAddressAddr4>ShipAddressAddr4</ShipAddressAddr4>
+    <ShipAddressAddrPostalCode>ShipAddressAddrPostalCode</ShipAddressAddrPostalCode>
+    <ShipAddressCity>ShipAddressCity</ShipAddressCity>
+    <ShipAddressState>ShipAddressState</ShipAddressState>
+    <ShipAddressCountry>ShipAddressCountry</ShipAddressCountry>
+    <ShipAddressMethod>ShipAddressMethod</ShipAddressMethod>
+    <ShipDate>ShipDate</ShipDate>
+    <BillAddressAddr1>BillAddressAddr1</BillAddressAddr1>
+    <BillAddressAddr2>BillAddressAddr2</BillAddressAddr2>
+    <citystatezip>CityStateZip</citystatezip>
+    <FOB>FOB</FOB>
+    <Other>Other</Other>
+    <Other1>Other1</Other1>
+    <Other2>Other2</Other2>
+    <SalesRepRef>SalesRep</SalesRepRef>
+    <TxnDate>Invoice Date</TxnDate>
+    <PrefVendorRefFullName>Vendor Name</PrefVendorRefFullName>
+    <InvoiceLineLotNumber>InvoiceLineLotNumber</InvoiceLineLotNumber>
+    <LinkTxnRefNumber>S.O.NO.</LinkTxnRefNumber>
+    <MPN>MPN</MPN>
+    <InvoiceLineUnitOfMeasure>UOM</InvoiceLineUnitOfMeasure>
+	<SubItemof>SubItemof</SubItemof>
+  </template>
+  <CustomItemFields>
+    <Category>Category</Category>
+    <Color>Color</Color>
+    <Material>Material</Material>
+  </CustomItemFields>
+</QuickBooks>

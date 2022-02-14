@@ -1,0 +1,160 @@
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\LabelConnector.exe.config
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\LabelConnector.exe
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\LabelConnector.pdb
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\BouncyCastle.Crypto.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Common.Logging.Core.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Common.Logging.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Control.Draggable.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\itextsharp.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Newtonsoft.Json.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NPOI.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NPOI.OOXML.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NPOI.OpenXml4Net.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NPOI.OpenXmlFormats.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NReco.PdfRenderer.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\QlmControls.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\QlmLicenseLib.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\BouncyCastle.Crypto.xml
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Common.Logging.pdb
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Common.Logging.xml
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Common.Logging.Core.pdb
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Common.Logging.Core.xml
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\itextsharp.xml
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NPOI.xml
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NReco.PdfRenderer.xml
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\de\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\es\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\fr\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\it\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\ja\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\pt\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\sv\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\de\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\es\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\fr\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\it\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\ja\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\pt\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\sv\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Interop.BarTender.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\Interop.BarTender.dll
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\QBLC.csproj.ResolveComReference.cache
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\QBLC.frmAbout.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmAddEditFieldBarCode.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmAddEditField.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmAddEditTemplateHeader.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmAddImages.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmConfirmPopup.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmConnectQuickBooks.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmDivQuantitySetting.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmInventoryReport.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.frmInvoicePrintModeConfig.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmItemListSettingcs.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\QBLC.frmLabelConfig.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.frmLabelConfigTuchScreen.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmLabelDesign.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPOScreenSetting.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPrintbyItem.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPrintByItemSearch.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPrintByItemTouchScreen.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPrinterSetting.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\QBLC.frmPrintLabel.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.frmPrintLabelTuchScreen.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPrintWeatherOnly.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPrintWeatherOnlyTouchScreen.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmQLMLicencePopup.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmReceiptList.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmTemplateOperation.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.ImportTemplate.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.LabelConnectorSettings.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.PackagingSetting.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.Properties.Resources.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.QBDataAccessSetting.resources
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\QBLC.csproj.GenerateResource.cache
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.exe.licenses
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\QBLC.csproj.CoreCompileInputs.cache
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\QBLC.csproj.CopyComplete
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.exe
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\LabelConnector.exe.config
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\LabelConnector.exe
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\LabelConnector.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\BouncyCastle.Crypto.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Common.Logging.Core.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Common.Logging.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Control.Draggable.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\itextsharp.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Newtonsoft.Json.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NPOI.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NPOI.OOXML.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NPOI.OpenXml4Net.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NPOI.OpenXmlFormats.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NReco.PdfRenderer.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\QlmControls.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\QlmLicenseLib.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\BouncyCastle.Crypto.xml
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Common.Logging.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Common.Logging.xml
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Common.Logging.Core.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Common.Logging.Core.xml
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\itextsharp.xml
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NPOI.xml
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\NReco.PdfRenderer.xml
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\de\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\es\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\fr\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\it\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\ja\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\pt\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\sv\QlmControls.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\de\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\es\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\fr\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\it\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\ja\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\pt\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\sv\QlmLicenseLib.resources.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\bin\x86\Debug\Interop.BarTender.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\Interop.BarTender.dll
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\QBLC.csproj.ResolveComReference.cache
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\QBLC.frmAbout.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmAddEditFieldBarCode.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmAddEditField.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmAddEditTemplateHeader.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmAddImages.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmConfirmPopup.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmConnectQuickBooks.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmDivQuantitySetting.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmInventoryReport.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.frmInvoicePrintModeConfig.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmItemListSettingcs.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\QBLC.frmLabelConfig.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.frmLabelConfigTuchScreen.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmLabelDesign.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPOScreenSetting.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPrintbyItem.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPrintByItemSearch.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPrintByItemTouchScreen.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPrinterSetting.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\QBLC.frmPrintLabel.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.frmPrintLabelTuchScreen.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPrintWeatherOnly.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmPrintWeatherOnlyTouchScreen.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmQLMLicencePopup.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmReceiptList.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.frmSalesReceiptSetting.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.FrmTemplateOperation.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.ImportTemplate.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.LabelConnectorSettings.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.LabelConnectorSettingsTuchScreen.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.PackagingSetting.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.Properties.Resources.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.QBDataAccessSetting.resources
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\QBLC.csproj.GenerateResource.cache
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.exe.licenses
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\QBLC.csproj.CopyComplete
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.exe
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\QBLC\obj\x86\Debug\LabelConnector.pdb

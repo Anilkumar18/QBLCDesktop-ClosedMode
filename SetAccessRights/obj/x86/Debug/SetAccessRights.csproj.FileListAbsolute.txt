@@ -1,0 +1,13 @@
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\x86\Debug\SetAccessRights.exe.config
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\x86\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\x86\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\x86\Debug\SetAccessRights.csprojAssemblyReference.cache
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\x86\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\x86\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\x86\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\x86\Debug\SetAccessRights.exe.config
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\x86\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\SetAccessRights\bin\x86\Debug\SetAccessRights.pdb
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\x86\Debug\SetAccessRights.csprojAssemblyReference.cache
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\x86\Debug\SetAccessRights.exe
+E:\TamilRK\QB and Sage Projects\Test files\Sales Receipts\QBLC_22June2020\QBLC_22June2020\SetAccessRights\obj\x86\Debug\SetAccessRights.pdb

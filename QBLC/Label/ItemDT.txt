@@ -1,0 +1,13 @@
+
+N
+q408
+Q203,24+0
+S6
+D8
+ZT
+TTh:m
+TDy2.mn.dd
+OD
+A35,24,0,4,1,2,N,"XXXX-XXX-XX-XX-X-XXXX"
+A32,112,0,5,1,1,N,"SN:"
+P1
